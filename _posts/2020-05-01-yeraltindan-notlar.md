@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yeraltından Notlar
-date: 2020-05-01 00:00:00 +0300
+date: 2020-05-01
 description: 
 category: Kitap
 img: notes_underground1.jpg
