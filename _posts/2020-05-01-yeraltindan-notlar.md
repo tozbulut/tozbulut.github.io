@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Yeraltından Notlar
 date: 2020-05-01
 description: 
