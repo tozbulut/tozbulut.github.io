@@ -1,0 +1,19 @@
+Bugün kadınların bilimde o kadar olmasa da diğer alanlarda ilerlemesinin önünde toplumsal engeller var mı?
+
+MeToo hareketi ve Holywood da kadın aktrislerin daha düşük ücret aldığının anlaşılması gibi son yıllarda yaşanan gelişmeler sizce kadınların toplumdaki yeri açısından anlamlı mı?  Sosyal medyayı bu bağlamda anlamlı buluyor muyuz? Twitter bu rolü sonuna kadar üstlenmeye gönüllü gözüküyor.
+
+Atatürk'ün burada çağının ötesine geçtiğini görüyoruz.  Türkiye açısından bu çok anlamlı. Ben insanın gerekli bilimsel düşünceye, hayatın gerçekliği ile ilgili görüş açıklığına sahip olduğunda çağın önüne geçebileceğini görüyoruz.
+
+Cumhuriyet'in ilk yıllarındaki kadına yönelik düşüncenin geri kalanından daha önde olması çok değerli aslında. Buraya yapılan vurguyu çok anlamlı buldum. Muazzez İlmiye Çığ bu neslin bir örneği. Hala kanlı canlı. Devrim yapmış olmanın ateşi yüz yaşındaki bu sevimli hanımefendinin içinde.
+
+Cinsiyet insanın varoluşunda çok önemli bir yer tutuyor. Bilim dünyası bu sorunun cevabına henüz tam anlamıyla vakıf değil. 
+
+
+Kadın erkek eşitsizliğinin Nasıl olur da toplumumuzda böyle bir hata olabilir. Kadın erkek sayısındaki farklılık. Yönetim pozisyonlarında kadınların sayısının düşük olması.
+
+Biyolojik mi kültürel mi? Kültürel ise değiştirilmesi gerekir. 
+
+
+Suffragette Hareketi
+
+
