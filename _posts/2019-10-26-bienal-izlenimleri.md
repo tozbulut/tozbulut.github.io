@@ -1,5 +1,5 @@
 ---
-title: 16. İstanbul Bienali İzlenimleri
+title: Onaltıncı İstanbul Bienali İzlenimleri
 date: 2019-10-27
 description:  26 Ekim Cumartesi günü nihayet 16. İstanbul Bienali'ni görmek için Bienal'in mekanlarından biri olan Tophane'deki MSGSÜ İstanbul Resim ve Heykel Müzesine gittim. İstanbul Kültür Sanat Vakfı (İKSV) tarafından düzenlenen ve katılımın ücretsiz olduğu Bienale bu yıl 500000 ziyaretçi bekleniyor.dd # Add post description (optional)
 img: yedinci-kita.jpg
