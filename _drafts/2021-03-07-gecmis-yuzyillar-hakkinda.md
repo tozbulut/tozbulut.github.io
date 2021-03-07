@@ -32,6 +32,7 @@ Unutmayalım ki aşağıdaki Birleşik Krallık monarklarının neredeyse hepsi 
 * George V (1910 – 1936)
 * Edward VII (1936)
 * George VI (1936 – 1952)
+* Elizabeth II (1952 - Günümüz)
 
 Bizde sultanlar Mehmed V Reşad öncesi kesinlikle sembolik değil. İçeride devamlı bir kavga hali var.
 Burada aslında muhtemelen bu aradaki tansiyonun diğer ülkeler tarafından desteklendiğini de söyleyebiliriz.
@@ -41,11 +42,13 @@ Türkiye'de bugün bile bu drama varlığını hissettiriyor. Kurumlar da güçl
 * Sultan II. Mahmut (1808 – 1839)
 * Sultan II. Abdülmecit (1839 – 1861)
 * Abdülaziz (1861 – 1876) : Tahttan indirildi. Mithat Paşa ile mücadelesine girip kazanıyor. Şüpheli bir şekilde ölüyor.
-* Murat 5 (1876 – 1876)
+* Murat 5 (1876)
 * Sultan II. Abdulhamit (1876 – 1909) : İttihat ve Terakki tarafından tahttan indiriliyor.
 * Mehmed V Reşâd (1909 – 1918) (Sembolik)
 * Vahideddin (1918 – 1922) (Sembolik)
 
+* 31 Ekim 1918'de Osmanlı Teslim oluyor.
+* 23 Ekim 1923'de Cumhuriyet kuruluyor. 
 --------------
 ## Gelecek Bölümlere Dair
 
