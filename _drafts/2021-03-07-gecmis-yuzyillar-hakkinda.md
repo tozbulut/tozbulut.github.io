@@ -34,21 +34,23 @@ Unutmayalım ki aşağıdaki Birleşik Krallık monarklarının neredeyse hepsi 
 * George VI (1936 – 1952)
 * Elizabeth II (1952 - Günümüz)
 
-Bizde sultanlar Mehmed V Reşad öncesi kesinlikle sembolik değil. İçeride devamlı bir kavga hali var.
+Bizde sultanlar Mehmed V Reşad öncesi kesinlikle sembolik değil. Devamlı bir kavga hali var. Ayaklanmalardan önümüzü göremiyoruz.
 Burada aslında muhtemelen bu aradaki tansiyonun diğer ülkeler tarafından desteklendiğini de söyleyebiliriz.
 Zaman zaman bu ülkeler farklı grupları destekleyerek ülkenin iç politika mücadelesini keskinleştirip ülkeninin dış politikasına etki edebiliyorlar.
 Türkiye'de bugün bile bu drama varlığını hissettiriyor. Kurumlar da güçlü olmayınca ortalıkta her an kan gövdeyi götürebiliyor.
 
-* Sultan II. Mahmut (1808 – 1839)
-* Sultan II. Abdülmecit (1839 – 1861)
-* Abdülaziz (1861 – 1876) : Tahttan indirildi. Mithat Paşa ile mücadelesine girip kazanıyor. Şüpheli bir şekilde ölüyor.
-* Murat 5 (1876)
-* Sultan II. Abdulhamit (1876 – 1909) : İttihat ve Terakki tarafından tahttan indiriliyor.
-* Mehmed V Reşâd (1909 – 1918) (Sembolik)
+* İkinci Mahmut (1808 – 1839) : Yeniçeriyi kaldırdı. 
+* İkinci Abdülmecit (1839 – 1861) : Alafranga.
+* Abdülaziz (1861 – 1876) : Mithat Paşa ile mücadelesine girip kazanıyor. Erkân-ı erbaa tarafından hal edildi. Şüpheli bir şekilde ölüyor. 
+* Beşinci Murat (1876) : Akli dengesini kaybediyor. Çok kısa tahtta kaldı.
+* Sultan İkinci Abdulhamit (1876 – 1909) : İttihat ve Terakki tarafından tahttan indirildi. Güçlü bir kişiliği var.
+* Sultan Reşâd (1909 – 1918) (Sembolik)
 * Vahideddin (1918 – 1922) (Sembolik)
 
-* 31 Ekim 1918'de Osmanlı Teslim oluyor.
-* 23 Ekim 1923'de Cumhuriyet kuruluyor. 
+1918'de Osmanlı teslim oluyor ve 23 Ekim 1023'de Cumhuriyetin kurulması ile bitiyor.
+
+Güç mücadelelerini özellikle savaşlar ve imparatorluğun toprak kaybı ile beraber okumak gerekiyor.
+
 --------------
 ## Gelecek Bölümlere Dair
 
@@ -57,11 +59,11 @@ Türkiye'de bugün bile bu drama varlığını hissettiriyor. Kurumlar da güçl
 * 1. Dünya Savaşı : The Great War 1914 ve 1918 yılları arasında oldu. Bildiğimiz üzere Osmanlı İmparatorluğu savaşa katılacak. 
 * Birinci Dünya Savaşı Sonrası Dönem (1918 - 1919)
 * 4 Temmuz 1918 : Vahdettini'n tahta çıkışı.
-* 9 Kasım 1918: Weimar Cumhuriyeti kuruluşuç
+* 9 Kasım 1918: Weimar Cumhuriyeti kuruluşu.
 * Great Depression (A.D. 1929 to A.D. 1939)
 * İkinci Dünya Savaşı : 1939 to A.D. 1945 bu dönemde Berlin işgal edilene kadar Avrupa dümdüz oluyor. Amerika ağırlığını koyuyor. Türkiye savaşa katılmıyor.
 * Contemporary Period (A.D. 1945 to current) 
-* Soğuk Savaş  - Start date: 1947 End date: 1991 : Bu dönem Sovyetler ve Amerika arasındaki tansiyon hissedilir ölçüde. Atom bombası sebebiyle 
+* Soğuk Savaş  - Start date: 1947 End date: 1991 : Bu dönem Sovyetler ve Amerika arasındaki tansiyon hissedilir ölçüde. Her iki tarafın mutual destruction'a sahip olması sebebiyle çok önemli.
 
 Daha sonra güncel dönemi de 1990'lar, 2000'ler, 2010'lar ve 2020'ler olarakayırabiliriz diye düşünüyorum.
 Öncelikle Vİctoryen çağ ile başlayalım. Victoryen çağ kraliçe victoria'nın ölümü ile başlamaktadır. 
