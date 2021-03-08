@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "tozbulut.io"
+  name             : "TozBulut.io"
   avatar           : "profile2.png"
-  bio              : "Lorem ipsum dolor sit amet, consectetur adipiscing."
+  bio              : "Gezegendeki Olası Hayatlardan Birinin Bir Tarifnamesi"
   location         : "İstanbul / Türkiye"
   employer         :
   pubmed           : 
@@ -99,7 +99,7 @@ author:
   github           : 
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "acsariyildiz"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
