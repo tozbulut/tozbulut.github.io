@@ -1,4 +1,5 @@
 ---
+layout: single2
 permalink: /
 excerpt: "About me"
 author_profile: true
