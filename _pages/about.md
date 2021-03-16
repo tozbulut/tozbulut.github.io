@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Derin Mavi adını IBM tarafından geliştirilen satranç oynayan robotun adından alıyor. "Deep Blue" 1994 yılında Philedelpia'da ikonik bir biçimde dünya satranç şampiyonu Garry Kasparov ile yarışmıştı. Yapay zeka'nın insana karşı mücadelesi çağımızın ikilemini gözler önüne seriyordu.
+
 <h2 id="tables" style=" margin-top: 0.5em; ">2021</h2>
 <table style="border: 0px;">
   <tbody>
