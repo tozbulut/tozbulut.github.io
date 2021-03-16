@@ -10,7 +10,7 @@ redirect_from:
 
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
-  <tr><td style="border: 0px;"><a style=" text-decoration: none; color: inherit;" href="https://derinmavi.io/posts/2020/05/8-mart">2021-06-03 8 Mart Dünya Kadınlar Günü</a></td></tr>
+  <tr><td style="border: 0px;"><a style=" text-decoration: none; color: inherit;" href="https://derinmavi.io/posts/2020/05/8-mart">2021-06-03 Sekiz Mart Dünya Kadınlar Günü</a></td></tr>
   </tbody>
 </table>
 
