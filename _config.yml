@@ -11,9 +11,9 @@ title                    : "Derinmavi"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://tozbulut.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://derinmavi183.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tozbulut/derinmavi.github.io"
+repository               : "derinmavi183/derinmavi183.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tozbulut.io"
+  name             : "Derin Mavi"
   avatar           : "profile2.png"
   bio              : "☄️ Gezegendeki olası hayatlardan ☁️ birinin bir tarifnamesi... 🌙"
   location         : "İstanbul / Türkiye"
