@@ -11,7 +11,7 @@ tags: [Dostoyevski, İnsan, Roman, Psikoloji]
 Yeraltından Notlar uzun zamandır okumak istediğim bir romandı. Dostoyevski'nin insan doğasını anlatmaktaki iyi olduğu yönünde bir yorum var. Yeraltından Notlar, Dostoyevski'nin en "garip" çalışması. Roman boyunca ana tema Dostoyevski'nin *insandaki en büyük güç ve aynı zamanda en göze çarpan zayıflık* olduğuna inandığı yoğun kendilik duygusu.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/n1.jpg" alt="Fyodor Dostoyevski"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/n1.jpg" alt="Fyodor Dostoyevski"></div>
    <div class="two column"></div>
 </div>
 
@@ -23,7 +23,7 @@ Yeraltından Notlar için ne söylenebilir? Büyük düşünceleri bir kenara b�
 
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/n7.jpg" alt="Yeraltından Notlar"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/n7.jpg" alt="Yeraltından Notlar"></div>
    <div class="two column"></div>
 </div>
 
@@ -35,7 +35,7 @@ Dostoyevski'nin incelikle kurguladığı sahnede notların yazarı bir tür kend
 Söyleyeceğini karaktere söyleterek anlatımı güçlendirip önyargıyı kırdıktan sonra bunu çağın ve insanının ruhunu anlatmak için kullanacak. Notların yazarının hayata bakışını anlattığı bölümde ilginç bölümler var.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/n2.jpg" alt="Yeraltı Lisa"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/n2.jpg" alt="Yeraltı Lisa"></div>
    <div class="two column"></div>
 </div>
 
