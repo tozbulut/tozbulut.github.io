@@ -11,7 +11,7 @@ tags: [Sanat, Aksiyon Odaklılık] # add tag
 26 Ekim Cumartesi günü nihayet 16. İstanbul Bienali'ni görmek için Bienal'in mekanlarından biri olan Tophane'deki MSGSÜ İstanbul Resim ve Heykel Müzesine gittim. İstanbul Kültür Sanat Vakfı (İKSV) tarafından düzenlenen ve katılımın ücretsiz olduğu Bienale bu yıl 500000 ziyaretçi bekleniyor. Bienal üç mekanda yapılıyor. Büyükada, Pera Müzesi, ve MSGSÜ. İsterseniz belli bir ücret ödeyerek rehberli turlara katılabiliyorsunuz.  
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/yedinci-kita.jpg" alt="Yedinci Kıta"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/yedinci-kita.jpg" alt="Yedinci Kıta"></div>
    <div class="two column"></div>
 </div>
 
@@ -31,7 +31,7 @@ Rehberdeki açıklama şöyle:
 > Tarihi Haliç Tersaneleri'nde bir senedir süren yoğun çalışmalarmıza rağmen Bienal'in gerçekleştireceği alandaki asbestli malzemelerin halen temizlenenememiş olması nedeniyle mekanı kullanmama kararı aldık. Durumun insan sağlığı ve güvenliğini tehdit edebilecek olması bizi böyle bir kararı almaya mevcut bıraktı. Tam bu noktada Mimar Sinan Üniversitesi Güzel Sanatlar Fakültesi, Mart 2020 de üniversite bünyesinde İstanbul Resim ve Heykel Müzesi olarak kapılarını açacak beş numaralı Antrepo’nun, 2005 ve 2011 yıllarında olduğu gibi bienale ev sahipliği yapmasını kabul etti.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/msgsu-5nolu-antrepo.jpg" alt="5 numaralı Antrepo"/></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/msgsu-5nolu-antrepo.jpg" alt="5 numaralı Antrepo"/></div>
    <div class="two column"></div>
 </div>
 
@@ -53,7 +53,7 @@ Bunlar üzerinden bir temel inşa etmenin inanılmaz derecede pratik olduğunu d
 ### Suzanne Treister - Bahçıvan HFT
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/HFT_HFT-Diagram3.jpg" alt="Suzanne Treister - Bahçıvan HFT" /></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/HFT_HFT-Diagram3.jpg" alt="Suzanne Treister - Bahçıvan HFT" /></div>
    <div class="two column"></div>
 </div>
 
@@ -71,7 +71,7 @@ Suzanne Treister, resim ve videolarının yanı sıra internet temelli ve işbir
 ### Johannes Büttner - Başka bir yaşam olasılığı kendisini yanan bir polis arabasında doğrudan, arkadaşlarımın yüzlerinde ise dolaylı olarak ifade eder, 2019
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/buttner.jpg" alt="Johannes Büttner"/></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/buttner.jpg" alt="Johannes Büttner"/></div>
    <div class="two column"></div>
 </div>
 
@@ -81,7 +81,7 @@ Bianel Tanıtımından:
 ### Mika Rottenberg - Spagetti Blok Zinciri
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/spagetti.jpg" alt="Spagetti Blok Zinciri"/></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/spagetti.jpg" alt="Spagetti Blok Zinciri"/></div>
    <div class="two column"></div>
 </div>
 
@@ -91,7 +91,7 @@ Bianel Tanıtımından:
 ### Ursula Mayer - Atom Ruhu
 *2016, 16 mm on HD, 20 min*
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/atom-spirith.jpg" alt="Atom Spirith" /></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/atom-spirith.jpg" alt="Atom Spirith" /></div>
    <div class="two column"></div>
 </div>
 
@@ -108,7 +108,7 @@ Filmi İzlemek İçin:
 *With history in a room filled with people with funny names 4, HD Video: 23’28”*
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/KorakritArunanondchai.png" alt="Korakrit Arunanondchai"/></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/KorakritArunanondchai.png" alt="Korakrit Arunanondchai"/></div>
    <div class="two column"></div>
 </div>
    
