@@ -17,7 +17,20 @@ layout: default
 <div id="main" role="main">
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <div class=""><div itemscope="" itemtype="http://schema.org/Person"><div class="author__content"><h3 class="author__name">Derin Mavi</h3><p class="author__bio" style="font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size: .75em; line-height: 1.5; margin-top: 10px; margin-bottom: 20px;">☄️ Gezegendeki olası hayatlardan ☁️ birinin bir tarifnamesi... 🌙</p></div><div class="author__urls-wrapper"> <button class="btn btn--inverse">Follow</button><ul class="author__urls social-icons"><li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> İstanbul / Türkiye</li><li><a href="https://instagram.com/acsariyildiz"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li></ul></div></div></div>
+<div class="">
+   <div itemscope="" itemtype="http://schema.org/Person">
+      <div class="author__content">
+         <h3 class="author__name">Derin Mavi</h3>
+         <p class="author__bio" style="font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size: .75em; line-height: 1.5; margin-top: 10px; margin-bottom: 20px;">☄️ Gezegendeki olası hayatlardan ☁️ birinin bir tarifnamesi... 🌙</p>
+      </div>
+      <div class="author__urls-wrapper">
+         <button class="btn btn--inverse">Follow</button><ul class="author__urls social-icons" style="font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size: .75em; line-height: 1.5; margin-top: 10px; margin-bottom: 20px;" >
+         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> İstanbul / Türkiye</li>
+         <li><a href="https://instagram.com/acsariyildiz"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+         </ul>
+      </div>
+   </div>
+  
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
