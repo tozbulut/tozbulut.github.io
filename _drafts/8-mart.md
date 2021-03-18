@@ -7,7 +7,17 @@ permalink: posts/2020/05/8-mart
 tags: [Kadınlar, Bilim]
 ---
 
+Yeraltından Notlar uzun zamandır okumak istediğim bir romandı. Dostoyevski’nin insan doğasını anlatmaktaki iyi olduğu yönünde bir yorum var. Yeraltından Notlar, Dostoyevski’nin en “garip” çalışması. Roman boyunca ana tema Dostoyevski’nin insandaki en büyük güç ve aynı zamanda en göze çarpan zayıflık olduğuna inandığı yoğun kendilik duygusu.
+
+8 Mart tüm dünyada cinsiyetler  siyasi ve sosyal bilincinin geliştirilmesine, ekonomik, siyasi ve sosyal başarılarının kutlanmasına ayrılıyor.
+
 Hayatlarımızın kadınlar ve erkekler olarak nasıl şekillendiği aslında çok dikkate değer bir konu. Kültürün bireye temas noktalarından biri burası aslında. Çağımızda kadın olmak, Türkiye'de kadın olmak, Çağımızda erkek olmak, Türkiye'de erkek olmak dediğimiz zaman bu bir takım hikayelerle dolu bir paketi kabullenmek demek. Burada bir bilinç ortaya koyabilmek hayatlarımızın kalitesi açısından önemli.
+
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/8march.jpg" alt="8 Mart"></div>
+   <div class="two column"></div>
+</div>
+
 
 Bugün Dünya toplumlarına baktığımızda insanlığın karşı karşıya kaldığı bir çok temel sorun çözülmüş görünse de hala büyük sorunlar var. Cinsiyetler arası eşitsizlik bu sorunlar arasında başı çekiyor. Dünya Kadınlar Günü 8 Mart'ta bütün dünya genelinde insan hakları temelinde kadınların siyasi ve sosyal bilincinin geliştirilmesine, ekonomik, siyasi ve sosyal başarılarının kutlanmasına ayrılıyor.
 
@@ -24,7 +34,7 @@ Peki genç bir kadın için bu ne anlama geliyor? Genç bir kadın bilmeli ki d�
 Kadınlar günü dünyaya sol düşüncenin armağanı. Tıpkı çalışma saatleri gibi bir çok faydasından biri. Ama unutmayalım bu olağanüstü değiştirici fikirlerin yakıcılığı büyük oldu. Geçmiş nesillerin günahlarını burada görüyoruz. Tıpkı Stalin'in işçi haklarından ziyade kendi güç mücadelesini umursadığı gibi bu kadar radikal düşünce akılla ilişkisi yok. O zaman tarihsel olarak bakıldığında belki bir bilinçli solculuk var bir de bilinçsiz diyebiliriz. Günümüzde bu biraz karışmış görünüyor.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/8march.jpg" alt="8 Mart"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/ataturk_kadin.jpg" alt="8 Mart"></div>
    <div class="two column"></div>
 </div>
 
