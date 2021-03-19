@@ -35,19 +35,17 @@ Kadınlar günü dünyaya sol düşüncenin armağanı. Tıpkı çalışma saatl
 
 Ülkemizin geçmişine baktığımızda Atatürk'ün kurmuş olduğu Cumhuriyet'te yapılan işlerin çağın ötesine geçmesi gurur verici. Genç Cumhuriyet yeni gelişmekte olan kadın hakları fikrini hemen dinamizmi ile içselleştiriyor. Bu kadına yönelik düşüncenin geri kalanından daha önde olması çok değerli ve gurur verici. Özellikle Türkiye açısından bu çok anlamlı. İnsanların gerekli bilimsel altyapıya, hayatın gerçekliği ile ilgili görüş açıklığına sahip olduğunda etki altında kalmadan çağın önüne geçebileceğinin bir göstergesi.  Bu yüzyılda kadınların araç kullanmasını tartışan Ortadoğu toplumlarına da iyi bir örnek.Muazzez İlmiye Çığ bu neslin bir örneği. Hala kanlı canlı. Devrim yapmış olmanın ateşini yüz yaşındaki bu sevimli hanımefendinin gözlerinde görmek o kadar da zor değil.
 
-
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/muazzez_ilmiye_cig.jpg" alt="8 Mart"></div>
    <div class="two column"></div>
 </div
 
-
 Son dönemde Amerika'da MeToo hareketi ve Hollywood da kadın aktrislerin daha düşük ücret aldığının ortaya çıkması gibi dikkat çeken gelişmeler oldu. Bu yeni gelişmeler olumlu olsa da onları sahiplenen hareketin durumu tartışılıyor. Progressive (ilerlemeci) bu yeni yaklaşım Suffragette Hareketi gibi tarihe adını altın harflerle mi yazdıracak yoksa abartılı ve gereksiz olarak nitelendirilip geri mi çevrilecek. Sosyal medya özellikle de Twitter bu tartışmalarda önemli bir yer oynadığını görüyoruz. Twitter zaman zaman paylaşım platformu kimliğinin dışına çıkarak bu rolü üstlenmeye gönüllü gözüküyor.
 
-Rüzgarla savrulmaktansa konunun derinliğini anlamaya çalışmak faydalı bir tutum olabilir. Cinsiyet insanın varoluşunda çok önemli bir yer tutuyor. Anladığım kadarıyla bilim dünyası da bu sorunun cevabını hala araştırıyor. Fanatik taraftarlar şöyle dursun konuyu önyargısız ve bilimsel olarak ele alan kişiler için bile sorunlar belirli bir karmaşıklıkta. Örneğin kadın ve erkek arasındaki farkların ne kadarı biyolojik ne kadarı kültürel? STEM alanlarında ve yönetim pozisyonlarındaki kadınların sayısındaki azalma nereden kaynaklanıyor? Bu sayıyı müdahale ederek arttırmaya çalışmalı mıyız yoksa bunu doğal bir sonuç olarak mı kabul etmeliyiz?
+Rüzgarla savrulmaktansa konunun derinliğini anlamaya çalışmak faydalı bir tutum olabilir. Cinsiyet insanın varoluşunda çok önemli bir yer tutuyor. Anladığım kadarıyla bilim dünyası da bu sorunun cevabını hala araştırıyor. Fanatik taraftarlar şöyle dursun konuyu önyargısız ve bilimsel olarak ele alan kişiler için bile sorunlar belirli bir karmaşıklıkta. Örneğin kadın ve erkek arasındaki farkların ne kadarı biyolojik ne kadarı kültürel? STEM (Science-Tecnology-Engineering-Medicine) alanlarında ve yönetim pozisyonlarındaki kadınların sayısındaki azalma nereden kaynaklanıyor? Bu sayıyı müdahale ederek arttırmaya çalışmalı mıyız yoksa bunu doğal bir sonuç olarak mı kabul etmeliyiz?
 
-> Rakamlar yalan söylemez; insanlar rakamlarla yalan söyler. -Mark Twain.
+> Rakamlar yalan söylemez; insanlar rakamlarla yalan söyler. -Mark Twain
 
 Rakamlar yalan söylemeyeceğine göre bu eşitsizliğin nereden kaynaklandığı, düzeltilmesinin dikte edilip edilmeyeceği soru işareti. Kendi bireysel düşüncem temkinli olmak gerektiği yönünde. Fikri geliştirenle onu yarı-doğru şekilde yorumlayıp fanatizmini yapan arasında fark var. Bizim de bu fikirlere tepkimiz fanatiklik olmamalı. Özellikle sosyal değişimlerin sonuçları toplumlarda yaralar açabilir. Burada değişimden yana olanlarla değişime karşı olanlar arasında bir tansiyon görüyoruz. Bu tansiyonun akılcılıktan uzak radikal düşüncedeki kişiler tarafından istismar edilmesi riski var.
 
-*Toplumsal Cinsiyet Eşitliği* Birleşmiş Milletlerin yayınladığı sürdürülebilir kalkınma amaçları arasında 5. sırada yer alıyor. Bugün kadınların ilerlemesinin önünde toplumsal engeller olduğunun bir diğer göstergesi. Bu alanda farkındalığı arttırmak adına yapılan etkinlikler önemli.
+*Toplumsal Cinsiyet Eşitliği* Birleşmiş Milletlerin yayınladığı sürdürülebilir kalkınma amaçları arasında 5. sırada yer alıyor. Bugün kadınların ilerlemesinin önünde toplumsal engeller olduğunun bir diğer göstergesi. Genç bir erkek olarak ben de bu alanda farkındalığı arttırmak adına yapılan etkinlikler önemsiyorum.
