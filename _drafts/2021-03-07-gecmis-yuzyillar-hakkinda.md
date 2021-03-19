@@ -1,13 +1,13 @@
 Neden böyle bir yazı?
-İnsanın kendisini tarih içerisinde algılaması önemli diye düşünüyorum.
+İnsanın kendisini tarih içerisinde algılaması önemli.
 Tam anlamıyla bu yüzyılın insanı olabilmek biraz da geçmiş zamanı biraz anlamak demek.
-Dünyanın entelektüel durumu hakkında bir bilgi bu eğlenceli olduğu kadar hayatlarımızı anlamlandırmak açısından da önemli.
-İnsan bir devamlılığın sonucu olduğunu fark ettiğinde ilginç bir duyguya kapılıyor. Ben bu duyguyu olumlu buluyorum.
+Dünyanın entelektüel durumu hakkında bir bilgi bu eğlenceli olduğu kadar hayatlarımızı anlamlandırmamıza da yardımcı olabilir.
+Bu gündelik döngümüzün haricinde bire yaşam olduğunu anlamak ve insanın bir devamlılığın sonucu olduğunu farketmesi anlamına geliyor.
 
 Aslında bakacak olursanız belirli bir seviyeye ulaşmak için gereken çaba oldukça az ve bundan elde edilecek fayda oldukça fazla.
 Hem de ders kitaplarının ya da birinin anlatısından değil spesifik olarak kendi görüşünden tarihi değerebilmek önemli.
 Çünkü tarih sonucunu görebildiğin bir şey. Olaylar ciddi ama geçmişteki insanları ilgilendirdiğinden o kadar da ciddi değiller.
-Bu da bize insana ve dünyaya bakmak için güvenli bir pencere kenarı sunuyor.
+Bu da bize insana ve dünyaya bakmak için güvenli bir pencere sunuyor.
 
 İşte bu amaçla tarih hakkında yazmaya karar verdim.
 Tarih derken günümüzden aşağı yukarı 200 seneden öncesini ben pek tarih olarak düşünmüyorum.
