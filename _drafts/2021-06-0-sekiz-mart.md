@@ -1,5 +1,5 @@
 ---
-title: 8 Mart Dünya Kadınlar Günü
+title: Sekiz Mart Dünya Kadınlar Günü
 date: 2021-06-03
 description: 
 category: Kitap
@@ -14,9 +14,9 @@ tags: [Kadınlar, Bilim]
    <div class="two column"></div>
 </div>
 
-Kendi ailemdeki kadınlara baktığımda çalışan bir annenin oğlu olmaktan gurur duyduğumu söylemeliyim. Kendi annem bu soruna kendince bir yorum getirmeyi başarmış. Hem bir kariyer hem de aileyi birarada tutmayı başarmış. Bunda erken yaşta çocuk sahibi olmasının rolü var. 
+Kendi ailemdeki kadınlara baktığımda çalışan bir annenin oğlu olmaktan gurur duyduğumu söylemeliyim. Kendi annem bu soruna kendince bir yorum getirmeyi başarmış. Hem bir kariyer hem de aileyi bir arada tutmayı başarmış. 1966 doğumlu erken yaşta çocuk sahibi olmuş. Beni 23 yaşında doğurmuş. Beni ve kardeşimi belirli bir yaşa kadar büyüttükten sonra çalışma hayatına başlamış. Bugün kadınların çoğu 23 yaşında çocuk sahibi olmuyor. Kadınların biyolojik olara çocuk doğurabilecekleri sürenin kısıtlı olduğunu düşünecek olursak bu dikkat çekici bir durum.
 
-Peki genç bir kadın için bu ne anlama geliyor? Genç bir kadın bilmeli ki dışarıda onu ezmeye çalışan bir canavar var. Ve bu kadın aslında o canavardan daha güçlü. Canavara adilce karşı durduğunda tüm dünya arkasında yer alacak. Genç kadının canavarın dünyanın kendisi olmadığını bilmesi gerekiyor.
+Genç bir adam olarak toplumun bana da yüklediği bazı "görevler" var aslında. Fakat genç bir kadın için bu bazı noktalarda kıskaç suç teşkil edecek şekilde daralıyor. Artık genç bir kadın için toplumsal bir problemden söz edebilir hale geliyoruz. Genç bir kadın bilmeli ki dışarıda onu ezmeye çalışan bir canavar var. Ve genç kadınların aslında o canavardan daha güçlü olduklarını, canavara adilce karşı durduğunda tüm dünya arkasında yer alacağını, canavarın dünyanın kendisi olmadığını bilmesi gerekiyor. 
 
 Bugün Dünya toplumlarına baktığımızda insanlığın karşı karşıya kaldığı bir çok temel sorun çözülmüş görünse de cinsiyet eşitsizliği başı çekiyor. İnsanlar olarak cinsiyet rollerini içselleştirdiğimiz ölçüde bir bilinç de geliştirmek gerekiyor. İnsanın cinselliğini kişiliğinin geri kalanına ve dünyaya nasıl entegre ettiği de ruhsal durumu açısından çok önemli. Mesela genç bir kadını ele alalım. Genç bir kadın neyle boğuşur. Evlenecek mi yoksa bekar mı kalacak? İş hayatına mı arkadaşlarına mı vakit ayırsın? Düzenli bir ilişkisi var mı? Yaşının dezavantajını nasıl - ki genç yaşın dezavantajı tecrübe eksikliğidir - nasıl kapatıyor?
 
@@ -26,7 +26,7 @@ Eğlenmek amaçlı Dr. Phil'i izlerken bir şey farkettim. Dr. Phil gayet akıll
 
 Öte yandan aktivist kimliğini benimseyen bir çok kişinin konuyu pek de anlamadığını görüyorum. Kadınların üzerinde somut bir baskı olduğunu söylemek yanlış olur. Örneğin bir şirket kadınların burda çalışması yasaktır diyemez. Bu zaten insan haklarına direkt aykırıdır. Kültürün kadınlara karşı tutumu ise daha incelikli bir konu. Pozitif ayrımcılık yalnızca bir denemesi. Ve biraz üzerine düşülmesi gereken bir örnek. Unutmayalım burada ince bir çizgi var.
 
-Kadınlar günü dünyaya sol düşüncenin armağanı. Tıpkı çalışma saatleri gibi bir çok faydasından biri. Ama unutmayalım bu olağanüstü değiştirici fikirlerin yakıcılığı büyük oldu. Geçmiş nesillerin günahlarını burada görüyoruz. Tıpkı Stalin'in işçi haklarından ziyade kendi güç mücadelesini umursadığı gibi bu kadar radikal düşünce akılla ilişkisi yok. O zaman tarihsel olarak bakıldığında belki bir bilinçli solculuk var bir de bilinçsiz diyebiliriz. Günümüzde bu biraz karışmış görünüyor.
+Kadınlar günü dünyaya sol düşüncenin armağanı. Tıpkı çalışma saatleri gibi bir çok faydasından biri. Bu olağanüstü değiştirici fikirlerin yakıcılığı büyük oldu. Geçmiş nesillerin günahlarını burada görüyoruz. Tıpkı Stalin'in işçi haklarından ziyade kendi güç mücadelesini umursadığı gibi radikalleşen solun akılla ilişkisi kesiliyor. O zaman tarihsel olarak bakıldığında belki bir bilinçli solculuk var bir de bilinçsiz diyebiliriz. Günümüzde bu biraz karışmış görünüyor.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/ataturk_kadin.jpg" alt="8 Mart"></div>
