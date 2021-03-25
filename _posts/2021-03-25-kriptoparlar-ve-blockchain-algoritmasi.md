@@ -7,13 +7,13 @@ permalink: posts/2020/05/kriptoparalar-ve-blockchain
 tags: [Kriptopara, Blockchain, Kriptografi]
 ---
 
-Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bu yazıda teknolojinin tüm detaylarını kavrayamasak da iyi bir başlangıç yapabiliriz diye düşünüyorum.
+Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bu yazıda teknolojinin tüm detaylarını kavramıyor olsak da iyi bir tanışma yapmıyoruz. Etrafında dolaşan delilik halini bir yana bırakarak bu yeni ve devrimsel teknolojiyi anlamaya çalışmak önemli diye düşünüyorum.
 
-Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Makalede geçen isim gerçek bir kişi değil yalnızca bir takma addı. Açık kaynaklı, merkezi olmayan ilk dijital para biriminin mucidi ise anonim kaldı. Peki bu makale ile keşfi ilan edilen neydi?
+Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Makaleyi yazan kişi ya da kişiler gerçek isimlerini kullanmadılar Satoshi Nakomoto gerçek bir isim değil yalnızca bir takma addı. Açık kaynaklı, merkezi olmayan ilk dijital para biriminin mucidi ise anonim kaldı.
 
 * Orjinal Bitcoin Makalesi : https://bitcoin.org/bitcoin.pdf
 
-Youtube üzerinde konuyla ilgili pek çok video mevcut ama ben önce algoritmanın işleyişini anlamaya çalıştığımdan bunu basitçe anlatan 3Blue1Brown adlı bir kanalın videosunu beğendim. Bu ve kaynaklarda belirttiğim diğer videolar bu blog gönderisinin temel kaynaklarını oluşturdu. Kaynakları ayrıca belirteceğim.
+Youtube üzerinde konuyla ilgili pek çok video mevcut ama ben işleyişi anlamaya çalıştığımdan bunu basitçe anlatan 3Blue1Brown adlı bir kanalın videosunu beğendim. Bu ve kaynaklarda belirttiğim diğer videolar bu blog gönderisinin temel kaynaklarını oluşturdu. Kaynakları ayrıca belirteceğim.
 
 Peki blockchain'e dönecek olursak. Coinleri üretmek için kullanılan yazılım açık kaynaklı. Bu nedenle isteyen herkes kriptopara üretebiliyor. Bu coinlerin hepsine güvenmek pek doğru değil. Bugün binlerce altcoin var ve bu kriptoparalar dizayn tercihleri anlamında farklılaşabiliyorlar. 
 
