@@ -1,6 +1,15 @@
-Kriptopara kullanmak için pek fazla detay bilmeye gerek olmasa da bu yeni teknolojinin temellerini bilmek önemli. Bu yazıda teknolojinin tüm detaylarını kavrayamasak da iyi bir başlangıç yapabiliriz diye düşünüyorum.
+---
+title: Sekiz Mart Dünya Kadınlar Günü
+date: 2021-06-03
+description: 
+category: Kitap
+permalink: posts/2020/05/8-mart
+tags: [Kadınlar, Bilim]
+---
 
-Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Makalede geçen isim gerçek bir kişi değil yalnızca bir takma addı. Açık kaynaklı, merkezi olmayan ilk dijital para biriminin mucidi anonim.
+Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bu yazıda teknolojinin tüm detaylarını kavrayamasak da iyi bir başlangıç yapabiliriz diye düşünüyorum.
+
+Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Makalede geçen isim gerçek bir kişi değil yalnızca bir takma addı. Açık kaynaklı, merkezi olmayan ilk dijital para biriminin mucidi anonim kaldı. Peki bu makale ile keşfi ilan edilen neydi?
 
 * Orjinal Bitcoin Makalesi : https://bitcoin.org/bitcoin.pdf
 
