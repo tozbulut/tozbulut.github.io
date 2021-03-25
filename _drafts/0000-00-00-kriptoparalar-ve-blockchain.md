@@ -1,10 +1,14 @@
-- [ ] Front matter ekle
-- [ ] Kaynakları belirt
-- [ ] Giriş Kısmını Yaz
+Kriptopara kullanmak için pek fazla detay bilmeye gerek olmasa da bu yeni teknolojinin temellerini bilmek önemli. Bu yazıda teknolojinin tüm detaylarını kavrayamasak da iyi bir başlangıç yapabiliriz diye düşünüyorum.
 
-Kriptopara kullanmak aslında fazla detay bilmeye gerek olmasa da teknolojinin temellerini bilmek önemli. Esrarengiz Satoshi Nakamoto'nun sırrına vakıf olamasak da bu yazıda basit konseptlerden ilerleyerek  blockchain algoritmasını anlamaya çalışacağız.
+Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Makalede geçen isim gerçek bir kişi değil yalnızca bir takma addı. Açık kaynaklı, merkezi olmayan ilk dijital para biriminin mucidi anonim.
 
-Coin üretmek için kullanılan yazılım açık kaynaklı. Bu nedenle isteyen herkes kriptopara üretebiliyor. Üretiyorlar da. Bugün binlerce altcoin var. Bu kriptoparalar dizayn tercihleri anlamında farklılaşabiliyor biz Blockchain ve bitcoin özelinde ilerleyelim.
+* Orjinal Bitcoin Makalesi : https://bitcoin.org/bitcoin.pdf
+
+Youtube üzerinde konuyla ilgili pek çok video mevcut ama ben önce algoritmanın işleyişini anlamaya çalıştığımdan bunu basitçe anlatan bir video gördüğümde çok mutlu oldum. Bu ve kaynaklarda belirttiğim diğer videolar bu blog gönderisinin temel kaynaklarını oluşturdu.
+
+* Michael Nielsen Blog Makalesi : How The Bitcoin Protocol Actually Works - https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
+
+Coinleri üretmek için kullanılan yazılım açık kaynaklı. Bu nedenle isteyen herkes kriptopara üretebiliyor. Üretiyorlar da. Bugün binlerce altcoin var. Bu kriptoparalar dizayn tercihleri anlamında farklılaşabiliyor biz Blockchain ve bitcoin özelinde ilerleyelim.
 
 Bir arkadaş grubu olarak aramızda birbirimize borçlarımızı yazdığımız bir defter (ledger) olsun. Bu defter de dijital bir dosya da olabilir google drive gibi bir yerde tutuyoruz diyelim. Bu defter hepimiz tarafından erişilebilir ve içerisinde kimin kime ne kadar ödediği yazıyor.
 
@@ -222,3 +226,5 @@ Bitcoin içerisinde her bir blok aşağı yukarı 2400 işlem barındırabiliyor
 Bu yavaş işlem durumu Bitcoin'in daha yüksek işlem bedellerine sahip olmasına sebep oluyor.  Çünkü minerların yeni bloklar içerisine koymak için hangi işlemleri seçeceğini bu belirliyor .
 
 Şu anda 15.37 dolar. Aslında bu kripto paraların kapsamlı bir gözden geçirmesi olmaktan çok uzak. Burada ele alınmayan bir çok ayrıntı ve farklı dizayn tercihleri var. Merkle ağaçları, proof of work'e alternatifler, scripting gibi....
+
+### Kaynaklar
