@@ -4,7 +4,9 @@ Açık alanda bir moğol atlısı - tarihin büyük travması - hayatın akış�
 
 #### Clouds In Camarillo
 
-Los Angeles'ın kuzeyinde bir şehir: Camarillo. Camarillo'da bir akıl hastanesi. İçerisinde bir kadın. Ülkemizi de sık sık ziyaret eden David Arthur Brown pek alışılmamış bir Amerikalı. Grubu Brazzaville samimiyet çok kültürlülük yolculuk ve biraz da  kokuyor. Clouds In Camarillo grup üyelerinin boş şehirde dolandığı. Türkiye ile de çok içli dışlı bir grup İstanbul temasını sıklıkla kullanıyorlar.
+Los Angeles'ın kuzeyinde bir şehir: Camarillo. Camarillo'da bir akıl hastanesi. İçerisinde bir kadın. Ülkemizi de sık sık ziyaret eden David Arthur Brown pek alışılmamış bir Amerikalı. Grubu Brazzaville samimiyet çok kültürlülük yolculuk kokuyor. Brazzaville & Minerva'nın grup üyeleri ile beraber boş şehirde dolandığı mavi tonlarındaki klibi son derece etkileyici. Clouds in Camarillo gibi Hotel California'ya da ilham kaynağı olan Camarillo Eyalet Akıl Hastanesi 1997 yılında kapatılmış. Hayaletleri ve hikayeleri ile meşhur bu bina 2002 yılından beri California State University Channel Islands adında üniversite olarak hizmet vermekte.
+
+* https://medium.com/age-of-awareness/hotel-california-426f07f5bfd8
 
 #### Still Alive
 
