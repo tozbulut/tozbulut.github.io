@@ -1,10 +1,22 @@
+#### Yapayzeka'nın İnsani Kaygılarımızın Yerini Alması
+
+Son yılların popüler yazarı Harrari'nin anlattığına göre insan duyguları 
+
+
+#### Harrari
+
+> 7000 yıl önce atalarımız önemsiz hayvanlardı. Tarih öncesi insanlarla ilgili bilinmesi gereken en önemli şey onların önemsiz olduklarıdır.
+Dünyaya etkileri denizanasından, ateşböceğinden ya da ağaçkakandan daha çok değildi. Bugün insanlık dünyayı kontrol ediyor. Soru şu: oradan buraya nasıl geldik?
+Afrika'nın bir köşesinde kendi işleriyle ulaşan önemsiz maymunlardan dünyanın hükümdarı haline geldik? Bireysel seviyede diğer hayvanlarla aramızdaki farka baktığımızda genellikle benim hakkımda özel bir şey olduğuna inanmak istiyorum. Vücudumla beynimle ilgili özel bir şey var diye düşünüyorum. Fakat gerçek şu ki utanç verici ölçüde şempanzeye benziyorum. Şempanze ile ben adaya konulsak şempanze daha iyi iş çıkarır. Bu hepimiz için böyle aslında. Bireysel değil kollektif seviyede farklılaşıyoruz. Şempanzeler ile ilgili yakın ilişki birinin diğerini bilmesi ile ilgili. 10 şempanze 10 insan karşısında daha iyi olsa da sayı büyüdükçe insanlar efektif işbirliği ağları geliştiriyorlar. İnsanlığın bütün başarıları bu özelliğe mal edilebilir. Kötü şeyler de kooperation ürünü. Peki nasıl yapıyoruz? Imagination. Kurgulara inanabiliyoruz. Dil yalnızca gerçeği yansıtmanın dışında kurgusal gerçeklik oluşturmak için de kullanılabilir.
+
+
 #### Kafa Karışıklığı mı analiz mi?
 
 İnsanlar çoğu zaman irade arıyorlar. Su isteyen bir adam örneği verilir. Adam susuzluk çekiyorsa siz tutup yok şunu araştıracağım bunu araştıracağım derseniz adam susuzluktan ölür. Öte yandan çok bilgisizseniz de adamı zehirleyebilirsiniz.
 
 #### Meslekler ve Stereotipler
 
-Mesleklerin bizi stereotipleştirdiğini düşünüyorum. Her mesleğin güçlü ve zayıf yönü var aslında tıpkı bir swot analizi gibi. Bu zayıf ve güçlü yanlar kişiliğimize işliyor. Zayıflıklarımız hoş görülebilir oluyor. Güçlü yanlarımız ödüllendiriliyor. Böylece bir feedback döngüsünün içerisine giriyoruz. Ama burası tehlikenin başladığı yer aslında. İşte dikkat etmemiz gereken tansiyon bu aslında. Bir tercihi yapıp güçlü yanımızı seçerken gözümüzü zayıflığımızdan ayırmamak gerekiyor. Böylece yerimizi sağlamlaştırırken yaptığımız seçimin yakıcı etkilerini hafifletebiliriz. 
+Mesleki deformasyon lafını sıklıkla duyarız. lerin bizi stereotipleştirdiğini düşünüyorum. Her mesleğin güçlü ve zayıf yönü var aslında tıpkı bir swot analizi gibi. Bu zayıf ve güçlü yanlar kişiliğimize işliyor. Zayıflıklarımız hoş görülebilir oluyor. Güçlü yanlarımız ödüllendiriliyor. Böylece bir feedback döngüsünün içerisine giriyoruz. Ama burası tehlikenin başladığı yer aslında. İşte dikkat etmemiz gereken tansiyon bu aslında. Bir tercihi yapıp güçlü yanımızı seçerken gözümüzü zayıflığımızdan ayırmamak gerekiyor. Böylece yerimizi sağlamlaştırırken yaptığımız seçimin yakıcı etkilerini hafifletebiliriz. 
 
 Bilimsel bir alanda çalışan bir kişinin biraz egodan sıyrılmış olduğunu gözlemleyebiliriz. Böyle bir stereotip olduğunu söylemek yanlış olmaz. Stereotipler karikatürize olsalar da sert gerçekleri yansıtır. Bu egodan sıyrılma hali sıkıntıya sebebiyet verebiliyor çünkü insanın doğal hali bu değil. Bu tarz bir tutumda bir yanlışlık var. Çünkü böyle davranan kişi yalnızca kimi zamanlarda işbitirici olmaktan vazgeçmiyor aynı zamanda da ayakları yerden uçabiliyor.
 
