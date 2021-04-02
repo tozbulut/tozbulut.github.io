@@ -1,3 +1,19 @@
+#### Kafa Karışıklığı mı analiz mi?
+
+İnsanlar çoğu zaman irade arıyorlar. Su isteyen bir adam örneği verilir. Adam susuzluk çekiyorsa siz tutup yok şunu araştıracağım bunu araştıracağım derseniz adam susuzluktan ölür. Öte yandan çok bilgisizseniz de adamı zehirleyebilirsiniz.
+
+#### Meslekler ve Stereotipler
+
+Mesleklerin bizi stereotipleştirdiğini düşünüyorum. Her mesleğin güçlü ve zayıf yönü var aslında tıpkı bir swot analizi gibi. Bu zayıf ve güçlü yanlar kişiliğimize işliyor. Zayıflıklarımız hoş görülebilir oluyor. Güçlü yanlarımız ödüllendiriliyor. Böylece bir feedback döngüsünün içerisine giriyoruz. Ama burası tehlikenin başladığı yer aslında. İşte dikkat etmemiz gereken tansiyon bu aslında. Bir tercihi yapıp güçlü yanımızı seçerken gözümüzü zayıflığımızdan ayırmamak gerekiyor. Böylece yerimizi sağlamlaştırırken yaptığımız seçimin yakıcı etkilerini hafifletebiliriz. 
+
+Bilimsel bir alanda çalışan bir kişinin biraz egodan sıyrılmış olduğunu gözlemleyebiliriz. Böyle bir stereotip olduğunu söylemek yanlış olmaz. Stereotipler karikatürize olsalar da sert gerçekleri yansıtır. Bu egodan sıyrılma hali sıkıntıya sebebiyet verebiliyor çünkü insanın doğal hali bu değil. Bu tarz bir tutumda bir yanlışlık var. Çünkü böyle davranan kişi yalnızca kimi zamanlarda işbitirici olmaktan vazgeçmiyor aynı zamanda da ayakları yerden uçabiliyor.
+
+Burada yaşamın kendisi ile olan bağımız emniyet halatımız oluyor. Aslında bir şeyler biliyor ve sezinliyoruz. Ama bu sezinlememiz hatalı değil. Anlamak isteyen için bir ipucu. Yeterince dikkat koyacak olursak gözlemlememiz olası. 
+
+Diğer insanların bu yönünüzü düzeltmek için çaba harcamaması çok riskli. 
+
+Öte yandan fazla işbitiricilik de sığlık demek anlamına gelebiliyor. Bu da yaşamla bağımızı bir nebze koparıyor. Tıpkı diğer insanların tepkilerine dikkat etmek ya da hiç dikkat etmemek gibi. 
+
 #### Steh Auf
 
 Açık alanda bir moğol atlısı - tarihin büyük travması - hayatın akışının işlemeyene, tıkanmış olana getirdiği ferahlatıcı çözüm. Bir rüya sekansından alınan Lindeann Steh Auf un klibinde izleyiciler olarak tüm bu durumu işlemeyen ve tıkananın gözünden görüyoruz. Grup elemanlarının perişan biraz önemsemez durumu trajikomik bir atmosfer yaratıyor. İlaç kullanımı, ruhsal sorunlar, at üstündeki birinin duvarı yıkarak içeri giriyor ve hop kaçırıyor.
