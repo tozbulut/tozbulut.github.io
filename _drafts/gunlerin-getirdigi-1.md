@@ -1,13 +1,15 @@
-#### Yapayzeka'nın İnsani Kaygılarımızın Yerini Alması
+#### Yapay Zeka'nın İnsani Kaygılarımızın Yerini Alması
 
-Son yılların popüler yazarı Harrari'nin anlattığına göre insan duyguları 
+Son yılların popüler yazarı Harrari'nin anlattığına göre insan duyguları . Yönetimsel açıdan bir insanın verimliliği bir yazılım ile karşılaştırılamaz. Yazılımlarımız akıllandıkça insan kurumları hatalardan arınacaktır. Bu ilerleyiş devam ettikçe insan gitgide sistemin kullanıcısı konumuna gelecektir. Mesela hukuk aslında ideal olarak bir yasaya sahiptir. Bildiğimiz üzere "code" sözcüğü İngilizce yasa anlamına da gelir.
 
 
 #### Harrari
 
 > 7000 yıl önce atalarımız önemsiz hayvanlardı. Tarih öncesi insanlarla ilgili bilinmesi gereken en önemli şey onların önemsiz olduklarıdır.
 Dünyaya etkileri denizanasından, ateşböceğinden ya da ağaçkakandan daha çok değildi. Bugün insanlık dünyayı kontrol ediyor. Soru şu: oradan buraya nasıl geldik?
-Afrika'nın bir köşesinde kendi işleriyle ulaşan önemsiz maymunlardan dünyanın hükümdarı haline geldik? Bireysel seviyede diğer hayvanlarla aramızdaki farka baktığımızda genellikle benim hakkımda özel bir şey olduğuna inanmak istiyorum. Vücudumla beynimle ilgili özel bir şey var diye düşünüyorum. Fakat gerçek şu ki utanç verici ölçüde şempanzeye benziyorum. Şempanze ile ben adaya konulsak şempanze daha iyi iş çıkarır. Bu hepimiz için böyle aslında. Bireysel değil kollektif seviyede farklılaşıyoruz. Şempanzeler ile ilgili yakın ilişki birinin diğerini bilmesi ile ilgili. 10 şempanze 10 insan karşısında daha iyi olsa da sayı büyüdükçe insanlar efektif işbirliği ağları geliştiriyorlar. İnsanlığın bütün başarıları bu özelliğe mal edilebilir. Kötü şeyler de kooperation ürünü. Peki nasıl yapıyoruz? Imagination. Kurgulara inanabiliyoruz. Dil yalnızca gerçeği yansıtmanın dışında kurgusal gerçeklik oluşturmak için de kullanılabilir.
+Afrika'nın bir köşesinde kendi işleriyle ulaşan önemsiz maymunlardan dünyanın hükümdarı haline geldik? Bireysel seviyede diğer hayvanlarla aramızdaki farka baktığımızda genellikle benim hakkımda özel bir şey olduğuna inanmak istiyorum. Vücudumla beynimle ilgili özel bir şey var diye düşünüyorum. Fakat gerçek şu ki utanç verici ölçüde şempanzeye benziyorum. Şempanze ile ben adaya konulsak şempanze daha iyi iş çıkarır. Bu hepimiz için böyle aslında. Bireysel değil kollektif seviyede farklılaşıyoruz. Şempanzeler ile ilgili yakın ilişki birinin diğerini bilmesi ile ilgili. 10 şempanze 10 insan karşısında daha iyi olsa da sayı büyüdükçe insanlar efektif işbirliği ağları geliştiriyorlar. İnsanlığın bütün başarıları bu özelliğe mal edilebilir. Kötü şeyler de kooperation ürünü. Peki nasıl yapıyoruz? Imagination. Kurgulara inanabiliyoruz. Dil yalnızca gerçeği yansıtmanın dışında kurgusal gerçeklik oluşturmak için de kullanılabilir. İnsanlar bu kurgulara inanarak organize oluyorlar. Cennet ve cehennem gibi insan hakları yalnızca bir hikaye. Objektif bir gerçeklik değil. Homo sapiens ile ilgili biyolojik bir gerçeklik değil. İnsanı açıp içerisine baksak kalp, nöron, hormon ve DNA buluruz. Hak bulmayız. Hakları bulabilebileceğimiz tek yer yine hikayelerdir. Birkaç yüzyıl önce bulduğumuz ve yaydığımız bu fikirler olumlu olabilirler. Yasal alan gibi politik alan da böyle.
+
+Harrarinin en büyük golü algısındaki sadelik aslında.
 
 
 #### Kafa Karışıklığı mı analiz mi?
