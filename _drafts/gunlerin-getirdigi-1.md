@@ -1,3 +1,7 @@
+#### Steh Auf
+
+Açık alanda bir moğol atlısı - tarihin büyük travması - hayatın akışının işlemeyene, tıkanmış olana getirdiği ferahlatıcı çözüm. Bir rüya sekansından alınan Lindeann Steh Auf un klibinde izleyiciler olarak tüm bu durumu işlemeyen ve tıkananın gözünden görüyoruz. Grup elemanlarının perişan biraz önemsemez durumu trajikomik bir atmosfer yaratıyor. İlaç kullanımı, ruhsal sorunlar, at üstündeki birinin duvarı yıkarak içeri giriyor ve hop kaçırıyor.
+
 #### Clouds In Camarillo
 
 Los Angeles'ın kuzeyinde bir şehir: Camarillo. Camarillo'da bir akıl hastanesi. İçerisinde bir kadın. Ülkemizi de sık sık ziyaret eden David Arthur Brown pek alışılmamış bir Amerikalı. Grubu Brazzaville samimiyet çok kültürlülük yolculuk ve biraz da  kokuyor. Clouds In Camarillo grup üyelerinin boş şehirde dolandığı. Türkiye ile de çok içli dışlı bir grup İstanbul temasını sıklıkla kullanıyorlar.
