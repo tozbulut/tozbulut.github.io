@@ -14,7 +14,7 @@ Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni te
    <div class="two column"></div>
 </div>
 
-Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Makaleyi yazan kişi ya da kişiler gerçek isimlerini kullanmadılar Satoshi Nakomoto gerçek bir isim değil yalnızca bir takma addı. Açık kaynaklı, merkezi olmayan ilk dijital para biriminin mucidi ise anonim kaldı.
+Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Makaleyi yazan kişi ya da kişiler açık kaynaklı, merkezi olmayan ilk dijital para biriminin mucidi aslında bugün bile net değil.
 
 * Orjinal Bitcoin Makalesi : https://bitcoin.org/bitcoin.pdf
 
