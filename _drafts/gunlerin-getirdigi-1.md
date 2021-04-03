@@ -1,3 +1,5 @@
+Türk insanı politikayla fazla içli dışlı. Türkiye'ye çok yıkıcı etkisi oldu.
+
 İnsanlar bir şekilde bozuk bir düzende nasıl ayakta kalacağını da öğrenmeli. Bozuk düzende de bir şekilde ilerleyebilmelidir. Ama düzenin bozukluğuna asla katkıda bulunmanmalı.
 
 Demokrasi vs Cumhuriyet, Ülkelerin adlarında sıklıkla cumhuriyet geçiyor. Ama bu aradaki farklar nelerdir?
