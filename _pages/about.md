@@ -33,7 +33,7 @@ redirect_from:
   <tbody>
 
 
-
+<div style="margin-top:30px;">
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
    
@@ -60,4 +60,5 @@ redirect_from:
 ">2021-06-03 Sekiz Mart Dünya Kadınlar Günü</a></td></tr>
   </tbody>
 </table>
+</div>
 
