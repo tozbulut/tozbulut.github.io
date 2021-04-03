@@ -87,3 +87,42 @@ Otaku, Tsundere
 Animeler nasıl sınıflandırılıyor? 
 
 Animelerin kendine has bir mizah anlayışı var. One Punch Man'de bir sahne bunun çok güzel bir örneği. One Punch Man tek bir yumrukla herhangi bir rakibi yenebilen, ancak ezici gücü nedeniyle meydan okumanın eksikliğinden sıkıldıktan sonra değerli bir rakip bulmaya çalışan bir süper kahraman olan Saitama'nın hikayesini anlatıyor. Bir sahnede Saitama'ya  nasıl bu kadar güçlü olduğunu soruyorlar. O da ne diyeceğini bilemiyor şınav çektim diyor.
+
+
+* Dünya Emekçi Kadınlar günü
+* Marshmellow Deneyi, Hazzı erteleme hayattaki başarı ile doğuştan ilgili.
+* Yani bildiğim kadarıyla IQ nüz de yüksekse hayatta başarılı oluyorsunuz zaten.
+Modern dünyanın sizden beklentisini bir ölçüde yerine getirmiş oluyorsunuz.
+
+
+*İnsanlar olarak istismar ediyoruz. Boşluğu doldurmak doğru. Yemek, Uyku ... Çalışmak bu şekilde istismar edilebilir.
+
+* Nereye? Bir yön bulmak.
+
+* Stoa'nın son yükselişi.
+
+* Ancak kibir ile kör olmak gerekiyor. Bağımsız olarak bir konuda iyi misin?
+İnsan olarak iyisin ama judocu olarak dediğimiz zaman
+
+* Tırnak içinde herşeyi tam ama bir şeyi eksik insandan bahsediyorsunuz ya.
+Eğitim azaltmıyor zaten insanaları bilinç altını bulmaya iten de biraz bu.
+Ama bu insanlar çok az çoğu zaman gerçek bir problemi vardır. 
+Kocaman taş gibi.
+
+* Entelektüel içerikten uzaklaşıyor. Aslında çok dikkatli olması lazım.
+Anne ve babasını terkeden bir çocuk gibi.
+
+* Uzlaştırma
+
+* Her yeni güne başlarken kendine şunları hatırlat.
+Kötülüğün doğası ile ilgili. Kötülüğü yüceltmek işlevsizliği
+
+
+Endişe yönetimi
+Sukunet 
+Bilgelik
+
+* Günlük arınma pratikleri.
+
+* Seneca Ahlaki Mektuplar
+
