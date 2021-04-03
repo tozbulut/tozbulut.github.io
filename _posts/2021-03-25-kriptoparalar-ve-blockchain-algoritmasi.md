@@ -14,15 +14,17 @@ Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni te
    <div class="two column"></div>
 </div>
 
-Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Makaleyi yazan kişi ya da kişiler açık kaynaklı, merkezi olmayan ilk dijital para biriminin mucidi aslında bugün bile net değil.
+Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Üzerinde spekülasyon olan bir kaç kişi olsa da açık kaynaklı, merkezi olmayan ilk dijital para biriminin mucidi ya da mucitleri anonim kalmayı başarmış görünüyor.
 
 * Orjinal Bitcoin Makalesi : https://bitcoin.org/bitcoin.pdf
 
-Youtube üzerinde konuyla ilgili pek çok video mevcut ama ben işleyişi anlamaya çalıştığımdan bunu basitçe anlatan 3Blue1Brown adlı bir kanalın videosunu beğendim. Bu ve kaynaklarda belirttiğim diğer videolar bu blog gönderisinin temel kaynaklarını oluşturdu. Kaynakları ayrıca belirteceğim.
+Kriptoparalar çok ilgi çeken bir konu. Youtube üzerinde konuyla ilgili pek çok video mevcut ama ben işleyişi anlamaya çalıştığımdan bunu basitçe anlatan 3Blue1Brown adlı bir kanalın videosunu tercih ettim. Daha sonradan bu kanalın videosunun kaynağının da aslında bir blog yazısı olduğunu öğrendim. Her ikisine de bu yazının kaynaklar bölümünden ulaşabilirsiniz. 
 
-Peki blockchain'e dönecek olursak. Coinleri üretmek için kullanılan yazılım açık kaynaklı. Bu nedenle isteyen herkes kriptopara üretebiliyor. Bu coinlerin hepsine güvenmek pek doğru değil. Bugün binlerce altcoin var ve bu kriptoparalar dizayn tercihleri anlamında farklılaşabiliyorlar. 
+Peki blockchain'e dönecek olursak. Öncelikle Coinleri üretmek için kullanılan yazılım açık kaynaklı olduğuna dikkat edelim. Bu isteyen herkesin kriptopara üretebileceği anlamına geliyor. Bu coinlerin hepsine güvenmek pek doğru değil. Bugün binlerce altcoin var ve bu kriptoparalar dizayn tercihleri anlamında farklılaşabiliyorlar. 
 
 Bu yazının temel amacı Blockchain işleyişine basit bir açıklama getirmek. Bunu da yaptığı düşüncesindeyim.
+
+### Nasıl Çalışıyor?
 
 Bir arkadaş grubu olarak aramızda birbirimize borçlarımızı yazdığımız bir defter (ledger) var diyelim. Bu defter de dijital bir dosya da olabilir google drive gibi bir yerde tutuyoruz diyelim. Bu defter hepimiz tarafından erişilebilir ve içerisinde kimin kime ne kadar ödediği yazıyor.
 
@@ -81,7 +83,9 @@ z%C*F-JaNdRgUkXp2s5u8x/A?D(G+KbP
 
 Gördüğümüz gibi bu bilgi çok az yer kaplıyor. Modern bilgisayar sistemleriyle taşınması çok kolay. Ama kırılması neredeyse imkansız. Burada şifreleme kısmında biraz daha detaya girecek olursak doğrulama fonksiyonumuz aşağıdaki gibiydi:
 
+```
 Dogrula(Mesaj, 256 Bit İmza, Public Key) = True (İmzalamış)
+```
 
 Burada herkes public key'e imzaya ve mesaja sahip olabilir. İstediği gibi doğrulamaları deneyebilir. Ama imzayı oluşturan secret keyi bilemediğinden başka bir mesaj için imza üretemez. Astronomik bir CPU gücüne sahip olması gerekir. Bu da pratikte mümkün olmayacağından imzayı oluşturan kişinin secret key'in sahibi Ahmet olduğundan emin oluyoruz.
 
@@ -239,7 +243,8 @@ Bitcoin içerisinde her bir blok aşağı yukarı 2400 işlem barındırabiliyor
 
 Bu yavaş işlem durumu Bitcoin'in daha yüksek işlem bedellerine sahip olmasına sebep oluyor.  Çünkü minerların yeni bloklar içerisine koymak için hangi işlemleri seçeceğini bu belirliyor .
 
-Şu anda 15.37 dolar. Aslında bu kripto paraların kapsamlı bir gözden geçirmesi olmaktan çok uzak. Burada ele alınmayan bir çok ayrıntı ve farklı dizayn tercihleri var. Merkle ağaçları, proof of work'e alternatifler, scripting gibi....
+Şu anda 15.37 dolar. Aslında bu kripto paraların kapsamlı bir gözden geçirmesi olmaktan çok uzak. Burada ele alınmayan bir çok ayrıntı ve farklı dizayn tercihleri var. Merkle ağaçları, proof of work'e alternatifler, scripting gibi. Yine de iyi bir giriş olduğunu düşünüyorum.
 
 ### Kaynaklar
+* 3Blue1Brown - https://www.youtube.com/watch?v=bBC-nXj3Ng4&ab_channel=3Blue1Brown
 * Michael Nielsen Blog Makalesi : How The Bitcoin Protocol Actually Works - https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
