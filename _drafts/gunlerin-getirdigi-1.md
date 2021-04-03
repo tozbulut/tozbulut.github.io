@@ -1,3 +1,19 @@
+
+Bir şeylerin anlatılışı nasıl yapıldığından bağımsız değil mi?
+
+#### Anime İle Görüntü İşleme
+
+Bir anime nasıl yapılıyor? Örneğin animeleri izleyerek katagorize edecek bir sistem olamaz mı?
+Animelerle örüntü tanıma gibi. Örneğin aşağıdaki gibi bir sahnede objeler bu anime stillerinde nasıl yansıtılıyor.
+Buradan daha sonra üretim yapabilecek bir yazılım çıkarabilir mi? AI ve örüntü tanıma beraber kullanılarak.
+
+* https://www.youtube.com/watch?v=3Imovk-s40I&ab_channel=MaSTARMedia
+
+
+#### Doğal Dil İşleme
+
+Ufak bir başlangıç yapılabilir diye düşünüyorum. Örneğin objektif bir gerçeklik (somutluk) içeren kelimeleri bulup işaretleyen bir sistem. Kelime sayısını sayan bir sistem. Türkçede özellikle bu alanda ne yapılsa kar. Grammarly'nin Türkçe bir örneğini yapmak feasible mı?
+
 #### Yapay Zeka'nın İnsani Kaygılarımızın Yerini Alması
 
 Son yılların popüler yazarı Harrari'nin anlattığına göre insan duyguları . Yönetimsel açıdan bir insanın verimliliği bir yazılım ile karşılaştırılamaz. Yazılımlarımız akıllandıkça insan kurumları hatalardan arınacaktır. Bu ilerleyiş devam ettikçe insan gitgide sistemin kullanıcısı konumuna gelecektir. Mesela hukuk aslında ideal olarak bir yasaya sahiptir. Bildiğimiz üzere "code" sözcüğü İngilizce yasa anlamına da gelir.
