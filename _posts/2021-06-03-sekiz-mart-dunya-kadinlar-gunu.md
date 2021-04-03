@@ -14,7 +14,7 @@ tags: [Kadınlar, Bilim]
    <div class="two column"></div>
 </div>
 
-Bir grup içerisinde bir şeyin yolunda gitmediğini gördünüz ve bir şekilde değiştiremiyorsunuz diyelim. Bu durumda onu bir kenara öğrenilmiş bir ders olarak not edersiniz. Bu haksızlığı içinize yedirememişsinizdir. Gözünüz hep onun üzerindedir. Ya da artık bozuk düzenin bir parçası olmuşsunuzdur. Hem dünya da biraz böyle değil mi diye düşünürsünüz. Bu noktada belki de siz de değişerek bozuk düzenin kendisi olabilirsiniz.
+Bir grup içerisinde bir şeyin yolunda gitmediğini gördünüz ve bir şekilde değiştiremiyorsunuz diyelim. Bu durumda onu bir kenara öğrenilmiş bir ders olarak not edersiniz. Bu haksızlığı içinize yedirememişsinizdir. Gözünüz hep onun üzerindedir. Ya da artık bozuk düzenin bir parçası olmuşsunuzdur. Hem dünya da biraz böyle değil mi diye düşünürsünüz. Bu anlamda belki de siz de değişerek bozuk düzenin kendisi olabilirsiniz.
 
 Genç bir adam olarak toplumun bana da yüklediği bazı "görevler" var aslında. Fakat genç bir kadın için bu bazı noktalarda kıskaç suç teşkil edecek şekilde daralıyor. Tacizci canavarlar görüyoruz. Artık genç bir kadın için toplumsal bir problemden söz edebilir hale geliyoruz. Genç bir kadın bilmeli ki dışarıda onu ezmeye çalışan bir canavar var. Ama canavar asla dünyanın kendisi değil. Genç kadınlar bilmeli ki aslında o canavardan daha güçlüler ve canavara adilce karşı durduğuklarında tüm dünya arkalarında yer alacak.
 
@@ -31,7 +31,7 @@ Kadınlar günü dünyaya sol düşüncenin armağanı. Tıpkı çalışma saatl
    <div class="two column"></div>
 </div>
 
-Ülkemizin geçmişine baktığımızda Atatürk'ün kurmuş olduğu Cumhuriyet'le gelen ilerlemeyle ülkenin bu noktada çağın ötesine geçmesi insana mutluluk veriyor. Genç Cumhuriyet yeni gelişmekte olan kadın hakları fikrini hemen dinamizmi ile içselleştiriyor. Atatürk bizlere bu kadına yönelik düşüncenin geri kalanından daha önde olması gibi çok değerli ve gurur verici armağanı bırakmış oluyor. Aslında bu hem tüm dünya hem de özellikle Türkiye açısından bu çok anlamlı. İnsanların gerekli bilimsel altyapıya, hayatın gerçekliği ile ilgili görüş açıklığına sahip olduğunda etki altında kalmadan çağın önüne geçebileceğinin bir göstergesi. Bu yüzyılda kadınların araç kullanmasını tartışan Ortadoğu toplumlarına da iyi bir örnek. 
+Ülkemizin geçmişine baktığımızda Atatürk'ün kurmuş olduğu Cumhuriyet'le gelen ilerlemeyle ülkenin bu anlamda çağın ötesine geçmesi insana mutluluk veriyor. Genç Cumhuriyet yeni gelişmekte olan kadın hakları fikrini hemen dinamizmi ile içselleştiriyor. Atatürk bizlere bu kadına yönelik düşüncenin geri kalanından daha önde olması gibi çok değerli ve gurur verici armağanı bırakmış oluyor. Aslında bu hem tüm dünya hem de özellikle Türkiye açısından bu çok anlamlı. İnsanların gerekli bilimsel altyapıya, hayatın gerçekliği ile ilgili görüş açıklığına sahip olduğunda etki altında kalmadan çağın önüne geçebileceğinin bir göstergesi. Bu yüzyılda kadınların araç kullanmasını tartışan Ortadoğu toplumlarına da iyi bir örnek. 
 
 Muazzez İlmiye Çığ bu neslin bir örneği. Hala kanlı canlı. Devrim yapmış olmanın ateşini yüz yaşındaki bu sevimli hanımefendinin gözlerinde görmek o kadar da zor değil. 1914 doğumlu olan Muazzez İlmiye Çığ öyle çok üst bir gelir grubundan gelmiyor. Orta-üst sınıf bir ailenin çocuğu diyebiliriz.
 
@@ -40,9 +40,9 @@ Muazzez İlmiye Çığ bu neslin bir örneği. Hala kanlı canlı. Devrim yapmı
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/muazzez_ilmiye_cig.jpg" alt="8 Mart"></div>
    <div class="two column"></div>
-</div
+</div>
 
-Burada geleneksel toplum yapısı direniyor. Burada alternatif çözümü şeytanlaştırmamak gerek. Geleneksel yapı kadını korumak için bazı mekanizmalar geliştirmiş. Çünkü bu nokta istismar edilmiş kanlı ve acılı bir geçmişin sonucu aslında. Tarihin bir çok evresinde birlikte omuz omuza mücadele veren cinsiyetler asla birbirlerinden nefret etmediler.
+Burada geleneksel toplum yapısı direniyor. Burada alternatif bir çözüme merhametle yaklaşmak gerek. Geleneksel yapı kadını korumak için bazı mekanizmalar geliştirmiş. Çünkü bu istismar edilmiş kanlı ve acılı bir geçmişin sonucu aslında. Tarihin bir çok evresinde birlikte omuz omuza mücadele veren cinsiyetler asla birbirlerinden nefret etmediler.
 
 > Türkiye'nin ve diğer ülkelerin iş gücündeki cinsiyet eşitsizliği incelendiğinde OECD tarafından yıllık açıklanan verilere göre 2019 yılında Türkiye'de kadınların işgücüne katılma oranı %34,4 olarak gerçekleşti.
 
