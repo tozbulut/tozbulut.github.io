@@ -1,4 +1,4 @@
-Türk insanı politikayla fazla içli dışlı. Türkiye'ye çok yıkıcı etkisi oldu.
+Türk insanı politikayla fazla içli dışlı. Bunun ülke'ye çok yıkıcı etkisi oldu. Bu kadar politika düşünmek buna harcanan beyin gücü. Politika etkinin olmadığı bir konu ve sadece belirli bir düzeye kadar ilginç. Belirli bir ulusal bilince sahip olduktan sonra gerisinden edinilecek bir fayda yok.
 
 İnsanlar bir şekilde bozuk bir düzende nasıl ayakta kalacağını da öğrenmeli. Bozuk düzende de bir şekilde ilerleyebilmelidir. Ama düzenin bozukluğuna asla katkıda bulunmanmalı.
 
