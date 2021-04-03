@@ -62,7 +62,9 @@ Ahmet Mehmet'e 20 lira ödediği işlemi "imzala" fonksiyonunu kullanarak imzala
 
 Daha sonra isteyen bir kişi Ahmet'in public key'i ile imza mesaj eşleşmesinin doğru olup olmadığına bakabilir. Ahmetin public key'i herkese açık.
 
+```
 Dogrula(Mesaj, İmza, Public Key) = İmzalamış ya da İmzalamamış (True/False)
+```
 
 Dogrulama ile Ahmet'in gizli anahtarını (secret key) bilmesek de public key'i imza ve mesajla yanyana getirerek. İşlemin geçerliliğini denetleyebiliyoruz. Eğer 1 dönerse (true) dönerse imza gerçek. 0 dönerse (false) o işlem geçersiz demektir.
 
