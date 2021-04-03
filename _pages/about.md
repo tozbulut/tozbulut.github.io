@@ -12,13 +12,23 @@ redirect_from:
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
    
-  <tr><td style="border: 0px; border-top: 1px solid beige;">
-  <a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/posts/2020/05/yeraltindan-notlar">/HAKKINDA /TUM-YAZILAR</a>
-  
-  
+  <tr><td style="border: 0px;">
+  <a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/posts/2020/05/yeraltindan-notlar">Gezegendeki olası hayatlardan ☁️ birinin bir tarifnamesi...</a>
+
   </td></tr>
   </tbody>
 </table>
+
+
+  <tbody>
+   
+  <tr><td style="border: 0px;">
+  <a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/posts/2020/05/yeraltindan-notlar">/hakkinda /arsiv</a>
+  </td></tr>
+  </tbody>
+</table>
+
+
 
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
