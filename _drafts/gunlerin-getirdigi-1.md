@@ -12,6 +12,7 @@ Buradan daha sonra üretim yapabilecek bir yazılım çıkarabilir mi? AI ve ör
 
 * https://www.youtube.com/watch?v=3Imovk-s40I&ab_channel=MaSTARMedia
 
+#### Turkiye - Imports Exports
 
 #### Doğal Dil İşleme
 
