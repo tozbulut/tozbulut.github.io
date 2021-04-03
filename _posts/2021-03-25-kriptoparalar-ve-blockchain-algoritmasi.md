@@ -9,6 +9,11 @@ tags: [Kriptopara, Blockchain, Kriptografi]
 
 Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bu yazıda teknolojinin tüm detaylarını kavramıyor olsak da iyi bir tanışma yapmıyoruz. Etrafında dolaşan delilik halini bir yana bırakarak bu yeni ve devrimsel teknolojiyi anlamaya çalışmak önemli diye düşünüyorum.
 
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/a2ls9-xmgav.png" alt="Kriptopara Bitcoin"></div>
+   <div class="two column"></div>
+</div>
+
 Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Makaleyi yazan kişi ya da kişiler gerçek isimlerini kullanmadılar Satoshi Nakomoto gerçek bir isim değil yalnızca bir takma addı. Açık kaynaklı, merkezi olmayan ilk dijital para biriminin mucidi ise anonim kaldı.
 
 * Orjinal Bitcoin Makalesi : https://bitcoin.org/bitcoin.pdf
