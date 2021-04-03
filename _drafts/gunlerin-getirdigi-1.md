@@ -74,3 +74,15 @@ Beğendim Lo-Fi şarkılar,
 
 #### Japon Anime ve Manga Kültürü
 
+One Punch Man, Attack On Titan, Death Note, Fullmetal Alchemist: Brotherhood
+Satır aralarına bakacak olursak Fullmetal Alchemist ve Attack On Titan gibi animeler askeri düzende geçiyor.
+
+Neon Genesis Evangelion, Mushishi daha çok tarihden ve korku türünden besleniyor.
+Monster çok farklı bir anime.
+Violet Evergarden'ı izlemek istiyorum.
+
+Otaku, Tsundere
+
+Animeler nasıl sınıflandırılıyor? 
+
+Animelerin kendine has bir mizah anlayışı var. One Punch Man'de bir sahne bunun çok güzel bir örneği. One Punch Man tek bir yumrukla herhangi bir rakibi yenebilen, ancak ezici gücü nedeniyle meydan okumanın eksikliğinden sıkıldıktan sonra değerli bir rakip bulmaya çalışan bir süper kahraman olan Saitama'nın hikayesini anlatıyor. Bir sahnede Saitama'ya  nasıl bu kadar güçlü olduğunu soruyorlar. O da ne diyeceğini bilemiyor şınav çektim diyor.
