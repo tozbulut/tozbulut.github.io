@@ -1,9 +1,12 @@
+İnsanlar bir şekilde bozuk bir düzende nasıl ayakta kalacağını da öğrenmeli. Bozuk düzende de bir şekilde ilerleyebilmelidir. Ama düzenin bozukluğuna asla katkıda bulunmanmalı.
+
+Demokrasi vs Cumhuriyet, Ülkelerin adlarında sıklıkla cumhuriyet geçiyor. Ama bu aradaki farklar nelerdir?
 
 Bir şeylerin anlatılışı nasıl yapıldığından bağımsız değil mi?
 
 #### Anime İle Görüntü İşleme
 
-Bir anime nasıl yapılıyor? Örneğin animeleri izleyerek katagorize edecek bir sistem olamaz mı?
+Bir anime nasıl yapılıyor? Örneğin animeleri izleyerek kategorize edecek bir sistem olamaz mı?
 Animelerle örüntü tanıma gibi. Örneğin aşağıdaki gibi bir sahnede objeler bu anime stillerinde nasıl yansıtılıyor.
 Buradan daha sonra üretim yapabilecek bir yazılım çıkarabilir mi? AI ve örüntü tanıma beraber kullanılarak.
 
@@ -16,7 +19,7 @@ Ufak bir başlangıç yapılabilir diye düşünüyorum. Örneğin objektif bir 
 
 #### Yapay Zeka'nın İnsani Kaygılarımızın Yerini Alması
 
-Son yılların popüler yazarı Harrari'nin anlattığına göre insan duyguları . Yönetimsel açıdan bir insanın verimliliği bir yazılım ile karşılaştırılamaz. Yazılımlarımız akıllandıkça insan kurumları hatalardan arınacaktır. Bu ilerleyiş devam ettikçe insan gitgide sistemin kullanıcısı konumuna gelecektir. Mesela hukuk aslında ideal olarak bir yasaya sahiptir. Bildiğimiz üzere "code" sözcüğü İngilizce yasa anlamına da gelir.
+Son yılların popüler yazarı Harrari'nin anlattığına göre insan duyguları . Yönetimsel açıdan bir insanın verimliliği bir yazılım ile karşılaştırılamaz. Yazılımlarımız akıllandıkça insan kurumları hatalardan arınacaktır. Artık yapay zeka ile üretilen işler mümkün olan genelgeçer en iyi ile yönetilmeye başlar. Teknoloji geliştikçe bu artacak. Burada aslında insan hakları ile devletlerin teknolojiye hakimiyeti arasında bir fark olacak. Örneğin çin bu farkı tanımaması ile biliniyor. Fakat bunun yanlış olduğu konusunda emin miyiz? Devlet kusursuz işleyecekse bu şekilde işlemez mi? Aklıma rick and morty deki sahne geliyor. Rick arabası bozulduğu için yeğeni Summer'ı arabada bırakır. Bu ilerleyiş devam ettikçe insan gitgide sistemin kullanıcısı konumuna gelecektir. Mesela hukuk aslında ideal olarak bir yasaya sahiptir. Bildiğimiz üzere "code" sözcüğü İngilizce yasa anlamına da gelir.
 
 
 #### Harrari
