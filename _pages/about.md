@@ -12,6 +12,17 @@ redirect_from:
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
    
+  <tr><td style="border: 0px; border-top: 1px solid beige;">
+  <a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/posts/2020/05/yeraltindan-notlar">/HAKKINDA /TUM-YAZILAR</a>
+  
+  
+  </td></tr>
+  </tbody>
+</table>
+
+<table style="border: 0px; margin-bottom:0px;">
+  <tbody>
+   
   <tr><td style="border: 0px; border-top: 1px solid beige;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/posts/2020/05/yeraltindan-notlar">2020-01-01 Yeraltından Notlar</a></td></tr>
   </tbody>
 </table>
