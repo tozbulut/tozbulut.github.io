@@ -42,9 +42,9 @@ Muazzez İlmiye Çığ bu neslin bir örneği. Hala kanlı canlı. Devrim yapmı
    <div class="two column"></div>
 </div
 
-> Türkiye'nin ve diğer ülkelerin iş gücündeki cinsiyet eşitsizliği incelendiğinde OECD tarafından yıllık açıklanan verilere göre 2019 yılında Türkiye'de kadınların işgücüne katılma oranı %34,4 olarak gerçekleşti.
-
 Burada geleneksel toplum yapısı direniyor. Burada alternatif çözümü şeytanlaştırmamak gerek. Geleneksel yapı kadını korumak için bazı mekanizmalar geliştirmiş. Çünkü bu nokta istismar edilmiş kanlı ve acılı bir geçmişin sonucu aslında. Tarihin bir çok evresinde birlikte omuz omuza mücadele veren cinsiyetler asla birbirlerinden nefret etmediler.
+
+> Türkiye'nin ve diğer ülkelerin iş gücündeki cinsiyet eşitsizliği incelendiğinde OECD tarafından yıllık açıklanan verilere göre 2019 yılında Türkiye'de kadınların işgücüne katılma oranı %34,4 olarak gerçekleşti.
 
 Amerika'da bu konuda tartışılan meselelere baktığımızda MeToo hareketi ve Hollywood da kadın aktrislerin daha düşük ücret aldığının ortaya çıkması gibi dikkat çeken gelişmeler oldu. Bu yeni gelişmeler olumlu olsa da onları sahiplenen hareketin itici bir hali var. Progressive (ilerlemeci) bu yeni yaklaşım Suffragette Hareketi gibi tarihe adını altın harflerle mi yazdıracak yoksa abartılı ve gereksiz olarak nitelendirilip geri mi çevrilecek. Sosyal medya özellikle de Twitter bu tartışmalarda önemli bir yer oynadığını görüyoruz. Twitter zaman zaman paylaşım platformu kimliğinin dışına çıkarak bu rolü üstlenmeye gönüllü gözüküyor.
 
