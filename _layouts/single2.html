@@ -17,65 +17,16 @@ layout: default
 <div id="main" role="main">
   <div style="width: 34%; float:left;"><img src="https://images.unsplash.com/photo-1607658033361-a3a37ba65e4a?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxOHx8fGVufDB8fHw%3D&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" class="u-img-responsive" style="width: 100%; max-width: 416px;"></div>
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork" style="width: 66%;">
-<div class="">
+
    <div itemscope="" itemtype="http://schema.org/Person">
       <div class="author__content">
          <h1 class="author__name" style="font-size: 3em; color: black;">Derin Mavi</h1>
-         <p class="author__bio" style='font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size: .75em; line-height: 1.5; margin-top: 10px; margin-bottom: 20px;'>☄️ Gezegendeki olası hayatlardan ☁️ birinin bir tarifnamesi... 🌙</p>
       </div>
-      <div class="author__urls-wrapper">
-         <button class="btn btn--inverse">Follow</button><ul class="author__urls social-icons" style='font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size: .75em; line-height: 1.5; margin-top: 10px; margin-bottom: 20px;' >
-         <li style="display: inline-block;"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> İstanbul / Türkiye</li>
-         <li style="display: inline-block; margin-left:15px"><a href="https://instagram.com/acsariyildiz" ><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
-         </ul>
-      </div>
-   </div>
-  
-    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
-    {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
-
     <div class="page__inner-wrap">
-      {% unless page.header.overlay_color or page.header.overlay_image %}
-        <header>
-          {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-          {% if page.read_time %}
-            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-          {% endif %}
-        {% if page.modified %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
-    
-        </header>
-      {% endunless %}
-
       <section class="page__content" itemprop="text">
         {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
-
-      <footer class="page__meta">
-        {% if site.data.ui-text[site.locale].meta_label %}
-          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
-        {% endif %}
-        {% include page__taxonomy.html %}
-      </footer>
-
-      {% if page.share %}{% include social-share.html %}{% endif %}
-
-      {% include post_pagination.html %}
     </div>
-
-    {% if site.comments.provider and page.comments %}
-      {% include comments.html %}
-    {% endif %}
-  
-
-    <footer>
-        {% include footer.html %}
-      </footer>
-
-
-
+    </div>
 </article>
+</div>
