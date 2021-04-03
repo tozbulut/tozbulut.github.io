@@ -13,6 +13,7 @@ Animelerle örüntü tanıma gibi. Örneğin aşağıdaki gibi bir sahnede objel
 Buradan daha sonra üretim yapabilecek bir yazılım çıkarabilir mi? AI ve örüntü tanıma beraber kullanılarak.
 
 * https://www.youtube.com/watch?v=3Imovk-s40I&ab_channel=MaSTARMedia
+* https://www.youtube.com/watch?v=36GT2zI8lVA&ab_channel=firewalker
 
 #### Turkiye - Imports Exports
 
