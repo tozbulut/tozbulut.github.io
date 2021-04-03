@@ -26,7 +26,7 @@ Bu yazının temel amacı Blockchain işleyişine basit bir açıklama getirmek.
 
 ### Nasıl Çalışıyor?
 
-Bir arkadaş grubu olarak aramızda birbirimize borçlarımızı yazdığımız bir defter (ledger) var diyelim. Bu defter de dijital bir dosya da olabilir google drive gibi bir yerde tutuyoruz diyelim. Bu defter hepimiz tarafından erişilebilir ve içerisinde kimin kime ne kadar ödediği yazıyor.
+Bir arkadaş grubu olarak aramızda birbirimize borçlarımızı yazdığımız bir defter (ledger) var diyelim. Bu defter de dijital bir dosya da olabilir google drive gibi bir yerde tutuyoruz. Bu defter hepimiz tarafından erişilebilir ve içerisinde kimin kime ne kadar ödediği yazıyor.
 
 ```
 Muhasebe Defteri:
