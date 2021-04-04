@@ -35,7 +35,9 @@ Kadınlar günü dünyaya sol düşüncenin armağanı. Tıpkı çalışma saatl
 
 Ülkemizin geçmişine baktığımızda Atatürk'ün kurmuş olduğu Cumhuriyet'le gelen ilerlemeyle ülkenin bu anlamda çağın ötesine geçmesi insana mutluluk veriyor. Genç Cumhuriyet yeni gelişmekte olan kadın hakları fikrini hemen dinamizmi ile içselleştiriyor. Atatürk bizlere bu kadına yönelik düşüncenin geri kalanından daha önde olması gibi çok değerli ve gurur verici armağanı bırakmış oluyor. Aslında bu hem tüm dünya hem de özellikle Türkiye açısından bu çok anlamlı. İnsanların gerekli bilimsel altyapıya, hayatın gerçekliği ile ilgili görüş açıklığına sahip olduğunda etki altında kalmadan çağın önüne geçebileceğinin bir göstergesi. Bu yüzyılda kadınların araç kullanmasını tartışan Ortadoğu toplumlarına da iyi bir örnek. 
 
-Muazzez İlmiye Çığ bu neslin bir örneği. Hala kanlı canlı. Devrim yapmış olmanın ateşini yüz yaşındaki bu sevimli hanımefendinin gözlerinde görmek o kadar da zor değil. 1914 doğumlu olan Muazzez İlmiye Çığ öyle çok üst bir gelir grubundan gelmiyor.
+> Türkiye'nin ve diğer ülkelerin iş gücündeki cinsiyet eşitsizliği incelendiğinde OECD tarafından yıllık açıklanan verilere göre 2019 yılında Türkiye'de kadınların işgücüne katılma oranı %34,4 olarak gerçekleşti.
+
+Muazzez İlmiye Çığ bu neslin bir örneği. Hala kanlı canlı. Bir ülkeye Cumhuriyet getirmiş olmanın. Ve pek tabi devrim yapmış olmanın ateşini yüz yaşındaki bu sevimli hanımefendinin gözlerinde görmek o kadar da zor değil. 1914 doğumlu olan Muazzez İlmiye Çığ öyle çok üst bir gelir grubundan gelmiyor.
 
 > Bursa Kız Öğretmen Okulu'ndan mezun olup, Eskişehir'de ve 4.5 yıl öğretmenlik yaptıktan sonra 15 Şubat 1936 tarihinde Ankara Üniversitesi Dil ve Tarih Coğrafya Fakültesi Hititoloji bölümüne kaydoldu. Nazi Almanyası'ndan Türkiye'ye iltica etmiş olan ve Ankara Üniversitesi'nde dersler veren Prof. Dr. Hans Gustav Guterbock'dan Hitit Dili ve Kültürü derslerini, Prof. Dr. Benno Landsberger'den Sümer ve Akad Dilleri ve Mezopotamya Kültürü derslerini aldı. 1940 yılında Ankara Üniversitesinden mezun olduktan sonra İstanbul Eski Şark Eserleri Müzesi Çiviyazılı Belgeler Arşivine uzman olarak atandı. Aynı yıl Kemal Çığ ile evlenmişti. Müzede çalıştığı 31 yıl boyunca meslektaşı Hatice Kızılyay ve Dr. F. R. Kraus ile birlikte müzenin deposunda bulunan Sümer, Akad ve Hitit dillerinde yazılmış on binlerce tableti temizleyip, sınıflandırıp numaralandırdı, 74 bin tabletten oluşan çivi yazılı belgeler arşivini oluşturdu, 3 bin tabletin kopyasını yapıp katalog halinde yayımladı. Kaynak: Vikipedi
 
@@ -44,9 +46,7 @@ Muazzez İlmiye Çığ bu neslin bir örneği. Hala kanlı canlı. Devrim yapmı
    <div class="two column"></div>
 </div>
 
-Burada geleneksel toplum yapısı direniyor. Burada alternatif bir çözüme merhametle yaklaşmak gerek. Geleneksel yapı kadını korumak için bazı mekanizmalar geliştirmiş. Çünkü bu istismar edilmiş kanlı ve acılı bir geçmişin sonucu aslında. Tarihin bir çok evresinde birlikte omuz omuza mücadele veren cinsiyetler asla birbirlerinden nefret etmediler.
-
-> Türkiye'nin ve diğer ülkelerin iş gücündeki cinsiyet eşitsizliği incelendiğinde OECD tarafından yıllık açıklanan verilere göre 2019 yılında Türkiye'de kadınların işgücüne katılma oranı %34,4 olarak gerçekleşti.
+Tarihin bir çok evresinde birlikte omuz omuza mücadele veren cinsiyetler asla birbirlerinden nefret etmediler. Burada geleneksel toplum yapısı direniyor. Burada bu eski alternatif çözüme merhametle yaklaşmak gerek. Geleneksel toplum kadını korumak için bazı mekanizmalar geliştirmiş. Çünkü bu istismar edilmiş kanlı ve acılı bir geçmişin sonucu.
 
 Amerika'da bu konuda tartışılan meselelere baktığımızda MeToo hareketi ve Hollywood da kadın aktrislerin daha düşük ücret aldığının ortaya çıkması gibi dikkat çeken gelişmeler oldu. Bu yeni gelişmeler olumlu olsa da onları sahiplenen hareketin itici bir hali var. Progressive (ilerlemeci) bu yeni yaklaşım Suffragette Hareketi gibi tarihe adını altın harflerle mi yazdıracak yoksa abartılı ve gereksiz olarak nitelendirilip geri mi çevrilecek. Sosyal medya özellikle de Twitter bu tartışmalarda önemli bir yer oynadığını görüyoruz. Twitter zaman zaman paylaşım platformu kimliğinin dışına çıkarak bu rolü üstlenmeye gönüllü gözüküyor.
 
