@@ -7,7 +7,7 @@ permalink: posts/2020/05/kriptoparalar-ve-blockchain
 tags: [Kriptopara, Blockchain, Kriptografi]
 ---
 
-Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bu yazıda teknolojinin tüm detaylarını kavramıyor olsak da iyi bir tanışma yapmıyoruz. Etrafında dolaşan delilik halini bir yana bırakarak bu yeni ve devrimsel teknolojiyi anlamaya çalışmak önemli diye düşünüyorum.
+Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bir yazıyla bu teknolojinin tüm detaylarını kavramıyor olsam da iyi bir tanışma yapabileceğimi düşündüm. Bu yazının temel amacı Blockchain işleyişine basit bir açıklama getirerek, etrafında dolaşan delilik halini bir yana bırakıp bu yeni ve devrimsel teknolojiyi anlamaya çalışmak.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/a2ls9-xmgav.png" alt="Kriptopara Bitcoin"></div>
@@ -22,9 +22,8 @@ Kriptoparalar çok ilgi çeken bir konu. Youtube üzerinde konuyla ilgili pek ç
 
 Peki blockchain'e dönecek olursak. Öncelikle Coinleri üretmek için kullanılan yazılım açık kaynaklı olduğuna dikkat edelim. Bu isteyen herkesin kriptopara üretebileceği anlamına geliyor. Bu coinlerin hepsine güvenmek pek doğru değil. Bugün binlerce altcoin var ve bu kriptoparalar dizayn tercihleri anlamında farklılaşabiliyorlar. 
 
-Bu yazının temel amacı Blockchain işleyişine basit bir açıklama getirmek. Bunu da yaptığı düşüncesindeyim.
 
-### Nasıl Çalışıyor?
+###  Blok Zinciri Nasıl Çalışıyor?
 
 Bir arkadaş grubu olarak aramızda birbirimize borçlarımızı yazdığımız bir defter (ledger) var diyelim. Bu defter de dijital bir dosya da olabilir google drive gibi bir yerde tutuyoruz. Bu defter hepimiz tarafından erişilebilir ve içerisinde kimin kime ne kadar ödediği yazıyor.
 
