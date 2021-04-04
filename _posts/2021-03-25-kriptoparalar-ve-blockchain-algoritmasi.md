@@ -244,7 +244,7 @@ Bitcoin içerisinde her bir blok aşağı yukarı 2400 işlem barındırabiliyor
 
 Bu yavaş işlem durumu Bitcoin'in daha yüksek işlem bedellerine sahip olmasına sebep oluyor.  Çünkü minerların yeni bloklar içerisine koymak için hangi işlemleri seçeceğini bu belirliyor .
 
-Şu anda 15.37 dolar. Aslında bu kripto paraların kapsamlı bir gözden geçirmesi olmaktan çok uzak. Burada ele alınmayan bir çok ayrıntı ve farklı dizayn tercihleri var. Merkle ağaçları, proof of work'e alternatifler, scripting gibi. Yine de iyi bir giriş olduğunu düşünüyorum.
+Şu anda 15.37 dolar. Aslında bu kripto paraların kapsamlı bir gözden geçirmesi olmaktan çok uzak. Burada ele alınmayan bir çok ayrıntı ve farklı dizayn tercihleri var. Merkle ağaçları, proof of work'e alternatifler, scripting gibi. Yine de iyi bir giriş olduğunu düşünüyorum. Umarım faydalı olmuştur. Başka bir yazıda görüşmek dileğiyle...
 
 ### Kaynaklar
 * 3Blue1Brown - https://www.youtube.com/watch?v=bBC-nXj3Ng4&ab_channel=3Blue1Brown
