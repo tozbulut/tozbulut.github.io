@@ -14,13 +14,13 @@ Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni te
    <div class="two column"></div>
 </div>
 
-Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Üzerinde spekülasyon olan bir kaç kişi olsa da açık kaynaklı, merkezi olmayan ilk dijital para biriminin mucidi ya da mucitleri anonim kalmayı başarmış görünüyor.
+Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Satashi Nakomoto ismi anonim kalsa da açık kaynaklı, merkezi olmayan ilk dijital para birimi bitcoin bu şekilde doğdu.
 
 * Orjinal Bitcoin Makalesi : https://bitcoin.org/bitcoin.pdf
 
-Kriptoparalar çok ilgi çeken bir konu. Youtube üzerinde konuyla ilgili pek çok video mevcut ama ben işleyişi anlamaya çalıştığımdan bunu basitçe anlatan 3Blue1Brown adlı bir kanalın videosunu tercih ettim. Daha sonradan bu kanalın videosunun kaynağının da aslında bir blog yazısı olduğunu öğrendim. Her ikisine de bu yazının kaynaklar bölümünden ulaşabilirsiniz. 
+Kriptoparalar çok ilgi çeken bir konu. Youtube üzerinde konuyla ilgili pek çok video mevcut ama ben işleyişi anlamaya çalıştığımdan bunu basitçe anlatan 3Blue1Brown adlı bir kanalın videosunu tercih ettim. Bu kanalın videosu aslında büyük ölçüde bir blog yazısından alınmış. Her ikisine de bu yazının kaynaklar bölümünden ulaşabilirsiniz. 
 
-Peki blockchain'e dönecek olursak. Öncelikle Coinleri üretmek için kullanılan yazılım açık kaynaklı olduğuna dikkat edelim. Bu isteyen herkesin kriptopara üretebileceği anlamına geliyor. Bu coinlerin hepsine güvenmek pek doğru değil. Bugün binlerce altcoin var ve bu kriptoparalar dizayn tercihleri anlamında farklılaşabiliyorlar. 
+Peki blockchain'e dönecek olursak. Öncelikle Coinleri üretmek için kullanılan yazılım *açık kaynaklı* olduğuna dikkat edelim. Bu isteyen herkesin kriptopara üretebileceği anlamına geliyor. Bu coinlerin hepsine güvenmek pek doğru değil. Bugün binlerce altcoin var ve bu kriptoparalar dizayn tercihleri anlamında farklılaşabiliyorlar. 
 
 
 ###  Blok Zinciri Nasıl Çalışıyor?
