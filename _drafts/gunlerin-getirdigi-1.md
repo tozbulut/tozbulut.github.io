@@ -1,3 +1,7 @@
+Aslında harita üzerinde mesela geçmişe yönelik hangi zamanda hangi coğrafi bölgeler savaş alanıydı?
+
+Türk insanı eğitime önem verdiğini söylemek mümkün. en cahili bile biliyor ki Osmanlı birkaç askeri yeniliği uygulayamadığından binlerce kilometre toprak kaybetti.
+
 Akdeniz tarafı Şirince köyü'nün ne özelliği var? Bir de doğru karadeniz'i çok beğeniyorum. Rize. 
 
 Türk insanı politikayla fazla içli dışlı. Bunun ülke'ye çok yıkıcı etkisi oldu. Bu kadar politika düşünmek buna harcanan beyin gücü. Politika etkinin olmadığı bir konu ve sadece belirli bir düzeye kadar ilginç. Belirli bir ulusal bilince sahip olduktan sonra gerisinden edinilecek bir fayda yok.
