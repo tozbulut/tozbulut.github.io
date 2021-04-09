@@ -1,0 +1,1 @@
+Gökyüzündeki En Yüksek Yıldız
