@@ -7,7 +7,7 @@ permalink: posts/2020/05/8-mart
 tags: [Kadınlar, Bilim]
 ---
 
-8 Mart tüm dünyada cinsiyetler siyasi ve sosyal bilincinin geliştirilmesine, ekonomik, siyasi ve sosyal başarılarının kutlanmasına ayrılıyor. Bu çağda kadın olmak, bu çağda erkek olmak, Türkiye’de olmak dediğimiz zaman bu bir takım hikayelerle dolu bir paketi kabullenmek demek. 
+8 Mart tüm dünyada cinsiyetler siyasi ve sosyal bilincinin geliştirilmesine, ekonomik, siyasi ve sosyal başarılarının kutlanmasına ayrılıyor. Bu çağda kadın olmak, bu çağda erkek olmak, Türkiye’de kadın olmak, Türkiye'de erkek olmak dediğimiz zaman bu bir takım hikayelerle dolu bir paketi kabullenmek demek. 
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/8march.jpg" alt="8 Mart"></div>
@@ -58,4 +58,4 @@ Konunun derinliğini anlamaya çalışmak daha faydalı bir tutum. Cinsiyet insa
 
 Rakamlar yalan söylemeyeceğine göre eşitsizlik ortada. Fakat  eşitsizliğin nereden kaynaklandığı, düzeltilmesinin dikte edilip edilmeyeceği soru işareti. Kendi bireysel düşüncem temkinli olmak gerektiği yönünde. Fikri geliştirenle onu yarı-doğru şekilde yorumlayıp fanatizmini yapan arasında fark var. Bizim de bu fikirlere tepkimiz fanatiklik olmamalı. Özellikle sosyal değişimlerin sonuçları toplumlarda yaralar açabilir. Burada değişimden yana olanlarla değişime karşı olanlar arasında bir tansiyon olması normal. Ama olması gereken konuların önyargıdan bağımsız temiz bir düşünce ile değerlendirmesi.
 
-*Toplumsal Cinsiyet Eşitliği* Birleşmiş Milletlerin yayınladığı sürdürülebilir kalkınma amaçları arasında 5. sırada yer alıyor. Liste bugün kadınların ilerlemesinin önünde toplumsal engeller olduğunu tasdikler nitelikte. Bu alanda bir şeyler yapılması gerektiği ortak, problem karmaşık ve bu konuda haberdar ve hassas olmak yapılabilecek en doğru davranış. Umarım bu yazı da buna bir araç olmuştur.
+*Toplumsal Cinsiyet Eşitliği* Birleşmiş Milletlerin yayınladığı sürdürülebilir kalkınma amaçları arasında 5. sırada yer alıyor. Liste bugün kadınların ilerlemesinin önünde toplumsal engeller olduğunu tasdikler nitelikte. Bu alanda bir şeyler yapılması gerektiği ortak, problem karmaşık ve bu konuda haberdar ve hassas olmak yapılabilecek en doğru davranış.
