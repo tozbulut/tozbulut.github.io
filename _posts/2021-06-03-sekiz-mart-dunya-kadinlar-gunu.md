@@ -7,14 +7,12 @@ permalink: posts/2020/05/8-mart
 tags: [Kadınlar, Bilim]
 ---
 
-8 Mart tüm dünyada cinsiyetler siyasi ve sosyal bilincinin geliştirilmesine, ekonomik, siyasi ve sosyal başarılarının kutlanmasına ayrılıyor. Hayatlarımızın kadınlar ve erkekler olarak nasıl şekillendiği kültürün bireye etki ettiği yerlerden biri burası aslında.
+8 Mart tüm dünyada cinsiyetler siyasi ve sosyal bilincinin geliştirilmesine, ekonomik, siyasi ve sosyal başarılarının kutlanmasına ayrılıyor. Bu çağda kadın olmak, bu çağda erkek olmak, Türkiye’de olmak dediğimiz zaman bu bir takım hikayelerle dolu bir paketi kabullenmek demek. 
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/8march.jpg" alt="8 Mart"></div>
    <div class="two column"></div>
 </div>
-
-Bu çağda kadın olmak, bu çağda erkek olmak, Türkiye'de erkek olmak dediğimiz zaman bu bir takım hikayelerle dolu bir paketi kabullenmek demek. Bu ayrıntılara dikkat edersek artık "woke" biri olarak bir bilinç açılmaşı yaşar mıyız bilmem ama burada karşımıza çıkabilecek problemlere karşı hazırlıklı olmak hayatlarımızın kalitesi açısından önemli.
 
 Bir grup içerisinde bir şeyin yolunda gitmediğini gördüğünüzde ve bu durumu bir şekilde değiştiremeniz mümkün olmadığında yapılacak şey onu bir kenara öğrenilmiş bir ders olarak not etmektir. Ortada bir haksızlık varsa bu haksızlığı içimize yedirmemek, gözümüzü hep onun üzerinde tutmak gerekli.
 
