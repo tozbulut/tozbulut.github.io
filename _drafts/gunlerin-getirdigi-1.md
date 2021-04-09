@@ -1,3 +1,6 @@
+Bir şeyin doğaya ters bir durumu varsa bundan bir fayda elde edinilmesi mümkündür. Kurgusallıkların objektif gerçeklerle bağdaşmadığı yerde o fark akse kullanılabilir.
+
+
 Aslında harita üzerinde mesela geçmişe yönelik hangi zamanda hangi coğrafi bölgeler savaş alanıydı?
 
 Türk insanı eğitime önem verdiğini söylemek mümkün. en cahili bile biliyor ki Osmanlı birkaç askeri yeniliği uygulayamadığından binlerce kilometre toprak kaybetti.
