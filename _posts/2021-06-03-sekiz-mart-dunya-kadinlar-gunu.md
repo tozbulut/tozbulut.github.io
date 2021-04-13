@@ -14,9 +14,9 @@ tags: [Kadınlar, Bilim]
    <div class="two column"></div>
 </div>
 
-İnsanlar olarak Aile, Şirket, Okul gibi yapılarda organize oluyoruz. Bir organizasyon içerisinde insan ilişkileri anlamında bir şeyin yolunda gitmediğini gördüğünüzde ve bu durumu bir şekilde değiştiremeniz mümkün olmadığında ne yapmak gerekir? Eğer değiştiremiyorsanız bence doğrusu onu bir kenara öğrenilmiş bir ders olarak not etmektir. Ortada bir haksızlık varsa gözümüzü hep onun üzerinde tutmak gerekli. Daha sonra somut durumlardan bir analiz yapabiliriz. Eğer bu durum yapının kendisine sirayet etmişse yani herkes bir şekilde bozuk hareket ediyorsa (ki bu da olabilir) o durumda hiyerarşiyi terk etmek gerekir. 
+Bir grup içerisinde bir şeyin yolunda gitmediğini gördüğünüzde ve bu durumu bir şekilde değiştiremeniz mümkün olmadığında yapılacak şey onu bir kenara öğrenilmiş bir ders olarak not etmektir. Ortada bir haksızlık varsa bu haksızlığı içimize yedirmemek, gözümüzü hep onun üzerinde tutmak gerekli. Ben bu güne verilen önemi biraz da bu çerçevede yorumluyorum. 
 
-Genel anlamda şu çok önemli. Genç bir kadın hayata atılırken bilmeli ki dışarıda onu ezmeye çalışan bir canavar var. Ama canavar asla dünyanın kendisi değil. Ve aslında o canavardan daha güçlü. Canavara adil bir şekilde karşı durduğunda tüm dünya onunla beraber yanında yer alacaktır.
+Aslında mesaj şu: Genç bir kadın hayata atılırken bilmeli ki dışarıda onu ezmeye çalışan bir canavar var. Ama canavar asla dünyanın kendisi değil. Ve aslında o canavardan daha güçlü. Canavara adil bir şekilde karşı durduğunda tüm dünya onunla beraber yanında yer alacak.
 
 Genç bir adam olarak toplumun bana da yüklediği bazı "görevler" var. Fakat genç bir kadın söz konusu olduğunda toplumun görevleri ve varsayımları bunaltıcı oluyor. Bazen kıskaç o kadar daralıyor ki artık insan haklarına aykırı bir durum oluşuyor. Sistematik olarak kadına bir kötü davranış söz konusuysa, sistemin canavarlar oluşturduğunu görüyoruz. Artık genç bir kadın için toplumsal bir problemden söz edebilir hale gelmek mümkün oluyor ve durum aslında insanlık için biraz utanç verici bir noktaya geliyor. Belki de bu nedenle yaşadığımız dönemde genç kadınlar ayrımcılığa karşı uyarılmak zorunda.
 
@@ -48,9 +48,7 @@ Muazzez İlmiye Çığ bu neslin bir örneği. Hala kanlı canlı. Bir ülkeye C
 
 Tarihin bir çok evresinde birlikte omuz omuza mücadele veren cinsiyetler asla birbirlerinden nefret etmediler. Burada geleneksel toplum yapısı direniyor. Burada bu eski alternatif çözüme merhametle yaklaşmak gerek. Geleneksel toplum kadını korumak için bazı mekanizmalar geliştirmiş. Çünkü bu istismar edilmiş kanlı ve acılı bir geçmişin sonucu.
 
-> Türkiye'nin ve diğer ülkelerin iş gücündeki cinsiyet eşitsizliği incelendiğinde OECD tarafından yıllık açıklanan verilere göre 2019 yılında Türkiye'de kadınların işgücüne katılma oranı %34,4 olarak gerçekleşti. 
-
-Unutmamak lazım ki kadınlar işgücüne girdikçe erkeklerin işgücündeki varlığı azalıyor. Eğer işsizliğin olduğu bir ülkede yaşıyorsanız bu toplumsal huzursuzluk demek.
+Türkiye'nin ve diğer ülkelerin iş gücündeki cinsiyet eşitsizliği incelendiğinde OECD tarafından yıllık açıklanan verilere göre 2019 yılında Türkiye'de kadınların işgücüne katılma oranı %34,4 olarak gerçekleşmiş. Unutmamak lazım ki kadınlar işgücündeki payı arttıkça erkeklerin işgücündeki varlığı azalıyor. Eğer işsizliğin olduğu bir ülkede yaşıyorsanız bu toplumsal huzuru etkileyebilir.
 
 Amerika'da bu konuda tartışılan meselelere baktığımızda MeToo hareketi ve Hollywood da kadın aktrislerin daha düşük ücret aldığının ortaya çıkması gibi dikkat çeken gelişmeler oldu. Bu yeni gelişmeler olumlu olsa da onları sahiplenen hareketin itici bir hali var. Progressive (ilerlemeci) bu yeni yaklaşım Suffragette Hareketi gibi tarihe adını altın harflerle mi yazdıracak yoksa abartılı ve gereksiz olarak nitelendirilip geri mi çevrilecek. Sosyal medya özellikle de Twitter bu tartışmalarda önemli bir yer oynadığını görüyoruz. Twitter zaman zaman paylaşım platformu kimliğinin dışına çıkarak bu rolü üstlenmeye gönüllü gözüküyor.
 
@@ -60,4 +58,4 @@ Konunun derinliğini anlamaya çalışmak daha faydalı bir tutum. Cinsiyet insa
 
 Rakamlar yalan söylemeyeceğine göre eşitsizlik ortada. Fakat  eşitsizliğin nereden kaynaklandığı, düzeltilmesinin dikte edilip edilmeyeceği soru işareti. Kendi bireysel düşüncem temkinli olmak gerektiği yönünde. Fikri geliştirenle onu yarı-doğru şekilde yorumlayıp fanatizmini yapan arasında fark var. Bizim de bu fikirlere tepkimiz fanatiklik olmamalı. Özellikle sosyal değişimlerin sonuçları toplumlarda yaralar açabilir. Burada değişimden yana olanlarla değişime karşı olanlar arasında bir tansiyon olması normal. Ama olması gereken konuların önyargıdan bağımsız temiz bir düşünce ile değerlendirmesi.
 
-*Toplumsal Cinsiyet Eşitliği* Birleşmiş Milletlerin yayınladığı sürdürülebilir kalkınma amaçları arasında 5. sırada yer alıyor. Liste bugün kadınların ilerlemesinin önünde toplumsal engeller olduğunu tasdikler nitelikte. Bu alanda bir şeyler yapılması gerektiği ortak, problem karmaşık ve bu konuda haberdar ve hassas olmak yapılabilecek en doğru davranış.
+*Toplumsal Cinsiyet Eşitliği* Birleşmiş Milletlerin yayınladığı sürdürülebilir kalkınma amaçları arasında 5. sırada yer alıyor. Liste bugün kadınların ilerlemesinin önünde toplumsal engeller olduğunu tasdikler nitelikte. Bu alanda bir şeyler yapılması gerektiği ortak ve iyi fikir gibi görünüyor. Problem karmaşık olduğunu bilmek ve bu konuda hassassiyet göstermek yapılabilecek doğru davranış.
