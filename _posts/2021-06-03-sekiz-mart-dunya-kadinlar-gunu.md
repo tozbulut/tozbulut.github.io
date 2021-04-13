@@ -46,7 +46,7 @@ Muazzez İlmiye Çığ bu neslin bir örneği. Hala kanlı canlı. Bir ülkeye C
    <div class="two column"></div>
 </div>
 
-Tarihin bir çok evresinde birlikte omuz omuza mücadele veren cinsiyetler asla birbirlerinden nefret etmediler. Burada geleneksel toplum yapısı direniyor. Burada bu eski alternatif çözüme merhametle yaklaşmak gerek. Geleneksel toplum kadını korumak için bazı mekanizmalar geliştirmiş. Çünkü bu istismar edilmiş kanlı ve acılı bir geçmişin sonucu.
+Tarihin bir çok evresinde birlikte omuz omuza mücadele veren cinsiyetler asla birbirlerinden nefret etmediler. Burada geleneksel toplum yapısı direniyor. Burada bu eski alternatif çözüme merhametle yaklaşmak gerek. Geleneksel toplum kadını korumak için bazı mekanizmalar geliştirmiş. Çünkü bu istismar edilmiş acılı bir geçmişin sonucu. Aslında zayıflıktan ileri geliyor. Bugün problem bu yapının zayıf ve yaralı oluşudur.
 
 Türkiye'nin ve diğer ülkelerin iş gücündeki cinsiyet eşitsizliği incelendiğinde OECD tarafından yıllık açıklanan verilere göre 2019 yılında Türkiye'de kadınların işgücüne katılma oranı %34,4 olarak gerçekleşmiş. Unutmamak lazım ki kadınlar işgücündeki payı arttıkça erkeklerin işgücündeki varlığı azalıyor. Eğer işsizliğin olduğu bir ülkede yaşıyorsanız bu toplumsal huzuru etkileyebilir.
 
