@@ -4,12 +4,10 @@ Alman filozof Martin Heidegger'in en önemli eseri Being And Time dır. Alpler'i
 
 Heidegger'ın kendi varlığı 1889-1976 yılı arası bu dünyadaydı. Yaşamak için ilginç bir zaman. 
 
-Heidegger ikinci dünya savaşı ve öncesinde yaşadı. Nazi partisi üyesiydi. Pek çok meslektaşı felsefi yazılarını anlamsız olduğunu söyleyerek onunla alay etti. Felsefe Yahudi işi ve hayatın gerçekliğinden uzak görülüyordu. Savaş döneminde büyümüş Nazi'lerde genel hakın pek çoğu felsefik detayları anlayacak zamana sahip değildi. Nazizm'in doğuşundaki fikri rehberlerine bakıldığında da pek biir derinlik bulamazsınız. Büyük bir sosyal gereksinim ile birleşen devasa bir reklam çalışması gibidir. Goebbels gibilerin bir PR kampanyası. Öte yandan Nazizm ile ilişkili olabilecek felsefeciler arasından göze çarpan biri varsa Heidegger'dir.
+Heidegger ikinci dünya savaşı ve öncesinde yaşadı. Olayların gerçekleştiği dönemde Nazi partisi üyesiydi. Bu hayatını pek kolaylaştırmadı. Nazi iken meslektaşı felsefi yazılarını anlamsız buldu. Felsefe Yahudi işi ve hayatın gerçekliğinden uzak görülüyordu. Savaş döneminde büyümüş Nazi'lerde genel hakın pek çoğu felsefik detayları anlayacak zamana sahip değildi. Nazizm'in doğuşundaki fikri rehberlerine bakıldığında da pek biir derinlik bulamazsınız. Büyük bir sosyal gereksinim ile birleşen devasa bir reklam çalışması gibidir. Goebbels gibilerin bir PR kampanyası. Öte yandan Nazizm ile ilişkili olabilecek felsefeciler arasından göze çarpan biri varsa Heidegger'dir.
 
 Varoluşcularin babası tabir edilen ve son derece kriptik bu yazar daha sonra Sartre tarafından yorumlandı.
 Martin Heidegger, 20. yüzyılın en önemli filozoflarından biri olarak kabul edilen bir Alman filozofu. Heidegger Fenomenoloji (phenomenology), yorumbilim (hermeneutics) ve varoluşçuluk (existentialism) alanında çalışmıştır.
-
-
 
 https://en.wikipedia.org/wiki/Martin_Heidegger
 
