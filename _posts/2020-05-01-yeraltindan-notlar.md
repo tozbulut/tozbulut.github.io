@@ -8,7 +8,7 @@ img: notes_underground1.jpg
 tags: [Dostoyevski, İnsan, Roman, Psikoloji]
 ---
 
-Yeraltından Notlar uzun zamandır okumak istediğim bir romandı. Dostoyevski'nin insan doğasını anlatmakta iyi olduğu edebiyat severler tarafından bilinen bir gerçek. Yeraltından Notlar, Dostoyevski'nin bence en "garip" çalışması. Roman boyunca ana tema Dostoyevski'nin *insandaki en büyük güç ve aynı zamanda en göze çarpan zayıflık* olduğuna inandığı yoğun kendilik duygusu.
+Yeraltından Notlar uzun zamandır okumak istediğim bir romandı. Dostoyevski'nin insan doğasını anlatmakta iyi olduğu edebiyat severler tarafından sıklıkla yapılır. Yeraltından Notlar, Dostoyevski'nin bence en "garip" çalışması. Roman boyunca ana tema Rus yazarın *insandaki en büyük güç ve aynı zamanda en göze çarpan zayıflık* olduğuna inandığı yoğun kendilik duygusu.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/n1.jpg" alt="Fyodor Dostoyevski"></div>
