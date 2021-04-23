@@ -1,8 +1,8 @@
 
-Alman filozof Martin Heidegger'in en önemli eseri Being And Time dır.
+Alman filozof Martin Heidegger'in en önemli eseri Being And Time dır. Todtnauberg adı verilen bu köyde yazılan eser.
 Varoluşcularin babası tabir edilen ve son derece kriptik bu yazar daha sonra Sartre tarafından yorumlandı.
-Martin Heidegger, 20. yüzyılın en önemli filozoflarından biri olarak kabul edilen bir Alman filozofu.
-En çok fenomenoloji, yorumbilim ve varoluşçuluğa yaptığı katkılarla tanınır.
+Martin Heidegger, 20. yüzyılın en önemli filozoflarından biri olarak kabul edilen bir Alman filozofu. Heidegger Fenomenoloji (phenomenology), yorumbilim (hermeneutics) ve varoluşçuluk (existentialism) alanında çalışmıştır.
+
 
 
 https://en.wikipedia.org/wiki/Martin_Heidegger
