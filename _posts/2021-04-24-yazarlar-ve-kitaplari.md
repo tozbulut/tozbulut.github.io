@@ -29,7 +29,7 @@ Kıta Felsefesi:
 * Gilles Deleuze
 
 ### Diğer
-
+* Jack London - White Fang (Novel)
 * Charles Dickens - A Tale Of Two Cities (Novel)
 * Notes From Underground - Fyodor Dostoevsky (Novel)
 * Blindness - José Saramago (2021.02) (Novel)
