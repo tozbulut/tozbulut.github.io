@@ -30,6 +30,7 @@ Kıta Felsefesi:
 
 ### Diğer
 
+* Charles Dickens - A Tale Of Two Cities (Novel)
 * Notes From Underground - Fyodor Dostoevsky (Novel)
 * Blindness - José Saramago (2021.02) (Novel)
 * Jules Payot - İrade Eğitimi (self-help)
