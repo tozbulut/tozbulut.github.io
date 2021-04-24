@@ -1,5 +1,5 @@
 ---
-title: Bu Blogun Hikayesi: Derin Mavi Nedir?
+title: 'Bu Blogun Hikayesi: Derin Mavi Nedir?'
 date: 2021-04-24
 description: 
 category: Blog
