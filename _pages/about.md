@@ -58,6 +58,7 @@ redirect_from:
   </tbody>
 </table>
 
+</div>
 
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
@@ -67,4 +68,4 @@ redirect_from:
   </td></tr>
   </tbody>
 </table>
-</div>
+
