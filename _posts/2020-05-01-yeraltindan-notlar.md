@@ -64,13 +64,11 @@ I. Kitap'ta Süvari İle Takışma yalnızca Süvari İle Takışma olayına yer
 
 Kısa bir kitap yalnızca 150 sayfa kadar. Daha önce tavsiye edildiğini ve referans gösterildiğine çok şahit oldum. Dostoyevski'nin insan doğasını anlatmakta iyi olduğu yönünde bir yorum var.
 
-Takip ettiğim JBP* derslerinin etkisi oldu. Özellikle alıntı yaptığı insanın bir piyano tuşu olmamak için her şeyi yapacağı ile ilgili bölüm beni etkilemişti. Bu alıntıdaki dilin çok daha çarpıcı olduğunu belirtmeliyim.
-
-* https://www.youtube.com/watch?v=97jBvbmY03g
+Youtube üzerinden takip ettiğim (Jordan Peterson)[https://en.wikipedia.org/wiki/Jordan_Peterson] derslerinin etkisi oldu. Özellikle alıntı yaptığı insanın bir piyano tuşu olmamak için her şeyi yapacağı ile ilgili (alıntı)[https://www.youtube.com/watch?v=97jBvbmY03g] çok etkileyici. Kitabın İngilizce versiyonundaki anlatımın çok daha çarpıcı olduğunu eklemeliyim.
 
 ### Hangi baskısını okudum?
 
-Pek iyi bir baskı olmadığı yönünde şüphelerim var. Biraz araştırmadan aldığım bir kitap olmuş.
+Ne uazık ki aldığım versiyonun pek iyi bir baskı olmadığı yönünde şüphelerim var. Biraz araştırmadan aldığım bir kitap olmuş.
 
 ```
 Remzi Kitabevi Nisan 2018
