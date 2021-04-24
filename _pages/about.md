@@ -20,19 +20,19 @@ redirect_from:
 <div style="margin-top:30px; margin-bottom:30px;">
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>   
-  <tr><td style="border: 0px; border-top: 1px solid beige;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/yeraltindan-notlar">2020-01-01 Yeraltından Notlar</a></td></tr>
+  <tr><td style="border: 0px; border-top: 1px solid #f0f0f0;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/yeraltindan-notlar">2020-01-01 Yeraltından Notlar</a></td></tr>
   </tbody>
 </table>
 
 <table style="border: 0px; margin-bottom:0px; ">
   <tbody>
-  <tr><td style="border: 0px; border-top: 1px solid beige;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/onaltinci-bienal-izlenimleri">2019-10-27 Onaltıncı Bienal İzlenimleri</a></td></tr>
+  <tr><td style="border: 0px; border-top: 1px solid #f0f0f0;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/onaltinci-bienal-izlenimleri">2019-10-27 Onaltıncı Bienal İzlenimleri</a></td></tr>
   </tbody>
 </table>
 
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
-  <tr><td style="border: 0px; border-top: 1px solid beige;  border-bottom: 1px solid beige;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/İzlence
+  <tr><td style="border: 0px; border-top: 1px solid #f0f0f0;  border-bottom: 1px solid #f0f0f0;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/İzlence
 ">2021-06-03 İzlence</a></td></tr>
   </tbody>
 </table>
@@ -40,14 +40,14 @@ redirect_from:
 
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
-  <tr><td style="border: 0px; border-top: 1px solid beige;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/kriptoparalar-ve-blockchain
+  <tr><td style="border: 0px; border-top: 1px solid #f0f0f0;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/kriptoparalar-ve-blockchain
 ">2021-03-25 Kriptoparalar ve Blockchain Algoritması</a></td></tr>
   </tbody>
 </table>
 
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
-  <tr><td style="border: 0px; border-top: 1px solid beige;  border-bottom: 1px solid beige;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/8-mart
+  <tr><td style="border: 0px; border-top: 1px solid #f0f0f0;  border-bottom: 1px solid #f0f0f0;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/8-mart
 ">2021-06-03 Sekiz Mart Dünya Kadınlar Günü</a></td></tr>
   </tbody>
 </table>
@@ -55,7 +55,7 @@ redirect_from:
 
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
-  <tr><td style="border: 0px; border-top: 1px solid beige;  border-bottom: 1px solid beige;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/kitaplar-ve-yazarlari
+  <tr><td style="border: 0px; border-top: 1px solid #f0f0f0;  border-bottom: 1px solid #f0f0f0;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/kitaplar-ve-yazarlari
 ">2021-06-03 Kitaplar ve Yazarları</a></td></tr>
   </tbody>
 </table>
