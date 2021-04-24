@@ -17,6 +17,6 @@ Deep Blue ve Kasparov karşılaşmasının sembolik bir önemi var. Soğuk sava�
 </p>
   
   </div>
-   <div class="four columns"><img class="u-max-full-width" src="https://derinmavi.io/ibm-deep-blue-in-museum.jpg" alt="Müzedeki Deep Blue"></div>
+   <div class="four columns"><img class="u-max-full-width" src="https://derinmavi.io/images/ibm-deep-blue-in-museum.jpg" alt="Müzedeki Deep Blue"></div>
    
 </div>
