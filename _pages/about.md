@@ -32,7 +32,7 @@ redirect_from:
 
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
-  <tr><td style="border: 0px; border-top: 1px solid #f0f0f0;  border-bottom: 1px solid #f0f0f0;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/İzlence
+  <tr><td style="border: 0px; border-top: 1px solid #f0f0f0;  border-bottom: 1px solid #f0f0f0;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/izlence
 ">2021-06-03 İzlence: Filmler, Diziler ve Belgeseller</a></td></tr>
   </tbody>
 </table>
