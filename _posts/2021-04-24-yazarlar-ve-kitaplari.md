@@ -3,7 +3,7 @@ title: 'Yazarlar ve Kitapları'
 date: 2021-04-24
 description: Blogun tanıtım yazısı
 category: Blog
-permalink: posts/yazarlar-ve-kitaplari
+permalink: yazarlar-ve-kitaplari
 tags: []
 ---
 
