@@ -3,7 +3,7 @@ title: Sekiz Mart Dünya Kadınlar Günü
 date: 2021-06-03
 description: 
 category: Kitap
-permalink: posts/2020/05/8-mart
+permalink: 8-mart
 tags: [Kadınlar, Bilim]
 ---
 
