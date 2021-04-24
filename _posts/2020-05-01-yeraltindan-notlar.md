@@ -3,7 +3,7 @@ title: Yeraltından Notlar
 date: 2020-05-01
 description: 
 category: Kitap
-permalink: posts/yeraltindan-notlar
+permalink: yeraltindan-notlar
 img: notes_underground1.jpg
 tags: [Dostoyevski, İnsan, Roman, Psikoloji]
 ---
