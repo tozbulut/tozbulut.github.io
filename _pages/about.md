@@ -36,7 +36,6 @@ redirect_from:
 ">2021-06-03 İzlence</a></td></tr>
   </tbody>
 </table>
-</div>
 
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
@@ -51,7 +50,6 @@ redirect_from:
 ">2021-06-03 Sekiz Mart Dünya Kadınlar Günü</a></td></tr>
   </tbody>
 </table>
-</div>
 
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
@@ -59,7 +57,7 @@ redirect_from:
 ">2021-06-03 Kitaplar ve Yazarları</a></td></tr>
   </tbody>
 </table>
-</div>
+
 
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
