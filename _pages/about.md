@@ -65,7 +65,7 @@ redirect_from:
   <tbody>
   <tr><td style="border: 0px;">
   <a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/derin-mavi">Derin Mavi Nedir?</a><br/>
-  <a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/izlence">Arşiv</a>
+  <a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/posts">Arşiv</a>
   </td></tr>
   </tbody>
 </table>
