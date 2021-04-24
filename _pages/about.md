@@ -67,3 +67,4 @@ redirect_from:
   </td></tr>
   </tbody>
 </table>
+</div>
