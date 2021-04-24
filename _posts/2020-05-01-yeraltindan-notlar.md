@@ -3,12 +3,12 @@ title: Yeraltından Notlar
 date: 2020-05-01
 description: 
 category: Kitap
-permalink: posts/2020/05/yeraltindan-notlar
+permalink: posts/yeraltindan-notlar
 img: notes_underground1.jpg
 tags: [Dostoyevski, İnsan, Roman, Psikoloji]
 ---
 
-Yeraltından Notlar uzun zamandır okumak istediğim bir romandı. Dostoyevski'nin insan doğasını anlatmakta iyi olduğu edebiyat severler tarafından sıklıkla yapılır. Yeraltından Notlar, Dostoyevski'nin bence en "garip" çalışması. Roman boyunca ana tema Rus yazarın *insandaki en büyük güç ve aynı zamanda en göze çarpan zayıflık* olduğuna inandığı yoğun kendilik duygusu.
+Yeraltından Notlar uzun zamandır okumak istediğim bir romandı. Dostoyevski'nin insan doğasını anlatmakta iyi olduğu edebiyat severler tarafından sıklıkla yapılan bir yorum. Yeraltından Notlar, Dostoyevski'nin bence en "garip" çalışması. Roman boyunca ana tema Rus yazarın *insandaki en büyük güç ve aynı zamanda en göze çarpan zayıflık* olduğuna inandığı yoğun kendilik duygusu.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/n1.jpg" alt="Fyodor Dostoyevski"></div>
@@ -45,17 +45,9 @@ Kitabın önsözünde yer aldığı üzere Dostoyevski'nin Yeraltından Notlar'�
 Dostoyevski "Kristal Saray"'a karşı olarak insanın çoğu kez kendi izole ve bencil dünyasında kendi çıkarına aykırı olsa da irrasyonel kararlar alabileceğini savunuyor. Üstelik insan bunu yalnızca özgür iradesini korumak için yapabileceğini söylüyor. İnsandaki bu delice hal, Çernişevski'nin dünyasının tam zıttı olan insanın doğasındaki bu grotesk güzellik Dostoyevski'ye göre insanı değerli yapan tam da bu.
 Çağının modernistlerine ve ütopyacılarına hicivli bir dille ne notların yazarının ne de insanlığın hiç de bildikleri gibi olmadığını söylüyor.
 
-### Kitabın Yapısı
-
 Roman iki bölümden oluşuyor. İlkinde bölümde kendi ağzından karakteri ve hayata bakışını dinliyoruz. Bu bölümde ilginç sosyolojik tespitler var. İkincisinde ise günlük hayatta başına gelen çeşitli olaylara dair anılar var. İlk kısmın teori ikinci kısmın ise pratik olarak düşünülebileceği şeklinde bir yorum var. Bu yoruma katılıyorum. 
 
-* I. Kitap
-    * Süvari İle Takışma
-* II. Kitap : Sulu Sepken Üzerine
-    * Zverkov Akşam Yemeği
-    * Lisa İle Görüşme
-    * Apollon
-    * Lisa'nın Eve Gelmesi
+I. Kitap'ta Süvari İle Takışma yalnızca Süvari İle Takışma olayına yer verilirken II. kitap olan Sulu Sepken Üzerine'de yazarın Zverkov ile Akşam Yemeği, Lisa ile Görüşme, Yeraltı adamının uşağı Apollon, Lisa'nın Eve Gelmesi sahneleri yer alıyor.
 
 ### Kitaptan Bazı Alıntılar
 
