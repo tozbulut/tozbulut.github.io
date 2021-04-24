@@ -33,7 +33,7 @@ redirect_from:
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
   <tr><td style="border: 0px; border-top: 1px solid #f0f0f0;  border-bottom: 1px solid #f0f0f0;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/İzlence
-">2021-06-03 İzlence</a></td></tr>
+">2021-06-03 İzlence: Filmler, Diziler ve Belgeseller</a></td></tr>
   </tbody>
 </table>
 
@@ -53,8 +53,8 @@ redirect_from:
 
 <table style="border: 0px; margin-bottom:0px;">
   <tbody>
-  <tr><td style="border: 0px; border-top: 1px solid #f0f0f0;  border-bottom: 1px solid #f0f0f0;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/kitaplar-ve-yazarlari
-">2021-06-03 Kitaplar ve Yazarları</a></td></tr>
+  <tr><td style="border: 0px; border-top: 1px solid #f0f0f0;  border-bottom: 1px solid #f0f0f0;"><a style=" text-decoration: none; color: inherit;letter-spacing: 0.1rem;" href="https://derinmavi.io/yazarlar-ve-kitaplari
+">2021-06-03 Yazarlar ve Kitapları</a></td></tr>
   </tbody>
 </table>
 
