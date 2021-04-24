@@ -3,7 +3,7 @@ title: Kriptoparalar ve Blockchain Algoritması
 date: 2021-03-25
 description: 
 category: Kitap
-permalink: posts/2020/05/kriptoparalar-ve-blockchain
+permalink: posts/kriptoparalar-ve-blockchain
 tags: [Kriptopara, Blockchain, Kriptografi]
 ---
 
