@@ -8,7 +8,7 @@ tags: []
 ---
 
 
-<div class="row" style="margin-bottom: 2.5rem;margin-top: 1.5rem; display: inline-block;"><div class="eight column" style="
+<div class="row" style="margin-top: 1.5rem;border-bottom: 1px solid #ccc;display: inline-block;"><div class="eight column" style="
     max-width: 490px;
     float: left;
     padding-right: 20px;
