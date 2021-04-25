@@ -18,7 +18,6 @@ tags: []
     max-width: 275px;
     float: right;
     padding-left: 20px;
-    padding-top: 20px;
 "><img class="u-max-full-width" src="https://derinmavi.io/images/ibm-deep-blue-in-museum.jpg" alt="Müzedeki Deep Blue"></div></div>
 
 <div class="row" style="margin-bottom: 2.5rem; display: inline-block;">
