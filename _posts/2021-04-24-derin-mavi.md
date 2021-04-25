@@ -8,7 +8,7 @@ tags: []
 ---
 
 
-<div class="row" style="margin-bottom: 2.5rem;margin-top: 2.5rem;"><div class="eight column" style="
+<div class="row" style="margin-bottom: 2.5rem;margin-top: 2.5rem; display: inline-block;"><div class="eight column" style="
     max-width: 490px;
     float: left;
     padding-right: 20px;
@@ -21,6 +21,6 @@ tags: []
     padding-top: 20px;
 "><img class="u-max-full-width" src="https://derinmavi.io/images/ibm-deep-blue-in-museum.jpg" alt="Müzedeki Deep Blue"></div></div>
 
-<div class="row" style="margin-bottom: 2.5rem;margin-top: 2.5rem;">
+<div class="row" style="margin-bottom: 2.5rem; display: inline-block;">
 <p>Bugün Deep Blue müzeye kaldırıldı karşılaşmayı oluşturan şartların bir kısmı değişdi yine de aslında hala o dönemde yaşıyoruz.</p>
 </div>
