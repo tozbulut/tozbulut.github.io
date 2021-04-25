@@ -21,4 +21,6 @@ tags: []
     padding-top: 20px;
 "><img class="u-max-full-width" src="https://derinmavi.io/images/ibm-deep-blue-in-museum.jpg" alt="Müzedeki Deep Blue"></div></div>
 
+<div class="row" style="margin-bottom: 2.5rem;margin-top: 2.5rem;">
 <p>Bugün Deep Blue müzeye kaldırıldı karşılaşmayı oluşturan şartların bir kısmı değişdi yine de aslında hala o dönemde yaşıyoruz.</p>
+</div>
