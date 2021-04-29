@@ -7,7 +7,7 @@ permalink: kriptoparalar-ve-blockchain
 tags: [Kriptopara, Blockchain, Kriptografi]
 ---
 
-Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bir yazıyla bu teknolojinin tüm detaylarını kavramıyor olsam da iyi bir tanışma yapabileceğimi düşündüm. Bu yazıda Blockchain'in işleyişine basit bir açıklama getirirken, etrafında dolaşan delilik halini bir yana bırakıp bu yeni ve devrimsel teknolojiyi anlamaya çalışacağız.
+Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bir yazıyla bu teknolojinin tüm detaylarını kavramıyor olsak da iyi bir tanışma yapabileceğimizi düşündüm. Bu yazıda Blockchain'in işleyişine basit bir açıklama getirirken, etrafında dolaşan delilik halini bir yana bırakıp bu yeni ve devrimsel teknolojiyi anlamaya çalışacağız.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/a2ls9-xmgav.png" alt="Kriptopara Bitcoin"></div>
