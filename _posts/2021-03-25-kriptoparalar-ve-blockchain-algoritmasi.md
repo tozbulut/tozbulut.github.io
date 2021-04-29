@@ -7,21 +7,18 @@ permalink: kriptoparalar-ve-blockchain
 tags: [Kriptopara, Blockchain, Kriptografi]
 ---
 
-Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bir yazıyla bu teknolojinin tüm detaylarını kavramıyor olsam da iyi bir tanışma yapabileceğimi düşündüm. Bu yazının temel amacı Blockchain işleyişine basit bir açıklama getirerek, etrafında dolaşan delilik halini bir yana bırakıp bu yeni ve devrimsel teknolojiyi anlamaya çalışmak.
+Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bir yazıyla bu teknolojinin tüm detaylarını kavramıyor olsam da iyi bir tanışma yapabileceğimi düşündüm. Bu yazıda Blockchain'in işleyişine basit bir açıklama getirirken, etrafında dolaşan delilik halini bir yana bırakıp bu yeni ve devrimsel teknolojiyi anlamaya çalışacağız.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/a2ls9-xmgav.png" alt="Kriptopara Bitcoin"></div>
    <div class="two column"></div>
 </div>
 
-Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Satashi Nakomoto ismi anonim kalsa da açık kaynaklı, merkezi olmayan ilk dijital para birimi bitcoin bu şekilde doğdu.
+Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Nakomoto bir manada anonim kalsa da açık kaynaklı, merkezi olmayan ilk dijital para birimi bitcoin bu şekilde doğdu. (Orjinal bitcoin makalesine)[https://bitcoin.org/bitcoin.pdf] internet üzerinden ulaşmak mümkün.
 
-* Orjinal Bitcoin Makalesi : https://bitcoin.org/bitcoin.pdf
+Son yıllarda Bitcoin'in değerindeki büyük artış ile beraber kriptoparalar ilgi çeken bir konu haline geldi. İlgi sahibi insanların hepsi yeterince bilinçli değil. Sonuç olarak bu durumu istismar eden pek çok kişi de türedi. Konuyla ilgili materyal çok ama hepsi aynı kalitede değil. Biz daha çok işleyişi anlamaya 3Blue1Brown kanalınınki gibi videolar fayda sağlayacaktır. Bu kanalın videosu aslında büyük ölçüde bir blog yazısından alınmış. Her ikisine de bu yazının kaynaklar bölümünden ulaşabilirsiniz. 
 
-Kriptoparalar çok ilgi çeken bir konu. Youtube üzerinde konuyla ilgili pek çok video mevcut ama ben işleyişi anlamaya çalıştığımdan bunu basitçe anlatan 3Blue1Brown adlı bir kanalın videosunu tercih ettim. Bu kanalın videosu aslında büyük ölçüde bir blog yazısından alınmış. Her ikisine de bu yazının kaynaklar bölümünden ulaşabilirsiniz. 
-
-Peki blockchain'e dönecek olursak. Öncelikle Coinleri üretmek için kullanılan yazılım *açık kaynaklı* olduğuna dikkat edelim. Bu isteyen herkesin kriptopara üretebileceği anlamına geliyor. Bu coinlerin hepsine güvenmek pek doğru değil. Bugün binlerce altcoin var ve bu kriptoparalar dizayn tercihleri anlamında farklılaşabiliyorlar. 
-
+Coinleri üretmek için kullanılan yazılım *açık kaynaklı* olduğuna dikkat edelim. Bu isteyen herkesin kriptopara üretebileceği anlamına geliyor. Bu coinlerin hepsine güvenmek pek doğru değil. Bugün binlerce altcoin var ve bu kriptoparalar dizayn tercihleri anlamında farklılaşabiliyorlar. 
 
 ###  Blok Zinciri Nasıl Çalışıyor?
 
