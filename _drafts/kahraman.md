@@ -51,3 +51,22 @@ Hefelerimi kovalarken çevremdeki insanlari enduselendiriyordum.
 
 Herkesin beklentisini karşılayacak gülümseyen havalı bir kahraman olmak için herkesi endiselendirmeyecek bir yöntem bulmalıyım .
 
+
+
+Gerçek anlamıyla Kölelikten söz etmek mümkün değildir. Zaten bilinmesi bu fikrin bile yeterlidir. Orada saçma bir abartma var. Tehlikeli bir abartme bu çünkü bilinçsiz insanlari arkasından sürüklüyor.
+
+Ekonomik takıntı pek çok insanda vardır. Kendi değerlerini ekonomik değerleri ile kıyaslama yönüne giderler. Bu da bir bakıma ölümle ilgilidir. 
+
+Öte taraftan kiskaclar olabiliyor.
+
+
+Soyluar sınıfından bahsetmek mümkün. Aklı olan kimse bu soylular sınıfından değilse onların yanında yer almaz. Bu insanları görmüyoruz bile.
+
+Umutsuzluk küçük burjuva hastalığıdır.
+
+
+Bu soylu sınıfının elindekileri almak ister mümkünse doğal yollardan yoksa güçle. Eğer ekonomik eşitsizlik çok göze çarpar olursa bunu yapar. Şimdi Rusya da bu oldu ama Ruslar zenginleşmediler komünizm o kadar iyiyse savaşı kazanmaliydi. Böyle bir şansı vardı. 
+
+Bugün Çin'de olan ise bambaşka bir şeydir.
+
+
