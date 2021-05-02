@@ -70,3 +70,19 @@ Bu soylu sınıfının elindekileri almak ister mümkünse doğal yollardan yoks
 Bugün Çin'de olan ise bambaşka bir şeydir.
 
 
+
+Net hedefler koy.
+Çalışma kaynağın net olsun.
+Sonuç alamazsan ne olacağı düşün.
+
+Neden bu sınava hazırlanıyorsun. 
+Net bir hedefi olan. Hedef kendine çeker. Beyniniz adimalari atmaya başlar. Reel bir hedef olması. Ben mersedes değil 50.000 para değil . Adını söyle. Hedef küçültme yapma.
+
+Bugün inemli. Onu o zaman dusunueuz.
+
+Ne yapacağını bilip onu yap.
+
+
+
+
+
