@@ -1,5 +1,10 @@
-Bir şeyin doğaya ters bir durumu varsa bundan bir fayda elde edinilmesi mümkündür. Kurgusallıkların objektif gerçeklerle bağdaşmadığı yerde o fark akse kullanılabilir.
+Konu insan tecrübesini anlamlandırmak olduğunda bilmek çok zor.  Sensemaking çok ayrı bir konu. Burada kendimize alan açmak gerekiyor. Bilmediğimiz bir alanda yeraliyoruz bir de şu durum var. Fiziksel gerçekliği aramiyoruz. Objectif dünyayı doğru anlatamayan dogrulsrimiz var ama doğru olduğunu bildiğimizden vazgeçemiyoruz.
 
+Bende bir eksiklik var ama tam yok gibi de nedir o? Her karşıdakine karşı 
+
+Sen kendince bir planın var sanki onu doğru kabul edip doğruymuş gibi davranıyorsun. Pimpirikli halin de buradan geliyor.  
+
+Bir şeyin doğaya ters bir durumu varsa bundan bir fayda elde edinilmesi mümkündür. Kurgusallıkların objektif gerçeklerle bağdaşmadığı yerde o fark akse kullanılabilir.
 
 Aslında harita üzerinde mesela geçmişe yönelik hangi zamanda hangi coğrafi bölgeler savaş alanıydı?
 
