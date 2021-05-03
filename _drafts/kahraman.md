@@ -1,10 +1,10 @@
 Biz aslında çok daha kişisel bir konu ile ilgiliyiz. Peki hayatlarımızın kahramanları nasıl olabiliriz. Bu düşünce pek çoğuna çocukça gelebilir. Varsın gelsin. Mavi gökyüzü çocukken de sizindi hala sizindir. Kimse güneşi ve gökyüzünü sizden alamaz. Pek çoğumuz bir çok imkana sahip olamayabiliriz. Boyle bir durumda kalsa ne yapardı diye düşündüğümüz bir kahramanımız olmayabilir. Ama bu kahramanı oluşturmakta hayal etmekte özgürüz. Böyle bir mentorumuz ve kahramanımız varmış gibi yapabiliriz. Böylece bu kahraman dünyevi zaaflarsan azade olur.
 
-Bir kahramanı analiz ederek işe başlayacak olursak  Kahramanın bir bedeni vardir. Bir etiği vardır. Bir gücü vardır. Etiğini iradesi gibi de düşünebiliriz.
+Bir kahramanı analiz ederek işe başlayacak olursak  Kahramanın bir bedeni vardir. Bir etiği vardır. Bir gücü vardır. Etiğini iradesi gibi de düşünebiliriz. Kahtaman bir yandan halk iyi görünmelidir. Bu onun için bir persona'dır.
 
 Bu düşünceler tiyatroda izlediğim bir oyunu aklıma getirdi. Moda Sahnesinde izlemiştim. BlueScat oyunu geldi aklıma. Oyunda erkek karakterin tipik bir tavrı vardı. Devamlı bir öğreti içerisinde kalmaya çalışıyordu. Acı ile böyle mücadele ediyordu. Bu kavga bir devamlılık halindeydi. Bu tutum Övülüyor muydu yeriliyor muydu. Yoksa bir örnek olarak mı veriliyordu bilemiyorum. Ama ben bu düşünceyi etkileyici bulmuştum. Bu bir çeşit kod bir çeşit playbook gibi motivasyona yönelik stratejiler den bağımsız bir bastırma mekanizması. Belki de Uzlastirilmis bir superego.
 
-Öğrenciliğin o tatlı havası hepinizin malumudur. İçerisinde içinde bir zayıflık da barındırır. Nerd (inek) tipin zayıflığı değil mi kahramanınkinden uzaktır. Bu gibi tipolojiler stereotipler çok güzel anlatır aslında durumu.    Defterler ve kitaplarla güne yetişmeye çalışırken mavi gökyüzü çimenler arkadaşlar ve rakipler vardır.
+Öğrenciliğin o tatlı havası hepinizin malumudur. İçerisinde içinde bir zayıflık da barındırır. Nerd (inek) tipin zayıflığı değil mi kahramanınkinden uzaktır. Bu gibi tipolojiler stereotipler çok güzel anlatır aslında durumu. Defterler ve kitaplarla güne yetişmeye çalışırken mavi gökyüzü çimenler arkadaşlar ve rakipler vardır.
 
 Rakipler de yeteneğinizden etkilenir. Kimi bu havayı bozmak isterse ona fırsat vermeyin. Karmaşık düşüncelerin yeri ayrıdır. Onları bu çeşit durumlarda kullananlar zavallılardır. Onların içinde döndüğü kuyu kendilerini delirtir. Oysa biz açık araziler arıyoruz. Erdem sizi temizler size kalkan olur.
 
