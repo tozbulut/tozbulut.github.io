@@ -4,13 +4,19 @@
 
 Bir kahramanı analiz ederek işe başlayacak olursak  Kahramanın bir bedeni vardir. Kahraman olmasını sağlayan yetenekleri vardır. Ama biz bu yeteneklerin haricinde onu tavırıyla tanırız. Bu onun iradesidir doğruluk payı aslında yüksektir.
 
-Moda Sahnesinde bir süre önce izlediğim BlueScat adlı oyununda erkek karakterin tipik bir tavrı vardı. Devamlı bir öğreti içerisinde kalmaya çalışıyordu. Acı ile böyle mücadele ediyordu. Bu kavga bir devamlılık halindeydi. Bu tutum Övülüyor muydu yeriliyor muydu. Yoksa bir örnek olarak mı veriliyordu bilemiyorum. Ama ben bu düşünceyi etkileyici bulmuştum. Bu bir çeşit kod bir çeşit playbook gibi motivasyona yönelik stratejiler den bağımsız bir bastırma mekanizması. Belki de Uzlastirilmis bir superego. Bunu yaparken canlı kalmak önemlidir. Çünkü bu şekilde bir teslimiyet canlılığı öldürebilir.
+Moda Sahnesinde bir süre önce izlediğim BlueScat adlı oyununda erkek karakterin tipik bir tavrı vardı. Devamlı bir öğreti içerisinde kalmaya çalışıyordu. Acı ile böyle mücadele ediyordu. Bu kavga bir devamlılık halindeydi. Bu tutum Övülüyor muydu yeriliyor muydu. Yoksa bir örnek olarak mı veriliyordu bilemiyorum. Ama ben bu düşünceyi etkileyici bulmuştum. Bu bir çeşit kod bir çeşit playbook gibi motivasyona yönelik stratejiler den bağımsız bir bastırma mekanizması. Belki de Uzlastirilmis bir superego.
+
+> Bu şekilde hareket ederken canlı kalmak önemlidir. Çünkü bu şekilde bir teslimiyet canlılığı öldürebilir.
 
 Öğrenciliğin o tatlı havası hepimizin malumudur. İçerisinde içinde bir zayıflık da barındırır. Nerd (inek) tipin zayıflığı değil mi kahramanınkinden uzaktır. Bu gibi tipolojiler stereotipler çok güzel anlatır aslında durumu. Defterler ve kitaplarla güne yetişmeye çalışırken mavi gökyüzü çimenler arkadaşlar ve rakipler vardır.
 
 Rakipler de yeteneğinizden etkilenir. Kimi bu havayı bozmak isterse ona fırsat vermeyin. Karmaşık düşüncelerin yeri ayrıdır. Onları bu çeşit durumlarda kullananlar zavallılardır. Onların içinde döndüğü kuyu kendilerini delirtir. Oysa biz açık araziler arıyoruz. Erdem sizi temizler size kalkan olur.
 
+> Erdemler zayıflıkları iter. Erdemli olursanız zayıflık kendini gösterecektir.
+
 Peki çalışmalar onca yazı. Kendine has diliyle aklımıza fısıldayan cinler gibidir. Bizi günden koparır. Her söz aklın buyusudur. Büyülü laflar biraz tekinsizdir. Burada algımız parantezinde bilim büyüden ayırt edilemez tıpkı Carl Sagan ın dediği gibi. Gerçekliği anlama kapasitemiz özümüzü oluşturur. Bizler gerçekliğin modelini felsefemiz haline getirirken bazı hatalara goz yumariz. Gerçeğin bu parçaları bu nedenle tekinsizdir.
+
+> Takınılacak tutum şefkatli içten ama zarar potansiyelini barındıran olmalıdır.
 
 Yarışmak bu işin ruhudur. Hayatta sık sık bu durumda yer alırız. Aslında hep bu durumdayız. Hunger Games stili. Ama aslında daha dostane bir havada geçer. Ve görünüş de kişilik de farkedilir. Bu ilginçlikler performansla da düzenli olmayan bir ilişki içerisindedirler. Takınılan tavır zaafiyetler trade off lar değil midir. 
 
