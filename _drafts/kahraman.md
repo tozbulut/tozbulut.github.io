@@ -1,3 +1,14 @@
+### Bir Anlatı Oluşturmanın Gerekliliği
+
+* İnsanların buna fazla zamanı kalmayabiliyor.
+* Araştırma Yapabilmek, Araştırmalara kaynak olacak irade.
+  * En çok para sağlayan ürün ve servisler nelerdir?
+  * En çok maddi kaynak oluşturan meslekler nelerdir? Mesleklerin IQ ile eşlenmesi. 
+  * Para nasıl el değiştirir?
+* Motivasyonel Metin
+
+
+
 İnsan kendiyle bir sohbete girebilir mi? İnsanın hayatta neyi ne kadar bilebileceği bir soru işareti olsa da bir yol çizmek önemli. Aksi taktirde savrulmak çok olası. Biz aslında çok daha kişisel bir konu ile ilgiliyiz. Peki hayatlarımızın kahramanları nasıl olabiliriz. Bu düşünce pek çoğuna çocukça gelebilir. Varsın gelsin. Mavi gökyüzü çocukken de sizindi hala sizindir. Kimse güneşi ve gökyüzünü sizden alamaz. Pek çoğumuz bir çok imkana sahip olamayabiliriz. Boyle bir durumda kalsa ne yapardı diye düşündüğümüz bir kahramanımız olmayabilir. Ama bu kahramanı oluşturmakta hayal etmekte özgürüz. Böyle bir mentorumuz ve kahramanımız varmış gibi yapabiliriz. Böylece bu kahraman dünyevi zaaflarsan azade olur.
 
 > Tavır her zaman gerçeğe rağmendir. Konuşma ve algı zaten gerçeğin bir kopyasıdır.
@@ -14,9 +25,9 @@ Rakipler de yeteneğinizden etkilenir. Kimi bu havayı bozmak isterse ona fırsa
 
 > Erdemler zayıflıkları iter. Erdemli olursanız zayıflık kendini gösterecektir.
 
-Peki çalışmalar onca yazı. Kendine has diliyle aklımıza fısıldayan cinler gibidir. Bizi günden koparır. Her söz aklın buyusudur. Büyülü laflar biraz tekinsizdir. Burada algımız parantezinde bilim büyüden ayırt edilemez tıpkı Carl Sagan ın dediği gibi. Gerçekliği anlama kapasitemiz özümüzü oluşturur. Bizler gerçekliğin modelini felsefemiz haline getirirken bazı hatalara goz yumariz. Gerçeğin bu parçaları bu nedenle tekinsizdir.
+Peki çalışmalar onca yazı. Kendine has diliyle aklımıza fısıldayan cinler gibidir. Bizi günden koparır. Her söz aklın buyusudur. Büyülü laflar biraz tekinsizdir. Tıpkı Carl Sagan'ın bahsettiği gibi algımız parantezinde bilim büyüden ayırt edilemez. Gerçekliği anlama kapasitemiz özümüzü oluşturur. Bizler gerçekliğin modelini felsefemiz haline getirirken bazı hatalara goz yumariz. Gerçeğin bu parçaları bu nedenle tekinsizdir.
 
-> Takınılacak tutum şefkatli içten ama zarar potansiyelini barındıran olmalıdır.
+> Bir insanın dış dünyaya karşı takınacağı tutum şefkatli içten ama karşıya zarar potansiyelini barındıran olmalıdır.
 
 Yarışmak bu işin ruhudur. Hayatta sık sık bu durumda yer alırız. Aslında hep bu durumdayız. Hunger Games stili. Ama aslında daha dostane bir havada geçer. Ve görünüş de kişilik de farkedilir. Bu ilginçlikler performansla da düzenli olmayan bir ilişki içerisindedirler. Takınılan tavır zaafiyetler trade off lar değil midir. 
 
