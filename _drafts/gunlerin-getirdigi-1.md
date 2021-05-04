@@ -1,3 +1,6 @@
+Belki de insana verilen değer öylesine arttı ki. Kişi kendini material olarak algılamaktan uzaklaştı. Bir insanın bir nesne olarak algılanması kategorizelendirilmesi
+saçma oldu. Zaten kim ne biliyor ki oldu. Oysa erdemler sabittir.
+
 Konu insan tecrübesini anlamlandırmak olduğunda bilmek çok zor.  Sensemaking çok ayrı bir konu. Burada kendimize alan açmak gerekiyor. Bilmediğimiz bir alanda yeraliyoruz bir de şu durum var. Fiziksel gerçekliği aramiyoruz. Objectif dünyayı doğru anlatamayan dogrulsrimiz var ama doğru olduğunu bildiğimizden vazgeçemiyoruz.
 
 Bende bir eksiklik var ama tam yok gibi de nedir o? Her karşıdakine karşı 
