@@ -1,6 +1,6 @@
 İnsan kendiyle bir sohbete girebilir mi? İnsanın hayatta neyi ne kadar bilebileceği bir soru işareti olsa da bir yol çizmek önemli. Aksi taktirde savrulmak çok olası. Biz aslında çok daha kişisel bir konu ile ilgiliyiz. Peki hayatlarımızın kahramanları nasıl olabiliriz. Bu düşünce pek çoğuna çocukça gelebilir. Varsın gelsin. Mavi gökyüzü çocukken de sizindi hala sizindir. Kimse güneşi ve gökyüzünü sizden alamaz. Pek çoğumuz bir çok imkana sahip olamayabiliriz. Boyle bir durumda kalsa ne yapardı diye düşündüğümüz bir kahramanımız olmayabilir. Ama bu kahramanı oluşturmakta hayal etmekte özgürüz. Böyle bir mentorumuz ve kahramanımız varmış gibi yapabiliriz. Böylece bu kahraman dünyevi zaaflarsan azade olur.
 
-> Tavır herzaman gerçeğe rağmendir. Konuşma ve algı zaten gerçeğin bir kopyasıdır.
+> Tavır her zaman gerçeğe rağmendir. Konuşma ve algı zaten gerçeğin bir kopyasıdır.
 
 Bir kahramanı analiz ederek işe başlayacak olursak  Kahramanın bir bedeni vardir. Kahraman olmasını sağlayan yetenekleri vardır. Ama biz bu yeteneklerin haricinde onu tavırıyla tanırız. Bu onun iradesidir doğruluk payı aslında yüksektir.
 
