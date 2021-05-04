@@ -21,5 +21,7 @@ tags: []
 "><img class="u-max-full-width" src="https://derinmavi.io/images/ibm-deep-blue-in-museum.jpg" alt="Müzedeki Deep Blue"></div></div>
 
 <div class="row" style="margin-bottom: 2.5rem; display: inline-block;">
-<p>Bugün Deep Blue müzeye kaldırıldı karşılaşmayı oluşturan şartların bir kısmı değişdi yine de aslında hala o dönemde yaşıyoruz.</p>
+<p>Bugün Kasparov aktif satranç oynamayı bırakmış, Deep Blue müzeye kaldırılmış olsa da aslında yaşadığımız zamanın şartları büyük ölçüde ortak.</p>
 </div>
+
+Kasparov Versus The World : Kasparov Dünya'ya karşı 1999'da İnternet üzerinden oynanan bir satranç oyunuydu. [1] Beyaz taşları yöneten Garry Kasparov, Dünya Takımı hamlelerinin çoğul oylamayla kararlaştırılmasıyla birlikte dünyanın geri kalanıyla istişare halinde karşı karşıya geldi. Oyuna 75'ten fazla ülkeden 50.000'den fazla kişi katıldı.
