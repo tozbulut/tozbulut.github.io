@@ -1,4 +1,4 @@
-Biz aslında çok daha kişisel bir konu ile ilgiliyiz. Peki hayatlarımızın kahramanları nasıl olabiliriz. Bu düşünce pek çoğuna çocukça gelebilir. Varsın gelsin. Mavi gökyüzü çocukken de sizindi hala sizindir. Kimse güneşi ve gökyüzünü sizden alamaz. Pek çoğumuz bir çok imkana sahip olamayabiliriz. Boyle bir durumda kalsa ne yapardı diye düşündüğümüz bir kahramanımız olmayabilir. Ama bu kahramanı oluşturmakta hayal etmekte özgürüz. Böyle bir mentorumuz ve kahramanımız varmış gibi yapabiliriz. Böylece bu kahraman dünyevi zaaflarsan azade olur.
+İnsanın hayatta neyi ne kadar bilebileceği bir soru işareti olsa da bir yol çizmek önemli. Aksi taktirde savrulmak çok olası. Biz aslında çok daha kişisel bir konu ile ilgiliyiz. Peki hayatlarımızın kahramanları nasıl olabiliriz. Bu düşünce pek çoğuna çocukça gelebilir. Varsın gelsin. Mavi gökyüzü çocukken de sizindi hala sizindir. Kimse güneşi ve gökyüzünü sizden alamaz. Pek çoğumuz bir çok imkana sahip olamayabiliriz. Boyle bir durumda kalsa ne yapardı diye düşündüğümüz bir kahramanımız olmayabilir. Ama bu kahramanı oluşturmakta hayal etmekte özgürüz. Böyle bir mentorumuz ve kahramanımız varmış gibi yapabiliriz. Böylece bu kahraman dünyevi zaaflarsan azade olur.
 
 Bir kahramanı analiz ederek işe başlayacak olursak  Kahramanın bir bedeni vardir. Bir etiği vardır. Bir gücü vardır. Etiğini iradesi gibi de düşünebiliriz. Kahtaman bir yandan halk iyi görünmelidir. Bu onun için bir persona'dır.
 
@@ -51,38 +51,28 @@ Hefelerimi kovalarken çevremdeki insanlari enduselendiriyordum.
 
 Herkesin beklentisini karşılayacak gülümseyen havalı bir kahraman olmak için herkesi endiselendirmeyecek bir yöntem bulmalıyım .
 
-
-
 Gerçek anlamıyla Kölelikten söz etmek mümkün değildir. Zaten bilinmesi bu fikrin bile yeterlidir. Orada saçma bir abartma var. Tehlikeli bir abartme bu çünkü bilinçsiz insanlari arkasından sürüklüyor.
 
 Ekonomik takıntı pek çok insanda vardır. Kendi değerlerini ekonomik değerleri ile kıyaslama yönüne giderler. Bu da bir bakıma ölümle ilgilidir. 
 
 Öte taraftan kiskaclar olabiliyor.
 
-
 Soyluar sınıfından bahsetmek mümkün. Aklı olan kimse bu soylular sınıfından değilse onların yanında yer almaz. Bu insanları görmüyoruz bile.
 
 Umutsuzluk küçük burjuva hastalığıdır.
-
 
 Bu soylu sınıfının elindekileri almak ister mümkünse doğal yollardan yoksa güçle. Eğer ekonomik eşitsizlik çok göze çarpar olursa bunu yapar. Şimdi Rusya da bu oldu ama Ruslar zenginleşmediler komünizm o kadar iyiyse savaşı kazanmaliydi. Böyle bir şansı vardı. 
 
 Bugün Çin'de olan ise bambaşka bir şeydir.
 
+Net hedefler koy. Çalışma kaynağın net olsun. Sonuç alamazsan ne olacağı düşün.
 
+Neden bu sınava hazırlanıyorsun. Net bir hedefi olan. Hedef kendine çeker. Beyniniz adimalari atmaya başlar. Reel bir hedef olması. Ben mersedes değil 50.000 para değil . Adını söyle. Hedef küçültme yapma.
 
-Net hedefler koy.
-Çalışma kaynağın net olsun.
-Sonuç alamazsan ne olacağı düşün.
-
-Neden bu sınava hazırlanıyorsun. 
-Net bir hedefi olan. Hedef kendine çeker. Beyniniz adimalari atmaya başlar. Reel bir hedef olması. Ben mersedes değil 50.000 para değil . Adını söyle. Hedef küçültme yapma.
-
-Bugün inemli. Onu o zaman dusunueuz.
+Bugün önemli. Onu o zaman dusunrüz.
 
 Ne yapacağını bilip onu yap.
 
+Zamanı yönetmek için google calendar gibi uygulamalar kullanın. Günlük bir planınız mutlaka olsun. Zamanı takip etmeye ve yönetmeye alışın. Amaçsız geçirdiğiniz saatleri fark edin. Unutmayın hedeflerin sayısı çokken elinizdeki tek şey verimli kullandığınız zamandır.
 
-
-
-
+Maaşlı çalışan olmak vs. Kendi işine sahip olmak. 
