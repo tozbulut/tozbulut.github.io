@@ -7,14 +7,14 @@ permalink: 8-mart
 tags: [Kadınlar, Bilim]
 ---
 
-8 Mart tüm dünyada cinsiyetler siyasi ve sosyal bilincinin geliştirilmesine, ekonomik, siyasi ve sosyal başarılarının kutlanmasına ayrılıyor. Bu çağda kadın olmak, bu çağda erkek olmak, Türkiye’de kadın olmak, Türkiye'de erkek olmak dediğimiz zaman bu bir takım hikayelerle dolu bir paketi kabullenmek demek. 
+8 Mart tüm dünyada cinsiyetler siyasi ve sosyal bilincinin geliştirilmesine, ekonomik, siyasi ve sosyal başarılarının kutlanmasına ayrılıyor. Bu çağda kadın olmak, bu çağda erkek olmak, Türkiye’de kadın olmak, Türkiye'de erkek olmak dediğimiz zaman bu bir takım hikayelerle dolu bir paketi kabullenmek demek. Peki acaba cinsiyet üzerinde yapılan vurgu anlamlı mı?
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/8march.jpg" alt="8 Mart"></div>
    <div class="two column"></div>
 </div>
 
-Bir grup içerisinde bir şeyin yolunda gitmediğini gördüğünüzde ve bu durumu bir şekilde değiştiremeniz mümkün olmadığında yapılacak şey onu bir kenara öğrenilmiş bir ders olarak not etmektir. Ortada bir haksızlık varsa bu haksızlığı içimize yedirmemek, gözümüzü hep onun üzerinde tutmak gerekli. Ben bu güne verilen önemi biraz da bu çerçevede yorumluyorum. 
+Bir grup içerisinde bir şeyin yolunda gitmediğini gördüğünüzde ve bu durumu bir şekilde değiştiremeniz mümkün olmadığında yapılacak şey onu bir kenara öğrenilmiş bir ders olarak not etmektir. Ortada bir haksızlık varsa bu haksızlığı içimize yedirmemek, gözümüzü hep onun üzerinde tutmak gerekli. Ben bu gün verilen önemi biraz da bu çerçevede yorumluyorum.
 
 Aslında mesaj şu: Genç bir kadın hayata atılırken bilmeli ki dışarıda onu ezmeye çalışan bir canavar var. Ama canavar asla dünyanın kendisi değil. Ve aslında o canavardan daha güçlü. Canavara adil bir şekilde karşı durduğunda tüm dünya onunla beraber yanında yer alacak.
 
