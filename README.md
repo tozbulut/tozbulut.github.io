@@ -6,3 +6,7 @@ tozbulut.github.io
 
 TO DO:
 * Postlara description gir.
+
+Örnek
+
+* http://www.zamanintuzu.com/
