@@ -9,6 +9,8 @@ tags: []
 
 Bu yazıda hoşuma giden yazarlar ve kitaplarını aktaracağım. Okumak istediklerim ve okuduklarım olarak.
 
+Eser yazar not
+
 ### Felsefe
 
 Analitik Felsefe:
@@ -40,3 +42,4 @@ Kıta Felsefesi:
 * Fourfold Root of the Principle of Sufficient Reason - Arthur Schopenhauer
 * Upanishads (Religious Text)
 * Essays and Aphorisms (Penguin Classics) Paperback – May 30, 1973
+* Ece Temelkuran - Kıyı Kitabı
