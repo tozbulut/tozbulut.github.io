@@ -14,7 +14,7 @@ tags: []
     padding-right: 20px;
 ">
     <p>
-    Derin Mavi'nin ismi Deep Blue'dan geliyor. Bugün bir müzede sergilenen Deep Blue, IBM tarafından geliştirilmiş satranç oynayan bir bilgisayardı. Rus satranç şampiyonu Garry Kasparov ile Deep Blue 1997 yılında oynanan bir dizi maçta karşı karşıya geldi. Sovyetlerde yetişmiş tek kutuplu dünyada yaşayan Rus satranç şampiyonun tüm dünyada dijital dönüşümü gerçekleştiren IBM gibi Silikon Vadisi'nin en önemli şirketlerden birinin ürünü olan Deep Blue ile bu karşılaşması hem soğuk savaş sonrası dönemi hem de yapay zeka ve insan ikilemini yansıtması açısından çağın ruhunu yansıtıyordu.
+    Derin Mavi'nin ismi Deep Blue'dan geliyor. Bugün bir müzede sergilenen Deep Blue, IBM tarafından geliştirilmiş satranç oynayan bir bilgisayardı. Rus satranç şampiyonu Garry Kasparov ile 1997 yılında oynanan bir dizi maçta karşı karşıya geldi. Sovyetlerde yetişmiş tek kutuplu dünyada yaşayan Rus satranç şampiyonun tüm dünyada dijital dönüşümü gerçekleştiren IBM gibi Silikon Vadisi'nin en önemli şirketlerden birinin ürünü olan süperbilgisayarın bu karşılaşması hem soğuk savaş sonrası dönem hem de yapay zeka ve insan ikilemi açısından çağın ruhunu yansıtıyordu.
     </p>
     </div><div class="s" style="
     max-width: 275px;
