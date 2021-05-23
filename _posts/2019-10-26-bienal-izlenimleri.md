@@ -64,9 +64,8 @@ Her bir bitki kartına gösterilen müthiş detay ilgi.
 İnsan konsantrasyonunun bu şekilde kullanılması.
 Numeroloji, sanrı yaratan maddeler. Darren Aronofsky'nin Pi filmindeki gibi. Fakat komplo teorisyeni. Deliliğin sınırlarında. Burada bahsedilen high frequency trading de ilginç bir konu.
 
-Bianel Tanıtımından:
 > Sermayenin hareketleri sanrılar yaratır: Hem mevcut hem görünmez, eşit derecede gerçek ve hayalidirler.
-Suzanne Treister, resim ve videolarının yanı sıra internet temelli ve işbirliğine dayalı çalışmalarında genellikle takma isimler kullanıyor, bu isimlere uygun sanatçı biyografileri ve çalışmalar üretiyor. Bahçıvan HFT, algoritmalar üstünden yüksek frekanslı işlemler (HFT) yapan bir borsacı ve “tekno-şaman” olan Hillel Fischer Traumberg’in eserlerinden bir derleme. Bu kurgusal karakter bir taraftan algıyı değiştiren ilaçlar ve bitkilerle deneyler yaparken, bir taraftan da bitkilerin hayatı, şamanizm, numeroloji ve sermayeye yüksek frekanslı işlemlerle yön verenler arasında bağlantılar kuruyor. Eser, sanrı yaratan maddeler, sermaye ve sanat, psikoaktif ilaçlar ve bilinç arasındaki bir dizi bağlantıyı sergiliyor
+Suzanne Treister, resim ve videolarının yanı sıra internet temelli ve işbirliğine dayalı çalışmalarında genellikle takma isimler kullanıyor, bu isimlere uygun sanatçı biyografileri ve çalışmalar üretiyor. Bahçıvan HFT, algoritmalar üstünden yüksek frekanslı işlemler (HFT) yapan bir borsacı ve “tekno-şaman” olan Hillel Fischer Traumberg’in eserlerinden bir derleme. Bu kurgusal karakter bir taraftan algıyı değiştiren ilaçlar ve bitkilerle deneyler yaparken, bir taraftan da bitkilerin hayatı, şamanizm, numeroloji ve sermayeye yüksek frekanslı işlemlerle yön verenler arasında bağlantılar kuruyor. Eser, sanrı yaratan maddeler, sermaye ve sanat, psikoaktif ilaçlar ve bilinç arasındaki bir dizi bağlantıyı sergiliyor. - Bianel Tanıtımından
 
 * Eserde kullanılan kağıt: *Archival giclée prints on Hahnemuhle Bamboo paper, 21 x 29.7 cm each*
 * https://www.artsy.net/show/annely-juda-fine-art-suzanne-treister-hft-the-gardener
@@ -78,8 +77,7 @@ Suzanne Treister, resim ve videolarının yanı sıra internet temelli ve işbir
    <div class="two column"></div>
 </div>
 
-Bianel Tanıtımından:
-> Çin’in mezara gömülü terakota askerlerinin zamanından günümüze kadar yöneticiler kitleleri hep kullanageldi ama bu kitlelerin iktidarı kinetik değil, göstergesel güçlerinden geliyordu. Johannes Büttner’in Hannah Black’ten alıntıyla adlandırdığı çalışması, şiddet temsillerini ele alıyor. Yerleştirme, farklı topraklardan yoğurulmuş yedi heykelden oluşuyor; her bir heykelin altında bir makinenin iskeleti var. Heykeller, bilimkurgu savaşçıları, toplum polisi ve tepetaklak çevrilmiş terakota askerlerin bir karışımına benziyor. Kontrolü kaybetmiş veya işi şiddete dökmüş bir algoritmalar ve ağlar dünyasına titreşip sarsılarak tepki veriyor, makine suretinde bir Golem’i serbest bırakıyorlar.
+> Çin’in mezara gömülü terakota askerlerinin zamanından günümüze kadar yöneticiler kitleleri hep kullanageldi ama bu kitlelerin iktidarı kinetik değil, göstergesel güçlerinden geliyordu. Johannes Büttner’in Hannah Black’ten alıntıyla adlandırdığı çalışması, şiddet temsillerini ele alıyor. Yerleştirme, farklı topraklardan yoğurulmuş yedi heykelden oluşuyor; her bir heykelin altında bir makinenin iskeleti var. Heykeller, bilimkurgu savaşçıları, toplum polisi ve tepetaklak çevrilmiş terakota askerlerin bir karışımına benziyor. Kontrolü kaybetmiş veya işi şiddete dökmüş bir algoritmalar ve ağlar dünyasına titreşip sarsılarak tepki veriyor, makine suretinde bir Golem’i serbest bırakıyorlar. - Bianel Tanıtımından
 
 ### Mika Rottenberg - Spagetti Blok Zinciri
 
@@ -88,8 +86,8 @@ Bianel Tanıtımından:
    <div class="two column"></div>
 </div>
 
-Bianel Tanıtımından:
-> Mika Rottenberg’in yapıtları, insan ilişkilerinin ve emeğinin parasallaştırılmasının ve sermayeleştirilmesinin etkilerini inceliyor. Absürt mizahı maddi ayrıntılara gösterilen özenle birleştiren yapıtlarının işlediği konular, kadınların deneyimleri ve emek pratiklerinden kapitalist montaj zincirlerine, paketleme ve sunum bantlarına kadar geniş bir yelpazeye yayılıyor. Rottenberg’in malzemeleri ve maddeyi, emeği, dokuyu, dokunsallığı ve teknolojiyi inceleyen Spagetti Blok Zinciri adlı çalışması nesnelere ve maddeselliğe dair deneyimimizle bağlantılı mit oluşturma ve gizleme süreçleri ile vadesi dolmuş gelenekler ve dünya görüşleriyle üst üste bindirilmiş güncel deneyimlerimizi öne çıkarıyor. 
+
+> Mika Rottenberg’in yapıtları, insan ilişkilerinin ve emeğinin parasallaştırılmasının ve sermayeleştirilmesinin etkilerini inceliyor. Absürt mizahı maddi ayrıntılara gösterilen özenle birleştiren yapıtlarının işlediği konular, kadınların deneyimleri ve emek pratiklerinden kapitalist montaj zincirlerine, paketleme ve sunum bantlarına kadar geniş bir yelpazeye yayılıyor. Rottenberg’in malzemeleri ve maddeyi, emeği, dokuyu, dokunsallığı ve teknolojiyi inceleyen Spagetti Blok Zinciri adlı çalışması nesnelere ve maddeselliğe dair deneyimimizle bağlantılı mit oluşturma ve gizleme süreçleri ile vadesi dolmuş gelenekler ve dünya görüşleriyle üst üste bindirilmiş güncel deneyimlerimizi öne çıkarıyor.  Bianel Tanıtımından
 
 ### Ursula Mayer - Atom Ruhu
 *2016, 16 mm on HD, 20 min*
