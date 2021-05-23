@@ -17,7 +17,10 @@ tags: [Sanat, Aksiyon Odaklılık] # add tag
 
 Cumartesi öğleden sonra orada olacağımız için aşırı kalabalık olabileceğinden endişeleniyordum. Fakat öyle olmadı. Gayet rahat bir şekilde giriş yaptıktan sonra saat 14.40’dan kapanış saatine kadar sergi binasında kaldık. Bu süre aralıksız gezerek sonlara doğru hafif aceleyle tam tamına yetti diyebilirim. Tam bir gün ayrılırsa mesela sabah 10.00 gibi gelip öğle yemeği yiyerek rahat rahat gezilebilir.
 
-16.İstanbul Bienali'nin küratörü Fransız yazar ve akademisyen Nicolas Bourriaud. Bianelin teması *Yedinci Kıta* adını Pasifik okyanusunun ortasındaki devasa çöp yığınından alıyor. İçine giriyor olduğumuz yeni jeolojik bir dönem olan Antroposen'in karaktize edici özelliği insan aktivitesinin gezegen üzerindeki etkisi. Sanatçılar burada yolu gösteren olma iddiası taşıyorlar. Odaklanılan noktalardan biri antropoloji. Fakat bu antropolojide nesne, bitki, hayvan, makine, algoritma karışıyor. Bu güncel sanatta doğa ve kültür birleşmiş haline tanık oluyor. Onunla bir *tozlaşma* içerisine giriyoruz.
+Bu yıl festivalin küratörü Fransız yazar ve akademisyen Nicolas Bourriaud.
+Bianelin teması *Yedinci Kıta* adını Pasifik okyanusunun ortasındaki devasa çöp yığınından alıyor.
+İnsan aktivitesinin gezegen üzerindeki etkisi içine giriyor olduğumuz yeni jeolojik bir dönem olan Antroposen'in karaktize edici özelliğini oluşturuyor. 
+Sanatçılar burada yolu gösteren olma iddiası taşıyorlar. Odaklanılan noktalardan biri antropoloji. Fakat bu antropolojide nesne, bitki, hayvan, makine, algoritma karışıyor. Bu güncel sanatta doğa ve kültür birleşmiş haline tanık oluyor. Onunla bir *tozlaşma* içerisine giriyoruz.
 
 Bienal Rehberinin İstanbul Bienali Direktör'ü Bilge Öner'in yazdığı önsözünde belirtildiği üzere Türkiye'de her on kişiden altısı İklim Krizi konusunda kaygı yaşıyor:
 > İklim Haber ve KONDA Araştırma, 2019 yılında Türkiye kamuoyunun iklim değişikliği algısını ölçmek ve giderek derinleşen iklim krizi hakkında ne düşünüldüğünü öğrenmek için Türkiye örneklemi üzerinden bir anket çalışması gerçekleştirdi. Söz konusu veri bu çalışmanın sonucu olarak karşımıza çıkıyor.
