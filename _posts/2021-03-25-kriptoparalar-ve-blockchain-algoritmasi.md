@@ -7,9 +7,9 @@ permalink: kriptoparalar-ve-blockchain
 tags: [Kriptopara, Blockchain, Kriptografi]
 ---
 
-Bitcoin websitesinde bile daha deneysel bir teknoloji olduğunu söylüyor. ABD'de popüler olan beğenerek takip ettiğim Last Week Tonight adında bir program var. Programda Google Glass'ın yorumlarını göstererek yeni teknolojilere dair yapılan yorumların çok kötü bir şekilde yaşlanabildiğinden bahsetmiş. Gerçekten de Google Glass etrafındaki coşkuya rağmen insan teknoloji etkileşiminde takipçilerinin bahsettiği devrimi yapmaktan çok uzak kaldı. 
+ABD'de popüler olan beğenerek takip ettiğim Last Week Tonight adında bir program var. Programda yorumcu Google Glass'ı örnek göstererek yeni teknolojilere dair yapılan yorumların çok kötü bir şekilde yaşlanabildiğinden bahsediyor. Gerçekten de Google Glass etrafındaki coşkuya rağmen insan teknoloji etkileşiminde takipçilerinin bahsettiği devrimi yapmaktan çok uzak kaldı. 
 
-Son yıllarda ciddi bir ilgi kaynağı haline gelen kriptolaralar hakkında kopan gurultu çok olsa da konu ile ilgili detaylı bilgiye sahip olanların sayısı oldukça az. Bu yazıda kriptoparalar ve blok zinciri uygulaması ile ilgili bazı anahtar konseptlerden bahsetmek istiyorum.
+Son yıllarda ciddi bir ilgi kaynağı haline gelen kriptoparalar hakkında kopan gürültü çok olsa da konu ile ilgili detaylı bilgiye sahip olanların sayısı oldukça az. Bu yazıda kriptoparalar ve blok zinciri uygulaması ile ilgili bazı anahtar konseptlerden bahsetmek istiyorum.
 
 Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bir yazıyla bu teknolojinin tüm detaylarını kavramıyor olsak da iyi bir tanışma olabilir. Bu yazıda Blockchain'in işleyişine basit bir açıklama getirirken, etrafında dolaşan delilik halini bir yana bırakıp bu yeni ve devrimsel teknolojiyi anlamaya çalışacağız.
 
@@ -20,7 +20,7 @@ Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni te
 
 Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Nakomoto bir manada anonim kalsa da açık kaynaklı, merkezi olmayan ilk dijital para birimi bitcoin bu şekilde doğdu. (Orjinal bitcoin makalesine)[https://bitcoin.org/bitcoin.pdf] internet üzerinden ulaşmak mümkün.
 
-Son yıllarda Bitcoin'in değerindeki büyük artış ile beraber kriptoparalar ilgi çeken bir konu haline geldi. İlgi sahibi insanların hepsi yeterince bilinçli değil. Sonuç olarak bu durumu istismar eden pek çok kişi de türedi. Konuyla ilgili materyal çok ama hepsi aynı kalitede değil. Biz daha çok işleyişi anlamaya 3Blue1Brown kanalınınki gibi videolar fayda sağlayacaktır. Bu kanalın videosu aslında büyük ölçüde bir blog yazısından alınmış. Her ikisine de bu yazının kaynaklar bölümünden ulaşabilirsiniz. 
+Son yıllarda Bitcoin'in değerindeki büyük artış ile beraber kriptoparalar ilgi çeken bir konu haline geldi. İlgi sahibi insanların hepsi yeterince bilinçli değil. Sonuç olarak bu durumu istismar eden pek çok kişi de türedi. Konuyla ilgili materyal çok ama hepsi aynı kalitede değil. İşleyişi anlamaya çalışmak bence bu noktada daha faydalı olabilir. 3Blue1Brown kanalınınki gibi videolar fayda sağlayacaktır. Bu kanalın videosu aslında büyük ölçüde bir blog yazısından alınmış. Her ikisine de bu yazının kaynaklar bölümünden ulaşabilirsiniz. 
 
 Coinleri üretmek için kullanılan yazılım *açık kaynaklı* olduğuna dikkat edelim. Bu isteyen herkesin kriptopara üretebileceği anlamına geliyor. Bu coinlerin hepsine güvenmek pek doğru değil. Bugün binlerce altcoin var ve bu kriptoparalar dizayn tercihleri anlamında farklılaşabiliyorlar. 
 
@@ -36,7 +36,8 @@ Ayşe Ahmet'e 40 lira öder.
 Mehmet Ali'ye 30 lira öder.
 Ali Mehmet'e 10 lira öder.
 ```
-Şimdi hepimiz dosyaya ulaşabiliyoruz ve aramızdan isteyen herkes listeye yeni kayıt ekleyebilir. Her ayın sonunda dosyaya bakıyoruz. Listeye bakıp paraları geçiyoruz. Eğer eksideysen borcunu kasaya koyuyorsun. Artıdaysan parayı kasadan alıyorsun. O zaman protokolümüz de şu oldu.
+
+Şimdi hepimiz dosyaya ulaşabiliyoruz diyelim. Aramızdan isteyen kişi listeye yeni kayıt ekleyebilir. Her ayın sonunda dosyaya bakıyoruz. Listeye bakıp paraları geçiyoruz. Eğer eksideysen borcunu kasaya koyuyorsun. Artıdaysan parayı kasadan alıyorsun. O zaman protokolümüz de şu oldu:
 
 ```
 Protokol:
@@ -44,33 +45,37 @@ Protokol:
 Her ayın sonunda gerçek parayla değişim yapılır.
 ```
 
-Burada problem şu. Dosya herkese açık olduğundan Ali gidip Ahmet bana 100 lira verecek yazabilir. O zaman bir şekilde Ahmet'in Ali'ye ödeme yaptığı bu işlemi onayladığından emin olmamız lazım.
+Burada ilk problemimiz belirdi. Dosya herkese açık olduğundan Ali gidip Ahmet bana 100 lira verecek yazabilir. O zaman bir şekilde Ahmet'in Ali'ye ödeme yaptığı bu işlemi onayladığından emin olmamız lazım.
 
-İşte burada kriptografiye işin içerisine giriyor. Dijital imzalar. Ahmet bir satırı bir kalemle imzalasa aşağıdaki <ahmet_imza> yazan yeri imzalamış olur. Bu imzadan biz ahmet in bu işlemi gördüğünü ve onayladığını anlamış oluruz.
+İşte burada kriptografi işin içerisine giriyor. Dijital imzaları kullanacağız. Ahmet bir satırı bir kalemle imzalasa aşağıdaki <ahmet_imza> yazan yeri imzalamış olur. Bu imzadan biz ahmet in bu işlemi gördüğünü ve onayladığını anlamış oluruz.
 
 ```
 Ahmet Mehmet'e 20 lira öder. <ahmetin_imzası>
 ```
-Fakat dijital ortama geçtiğimizde bunun yerine Ahmet'e bir kod verilmesi daha anlamlı olur. Bu kodu görüldüğünde işlemin Ahmet tarafından onaylandığı anlaşılacak. Fakat yeni problemimiz şu ki bu sefer de Ahmet bu kodu bir kere kullandığında herkes görebilir hale gelir. 
 
-Bunun yerine sistemi kullanan herkese iki adet kod vereceğiz. Public Key ve Secret Key olarak. Public key yani herkes tarafından bilinen kodu paylaşabilirler ama Secret Key'i gizli kalacak. Şimdi Ahmet gizli koduyla aşağıdaki gibi imzalayabilir. Public Key'in kullanımına daha sonra geleceğiz.
+Fakat dijital ortama geçtiğimizde bunun yerine Ahmet'e bir kod verilmesi daha anlamlı olur. Örn. kXp2s5 gibi bir kod olsun. Bu kodu görüldüğünde işlemin Ahmet tarafından onaylandığı anlaşılacak. Böylece isteyen kişinin bana şu kişinin ödemesi var yazmasına engel olduk. Fakat yeni problemimiz şu ki bu sefer de Ahmet bu kodu bir kere kullandığında herkes görebilir hale gelir. Daha sonra bir kişi bu kodu kullanarak listeye ekleme yaparsa para Ahmet'den çıkar.
+
+Bunun yerine sistemi kullanan herkese iki adet kod vereceğiz. Public Key ve Secret Key olarak. Public key yani herkes tarafından bilinen kodu paylaşabilirler ama Secret Key'leri gizli kalacak. Şimdi Ahmet gizli koduyla aşağıdaki gibi imzalayabilir. Public Key'i ile de Secret Key ile imzalanıp imzalanmadığını denetleyebilir.
 
 ```
 İmzala(Mesaj, Secret Key) = İmza
+İmzala(Ahmet Mehmet'e 100 lira gönderdi, "kXp2s5") = "z%C*F-JaNdRgUkXp2s5u8x/A?D(G+KbP"
 ```
+
 Ahmet Mehmet'e 20 lira ödediği işlemi "imzala" fonksiyonunu kullanarak imzaladı. Bunu yaparken de yukarıda gördüğümüz gibi secret key'ini kullandı.
 
-Daha sonra isteyen bir kişi Ahmet'in public key'i ile imza mesaj eşleşmesinin doğru olup olmadığına bakabilir. Ahmetin public key'i herkese açık.
+Public key'ini ve imzasını paylaşabilir. Daha sonra isteyen bir kişi Ahmet'in public key'i ile imza'yı kullanarak mesaj eşleşmesinin doğru olup olmadığına bakabilir.  
 
 ```
 Dogrula(Mesaj, İmza, Public Key) = İmzalamış ya da İmzalamamış (True/False)
+Dogrula(Ahmet Mehmet'e 100 lira gönderdi, "z%C*F-JaNdRgUkXp2s5u8x/A?D(G+KbP" , "avbX3dxc") = 1/0
 ```
 
-Dogrulama ile Ahmet'in gizli anahtarını (secret key) bilmesek de public key'i imza ve mesajla yanyana getirerek. İşlemin geçerliliğini denetleyebiliyoruz. Eğer 1 dönerse (true) dönerse imza gerçek. 0 dönerse (false) o işlem geçersiz demektir.
+Böylece buradaki "authenticity" sorununu çözmüş olduk. Dogrulama ile Ahmet'in gizli anahtarını (secret key) bilmesek de genel anahtarını (public key) imza ve mesajla yanyana getirerek. İşlemin geçerliliğini denetleyebiliyoruz. Eğer 1 dönerse (true) dönerse imza gerçek. 0 dönerse (false) o işlem geçersiz demektir.
 
 Ayrıca imzalanan her doküman için imza değişeceğinden biri Ahmet'in bir imzasına bakarak buradan edindiği bilgiyle bir başka işlemini  imzalayamaz. Başka bir değişle kendisine açık olan imza, mesaj, public key üçlüsünden secret key'i öğrenemez.
 
-Burada imzamız 256 bit bir koddan oluşuyor. 2 üzeri 256 tane ihtimal olabilir. 256 bit bir kodun nasıl göründüğüne bakacak olursak:
+Burada imzamız az 256 bit bir koddan oluşuyor. 2 üzeri 256 tane ihtimal olabilir. 256 bit bir kodun nasıl göründüğüne bakacak olursak:
 
 ```
 256 Bit Binary:
@@ -83,7 +88,7 @@ z%C*F-JaNdRgUkXp2s5u8x/A?D(G+KbP
 92F423F4528482B4D6251655468576D5A7134743777397A24432646294A404E
 ```
 
-Gördüğümüz gibi bu bilgi çok az yer kaplıyor. Modern bilgisayar sistemleriyle taşınması çok kolay. Ama kırılması neredeyse imkansız. Burada şifreleme kısmında biraz daha detaya girecek olursak doğrulama fonksiyonumuz aşağıdaki gibiydi:
+Gördüğümüz gibi bu bilgi çok az yer kaplıyor. Modern bilgisayar sistemleriyle taşınması çok kolay. Bunun yanında kırılması neredeyse imkansız.
 
 ```
 Dogrula(Mesaj, 256 Bit İmza, Public Key) = True (İmzalamış)
