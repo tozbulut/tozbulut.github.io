@@ -30,6 +30,10 @@ Kıta Felsefesi:
 * Jacques Derrida
 * Gilles Deleuze
 
+### Edebiyat
+* Nabokov
+* Dostoyevski
+
 ### Diğer
 * Jack London - White Fang (Novel)
 * Charles Dickens - A Tale Of Two Cities (Novel)
