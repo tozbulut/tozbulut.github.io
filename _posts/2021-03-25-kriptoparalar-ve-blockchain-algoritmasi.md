@@ -7,7 +7,7 @@ permalink: kriptoparalar-ve-blockchain
 tags: [Kriptopara, Blockchain, Kriptografi]
 ---
 
-ABD'de popüler olan beğenerek takip ettiğim Last Week Tonight adında bir program var. Programda yorumcu Google Glass'ı örnek göstererek yeni teknolojilere dair yapılan yorumların çok kötü bir şekilde yaşlanabildiğinden bahsediyor. Gerçekten de Google Glass etrafındaki coşkuya rağmen insan teknoloji etkileşiminde takipçilerinin bahsettiği devrimi yapmaktan çok uzak kaldı. 
+ABD'de popüler olan beğenerek takip ettiğim [Last Week Tonight]() adında bir program var. Programda yorumcu Google Glass'ı örnek göstererek yeni teknolojilere dair yapılan yorumların çok kötü bir şekilde yaşlanabildiğinden bahsediyor. Gerçekten de Google Glass etrafındaki coşkuya rağmen insan teknoloji etkileşiminde takipçilerinin bahsettiği devrimi yapmaktan çok uzak kaldı. 
 
 Son yıllarda ciddi bir ilgi kaynağı haline gelen kriptoparalar hakkında kopan gürültü çok olsa da konu ile ilgili detaylı bilgiye sahip olanların sayısı oldukça az. Bu yazıda kriptoparalar ve blok zinciri uygulaması ile ilgili bazı anahtar konseptlerden bahsetmek istiyorum.
 
@@ -18,9 +18,9 @@ Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni te
    <div class="two column"></div>
 </div>
 
-Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Nakomoto bir manada anonim kalsa da açık kaynaklı, merkezi olmayan ilk dijital para birimi bitcoin bu şekilde doğdu. (Orjinal bitcoin makalesine)[https://bitcoin.org/bitcoin.pdf] internet üzerinden ulaşmak mümkün.
+Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Nakomoto bir manada anonim kalsa da açık kaynaklı, merkezi olmayan ilk dijital para birimi bitcoin bu şekilde doğdu. [Orjinal bitcoin makalesine](https://bitcoin.org/bitcoin.pdf) internet üzerinden ulaşmak mümkün.
 
-Son yıllarda Bitcoin'in değerindeki büyük artış ile beraber kriptoparalar ilgi çeken bir konu haline geldi. İlgi sahibi insanların hepsi yeterince bilinçli değil. Sonuç olarak bu durumu istismar eden pek çok kişi de türedi. Konuyla ilgili materyal çok ama hepsi aynı kalitede değil. İşleyişi anlamaya çalışmak bence bu noktada daha faydalı olabilir. 3Blue1Brown kanalınınki gibi videolar fayda sağlayacaktır. Bu kanalın videosu aslında büyük ölçüde bir blog yazısından alınmış. Her ikisine de bu yazının kaynaklar bölümünden ulaşabilirsiniz. 
+Son yıllarda Bitcoin'in değerindeki büyük artış ile beraber kriptoparalar ilgi çeken bir konu haline geldi. İlgi sahibi insanların hepsi yeterince bilinçli değil. Sonuç olarak bu durumu istismar eden pek çok kişi de türedi. Konuyla ilgili materyal çok ama hepsi aynı kalitede değil. İşleyişi anlamaya çalışmak bence bu noktada daha faydalı olabilir. [3Blue1Brown]() kanalınınki gibi videolar fayda sağlayacaktır. Bu kanalın videosu aslında büyük ölçüde bir [blog yazısı]()ndan alınmış. Her ikisine de bu yazının kaynaklar bölümünden ulaşabilirsiniz. 
 
 Coinleri üretmek için kullanılan yazılım *açık kaynaklı* olduğuna dikkat edelim. Bu isteyen herkesin kriptopara üretebileceği anlamına geliyor. Bu coinlerin hepsine güvenmek pek doğru değil. Bugün binlerce altcoin var ve bu kriptoparalar dizayn tercihleri anlamında farklılaşabiliyorlar. 
 
