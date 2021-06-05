@@ -1,4 +1,6 @@
 
+
+Bilenler bilir The Sims efsanedir. İlk Sims'ten bahsediyorum. The Sims'den ve onun ek paketlerinden.
 Bilgisayar oyunları size yabancı dil öğretmenin yanında dünyaya bakış açınızı değiştirebiliyor. The Sims çocuk için heyecan verici bir şeydi.
 
 SimCity yakınlarındaki bir banliyö bölgesinde bir veya daha fazla sanal kişinin ("Sims") günlük aktivitelerinin açık uçlu simülasyonunu içeriyordu.
@@ -13,6 +15,9 @@ Basit biraz yanlış kontrol edilebilir bir portresi güzel bir şey değil mi? 
 
 Yaşam Süresi, Objelerle bir ilişki, ölüm, kariyet basamakları, aşk mahalleler sosyal yaşam. Biz de bu değil miyiz?
 Simler'den ne fazlamız var? Ya da ne fazlamız olmalı? İşte bu güzel bir soru.
+
+Dünyaya bakış açımızı değiştirdi mi? Bana aslında şöyle düşündürttü. İnsan hayatının harcanabilirliği, eğlenceli olmasının gerekliliği.
+Büyüttüğümüz şekilde
 
 ## Sims Ek Paketi
 
