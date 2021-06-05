@@ -9,7 +9,10 @@ Bu yazıyı yazdım çünkü benim için büyük biraz nostaljik biraz da ilgin�
 Zaman içerisinde yedi genişleme paketi ve özel içerikli iki deluxe sürüm yayınlandı. Bugün bir çok sims sürümü olsa da ben kendi oynadıklarımdan size anlatayım.
 Zaman içerisinde bilimsel olma gayesi gütmedi. 
 Basit biraz yanlış kontrol edilebilir bir portresi güzel bir şey değil mi? Bu simulasyonda aslında fazlası yok mu?
+Örneğin bu dünyayı gerçek dünyamız ile karşılaştırsak neleri farklı? BU iyi bir soru olmaz mıydı.
 
+Yaşam Süresi, Objelerle bir ilişki, ölüm, kariyet basamakları, aşk mahalleler sosyal yaşam. Biz de bu değil miyiz?
+Simler'den ne fazlamız var? Ya da ne fazlamız olmalı? İşte bu güzel bir soru.
 
 ## Sims Ek Paketi
 
