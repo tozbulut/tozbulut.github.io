@@ -3,6 +3,9 @@
 Bilenler bilir The Sims efsanedir. İlk Sims'ten bahsediyorum. The Sims'den ve onun ek paketlerinden.
 Bilgisayar oyunları size yabancı dil öğretmenin yanında dünyaya bakış açınızı değiştirebiliyor. The Sims çocuk için heyecan verici bir şeydi.
 
+Simsa üzerinde daha sonraları yazılar okumaya itti. wikipedia makalesine gözgezdirdim. Sims'in wikisine baktım.
+Burada diametric action kavramı ilgimi çekti. 
+
 SimCity yakınlarındaki bir banliyö bölgesinde bir veya daha fazla sanal kişinin ("Sims") günlük aktivitelerinin açık uçlu simülasyonunu içeriyordu.
 Bu oyun karşısında o kadar çok zaman harcadım ki. Küçük bir çocuk için çok heyecan verici bir şeydi. Kardeşimle sürekli kavga ederdik.
 
