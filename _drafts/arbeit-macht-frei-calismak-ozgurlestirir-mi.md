@@ -38,6 +38,12 @@ Money made is slaves. Made us cogs. Identity is ethnic.  Rejection of cosmopolit
 Marxist are too obsessed money. Real Battle is between cultures, biology.
 Hitler talked about body education in mein kamfph.
 
+Goethe Faust
+Zharatustra
+Noble Soul -has reverence for itself.
+Sartre, Herman Hesse
+Ayn Rand, Foucoult
+
 
 
 Alman Zekası.
