@@ -12,16 +12,15 @@ Aynı zamanda kültürel anlamda bir pusula gibi kullanılabilir.
 
 Ders toplanda 26 videodan oluşuyor. İlk 10 tanesinin konusu aşağıdaki gibi.
 
-Ele Alınan Konular
-* The Ring of Gyges: Morality and Hypocrisy
-* Parts of the Soul I
-* Parts of the Soul II
-* The Well-Ordered Soul: Happiness and Harmony
-* The Disordered Soul: Thémis and PTSD
-* Flourishing and Attachment
-* Flourishing and Attachment
-* Virtue and Habit I
-* Virtue and Habit II
+1. The Ring of Gyges: Morality and Hypocrisy 
+2. Parts of the Soul I
+3. Parts of the Soul II
+4. The Well-Ordered Soul: Happiness and Harmony
+5. The Disordered Soul: Thémis and PTSD
+6. Flourishing and Attachment
+7. Flourishing and Attachment
+8. Virtue and Habit I
+9. Virtue and Habit II
 
 
 Platon'un Devlet Kitabında yer alan konuşma. Glaucon ile tartışması. Daha önce Nietzche'ni ağzından dinlediğimi hatırlıyordum. O kendisinden bekleneceği üzere sofistlerin tarafını tutar.
