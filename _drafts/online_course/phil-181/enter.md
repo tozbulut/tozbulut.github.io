@@ -10,13 +10,18 @@ Dersin adı Türkçesi ile Felsefe ve İnsan Doğasının bilimi.
 Cognitive Science ve ilgili alanları klasik felsefe ile bir araya getirerek kendimizi ve insanları anlama yönünde çok faydalı bir materyal oluşturuyor.
 Aynı zamanda kültürel anlamda bir pusula gibi kullanılabilir.
 
-Ders toplanda 26 videodan oluşuyor herbirinin konusu aşağıdaki gibi.
+Ders toplanda 26 videodan oluşuyor. İlk 10 tanesinin konusu aşağıdaki gibi.
 
 Ele Alınan Konular
-*
-*
-*
-*
+* The Ring of Gyges: Morality and Hypocrisy
+* Parts of the Soul I
+* Parts of the Soul II
+* The Well-Ordered Soul: Happiness and Harmony
+* The Disordered Soul: Thémis and PTSD
+* Flourishing and Attachment
+* Flourishing and Attachment
+* Virtue and Habit I
+* Virtue and Habit II
 
 
 Platon'un Devlet Kitabında yer alan konuşma. Glaucon ile tartışması. Daha önce Nietzche'ni ağzından dinlediğimi hatırlıyordum. O kendisinden bekleneceği üzere sofistlerin tarafını tutar.
