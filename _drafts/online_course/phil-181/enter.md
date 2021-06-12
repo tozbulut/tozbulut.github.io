@@ -1,14 +1,15 @@
 İnternetteki kaliteli açık eğitim videolarını fırsat buldukça izlemeye çalışıyorum.
 YouTube'daki YaleCourses'da dünyanın en iyi okullarından biri olan Yale'in birtakım eğitim materyalleri var.
 Bu arada Yale'in açık olarak paylaştığı [başka dersler](https://oyc.yale.edu/courses) de mevcut. Bunları da incelemenizi tavsiye ederim.
+
 Bunlardan gözüme çarpan ders "Philosophy and the Science of Human Nature" oldu.
 Videolar Prof. Tamar Gendler'ın 2011 Bahar döneminde yılına ait.
 Biraz eski ama ziyanı yok. Tabi ki bir ders atmosferi ile aynı olamaz. Ama yine de çok beğendim. 
-Derslerde özellikle aynı zamanda verdiği okuma metinleri de ilgi uyandırıcı. Dersin üniversitenin sitesindeki çıklamasına baktığımızda aşağıdaki konuları ele aldığını görüyoruz.
+Derslerde özellikle aynı zamanda verdiği okuma metinleri de ilgi uyandırıcı.
+Türkçe adı *Felsefe ve İnsan Doğasının Bilimi* olan ders Cognitive Science ve başka alanları klasik felsefe ile bir araya getirerek kendimizi ve insanları anlama yönünde bize yol gösterebilecek bir seri.
 
-Dersin adı Türkçesi ile Felsefe ve İnsan Doğasının bilimi.
-Cognitive Science ve ilgili alanları klasik felsefe ile bir araya getirerek kendimizi ve insanları anlama yönünde çok faydalı bir materyal oluşturuyor.
-Aynı zamanda kültürel anlamda bir pusula gibi kullanılabilir.
+Kursun üç ana konusunu mutluluk ve gelişme, ahlak ve adalet ve son olarak da siyasal meşruyet ve sosyal yapılar oluşturuyor.
+Dersin felsefi kısmının Plato ve Aristo'dan başlayarak oradan Epictetus'a ardından Hobbes, Kant ve Mill'e sonrasında ise Rawls ve Nozick gibi daha modern filozoflara ilerliyor. Arada verilen referanslar da çok değerli ve insana sağladığı altyapı bakımından kültürel anlamda bir pusula işlevi görüyor.
 
 Ders toplanda 26 videodan oluşuyor. İlk 10 tanesinin konusu aşağıdaki gibi.
 
