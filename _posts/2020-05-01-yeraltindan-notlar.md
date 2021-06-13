@@ -17,6 +17,30 @@ tags: [Dostoyevski, İnsan, Roman, Psikoloji]
 
 Biraz kendi okuma serüvenimden bahsedecek olursam yeraltından notlar uzun süredir görmezden geldiğim bir kitaptı. Özellikle bunalımlar, aşk acıları ve diğer insanlara karşı aşırı düşüncelere Stefan Zweig kitaplarından biraz aşinayım. Bu sebeple Yeraltından Notlar'ı okumamak için baya bir direndim. Fakat varoluşçu felsefe üzerindeki etkisini farkettiğimde artık okumama gibi bir şansımın kalmadığını anlamış oldum. Ana teması Rus yazarın *insandaki en büyük güç ve aynı zamanda en göze çarpan zayıflık* olduğuna inandığı yoğun kendilik duygusu olan bu romana haksızlık ettiğimi şimdi anlıyorum.
 
+Jordan Peterson'un YouTube derslerinde denk geldiğim bir [alıntının](https://www.youtube.com/watch?v=97jBvbmY03g]) kitabı samimiyetle okumamda çok etkisi oldu. Özellikle alıntı yaptığı *bir piyano tuşu olmamak için her şeyi yapmak* ile ilgili bölüm çok etkileyici. Kitabın İngilizce versiyonundaki anlatımın çok daha çarpıcı olduğunu eklemeliyim.
+
+<div style="" class="quote1"><div style="" class="quote2">Jordan Peterson on Dostoevsky's Notes From Underground - Çeviri</div><div style="" class="quote3">
+   Yeraltından notlar çok kısa bir kitap. Ana karakteri bir bürokrat ama biraz pislik bir bürokrat. Pislik olduğunu kendi de biliyor.
+   Tüm hayatı boyunca tek yaptığı diğer insanların hayatını daha sefil hale getirmek çünkü o kadar küskün ezilmiş ve zayıf ki.
+   Bürokratik pozisyonunu kötüye kullanmaktan azıcık önemsiz gücünü insanların üzerinde kullanmaktan hiç geri durmamış. Derken birazcık miras kalıyor ve işinden ayrılıyor.
+   Bu da onun itirafı. Yeraltından notlar. O yeraltı adamı.
+   <br/><br/>
+   Olağanüstü bir kitap. Bariz biçimde komik. Psikolojik olarak da o kadar canlı ki. Kitap yalnızca birkaç yüz sayfa uzunluğunda. 
+    <br/><br/>
+   Herneyse bu kişi o kadar kibirli, nihilistik ve içerlemiş ki hayatını kendisine haklı çıkarmaya çalışıyor. Sonuç olarak da çok kötü bir iş çıkartıyor. İçten kalmaya çalışmış olsa da dürüstlük var içerisinde. Sokaklarda fahişelik yapmak zorunda kalan bir kadınla tanışıyor. Çünkü Viktoryen çağda kadınlar için çok seçenek yok. Ekonomik sebeplerle kadın sokakta çalışmaya başlamış. Bir yanlış mesihlik havasına giriyor. Kadını kurtarmayı teklif ediyor. Fakat yapamaz çünkü faydasız kendisine faydası yok. Kadın tereddütlü olarak kabul ediyor. Binbir fedakarlıkla onu görmek üzere çıktığında ona onunla oynadığını ve şaka yaptığını anlatıyor. Kadının durumunu daha kötü hale getiriyor.
+    <br/><br/>
+   Bunu neden yaptığını biliyoruz. Çünkü kendisi söylüyor. Tövbe ediyor ve nasıl biri olduğunu söylüyor. Bu korkunç kişi zayıf ve kinci olduğunu biliyor. İtiraf ediyor ve diyor ki: Bak işte şimdi itiraf ettim! Şimdi daha iyiyim iyi bir insan oldum. Sonrasında iyi bir şey yapmaya çalışıyor. Ama bir santim bile değişmemiş. İtiraf yalnızca kendini iyi hissetmek için. Birine yardım etmeyi teklif ediyor ve ardından onu da aşağı çekiyor. Beraberce suyun altına boğuluyorlar. 
+    <br/><br/>
+ Dostoyevski ve Nietzche'yi paralel olarak okumak çok ilginç. Çünkü tabi ki Dostoyevski bir dramatist ve Nietzche ise bir filozof, sanki Dostoyevski dramayı yazmış Nietzche'de felsefi yorumları yapıyor gibi. Beraber okunduklarında çok güçlüler. Bu kısım yeraltından notlardan,
+   <br/><br/>
+   Kısacası insan dünya tarihi hakkında pek çok şey söyleyebilir. - en düzensiz hayallere girebilecek her şey - Tek söyleyemeyeceği tek şey rasyonel olduğudur. Kelimenin kendisi bile insanın boğazında kalıyor. (burada varoluşçuluktaki rasyonalite fikrinin eleştirisini görüyoruz. Dostoyevski diyor ki pek çok şey rasyonel prensiblerle ele alınabilir ama bir an için tarihi düşünün. Tarih bir katliam yeri. Bir felaket. Böyle bir şeyi nasıl rasyonel olarak değerlendirebilirsiniz? Dostoyevski'nin burada çıkarımı tarih gibi kompleks ve berbat bir şey karşısında rasyonalitenin kendi analizinin çalışmadığıdır.)<br/><br/>
+   Aslında işin garibi bu durumun sürekli tekrar etmesi. 
+   
+   
+   </div>
+ </div>
+
+
 Dostoyevski bu 150 sayfalık kısacık romanı taş ustası gibi oymuş. Çeviriden ötürü Dostoyevski'nin sanatını anlamamız zor. Ama bu kötü çevirilerden bile arkadaki güç hissediliyor. Tıpkı bir bağımsız sinema filmi gibi okuyucuda gri bir his bırakıyor. Bugün biraz Yeraltından Notlar'ın dünyasında yaşıyoruz aslında. Erdem sözleri söyleyenlerden ağzımız yandı. Şimdi ise bir karman çormanlık hakim.
 
 > "Daha o zamanlarda bile yeraltını ruhumda taşıyordum." - Yeraltından Notlar
@@ -57,25 +81,5 @@ I. Kitap'ta Süvari İle Takışma yalnızca Süvari İle Takışma olayına yer
 * "Gençliğine güvenme; o gün göz açıp kapayana kadar gelecek!"
 * "Öyle ya, belki yalnızca mutluluğu sevmiyordur insan? Belki aynı ölçüde acıyı da seviyordur? Belki acı da mutluluk kadar çıkarınadır?"
 * "Gerçek, tam bir hastalıktır. Sıradan bir bilinç, insanın yaşaması için fazlasıyla yeterlidir."
-
-[Jordan Peterson](https://en.wikipedia.org/wiki/Jordan_Peterson)'un derslerinde denk geldiğim bir [alıntının](https://www.youtube.com/watch?v=97jBvbmY03g]) kitabı samimiyetle okumamda çok etkisi oldu. Özellikle alıntı yaptığı *bir piyano tuşu olmamak için her şeyi yapmak* ile ilgili bölüm çok etkileyici. Kitabın İngilizce versiyonundaki anlatımın çok daha çarpıcı olduğunu eklemeliyim.
-
-<div style="" class="quote1"><div style="" class="quote2">Jordan Peterson on Dostoevsky's Notes From Underground - Çeviri</div><div style="" class="quote3">
-   Yeraltından notlar çok kısa bir kitap. Ana karakteri bir bürokrat ama biraz pislik bir bürokrat. Pislik olduğunu kendi de biliyor.
-   Tüm hayatı boyunca tek yaptığı diğer insanların hayatını daha sefil hale getirmek çünkü o kadar küskün ezilmiş ve zayıf ki.
-   Bürokratik pozisyonunu kötüye kullanmaktan azıcık önemsiz gücünü insanların üzerinde kullanmaktan hiç geri durmamış. Derken birazcık miras kalıyor ve işinden ayrılıyor.
-   Bu da onun itirafı. Yeraltından notlar. O yeraltı adamı.
-   </br>
-   Olağanüstü bir kitap. Bariz biçimde komik. Psikolojik olarak da o kadar canlı ki. Kitap yalnızca birkaç yüz sayfa uzunluğunda. 
-    </br>
-   Herneyse bu kişi o kadar kibirli, nihilistik ve içerlemiş ki hayatını kendisine haklı çıkarmaya çalışıyor. Sonuç olarak da çok kötü bir iş çıkartıyor. İçten kalmaya çalışmış olsa da dürüstlük var içerisinde. Sokaklarda fahişelik yapmak zorunda kalan bir kadınla tanışıyor. Çünkü Viktoryen çağda kadınlar için çok seçenek yok. Ekonomik sebeplerle kadın sokakta çalışmaya başlamış. Bir yanlış mesihlik havasına giriyor. Kadını kurtarmayı teklif ediyor. Fakat yapamaz çünkü faydasız kendisine faydası yok. Kadın tereddütlü olarak kabul ediyor. Binbir fedakarlıkla onu görmek üzere çıktığında ona onunla oynadığını ve şaka yaptığını anlatıyor. Kadının durumunu daha kötü hale getiriyor.
-    </br>
-   Bunu neden yaptığını biliyoruz. Çünkü kendisi söylüyor. Tövbe ediyor ve nasıl biri olduğunu söylüyor. Bu korkunç kişi zayıf ve kinci olduğunu biliyor. İtiraf ediyor ve diyor ki: Bak işte şimdi itiraf ettim! Şimdi daha iyiyim iyi bir insan oldum. Sonrasında iyi bir şey yapmaya çalışıyor. Ama bir santim bile değişmemiş. İtiraf yalnızca kendini iyi hissetmek için. Birine yardım etmeyi teklif ediyor ve ardından onu da aşağı çekiyor. Beraberce suyun altına boğuluyorlar. 
-    </br>
- Dostoyevski ve Nietzche'yi paralel olarak okumak çok ilginç. Çünkü tabi ki Dostoyevski bir dramatist ve Nietzche ise bir filozof, sanki Dostoyevski dramayı yazmış Nietzche'de felsefi yorumları yapıyor gibi. Beraber okunduklarında çok güçlüler. <br/>Bu kısım yeraltından notlardan,
-   
-   Kısacası insan dünya tarihi hakkında pek çok şey söyleyebilir. - en düzensiz hayallere girebilecek her şey - Tek söyleyemeyeceği tek şey rasyonel olduğudur. Kelimenin kendisi bile insanın boğazında kalıyor. (burada varoluşçuluktaki rasyonalite fikrinin eleştirisini görüyoruz.)
-   </div>
- </div>
 
 Daha sonra Karamazov Kardeşler'ini okumayı düşünüyorum. Suç ve Ceza, Budala ve Ecinniler okumak istediğim kitaplar arasında. Yeraltından Notlar'a etkisinden sonra Çernişevski'nin Ne Yapmalı'sı da ilgimi çektiğini söylemeliyim.
