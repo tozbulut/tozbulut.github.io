@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<div style="flex: 0 0 66.666667%; max-width: 66.666667%;">
   {% for post in site.posts %}
   <div style="display: flex;padding-bottom: 1rem;">
   
@@ -28,3 +29,7 @@ redirect_from:
   
 </div>
 {% endfor %}
+</div>
+<div style="flex: 0 0 33.333333%; max-width: 33.333333%;">
+	Test3
+</div>
