@@ -21,8 +21,11 @@ redirect_from:
   </div>
   
   <div style="width:64.84%; padding-left: 1rem;">
+	<div>
     <div>Category</div>
     <div><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></div>
+	</div>
+	  
     <div><a href="{{ post.url }}">{{ post.title }}</a></div>
     <div>{{ post.description }}</div>
     <div>Yazıyı Oku</div>
