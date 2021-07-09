@@ -9,7 +9,7 @@ redirect_from:
 ---
 
   {% for post in site.posts %}
-  <div class="">
+  <div style="display: flex;padding-bottom: 1rem;">
   
   <div style="width:35.16%">
 	<div>
