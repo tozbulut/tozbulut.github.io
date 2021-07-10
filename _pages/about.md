@@ -21,9 +21,9 @@ redirect_from:
   </div>
   
   <div style="width:64.84%; padding-left: 1rem;">
-	<div>
-    <div>Category</div>
-    <div><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></div>
+	<div style="display: flex;">
+    <div style="width: 50%;">Category</div>
+    <div style="width: 50%;"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></div>
 	</div>
 	  
     <div style=""><a style="padding-top: 1rem; font-weight: bold; font-size: 24px; line-height: 30px; color: #212529; text-decoration: none;" href="{{ post.url }}">{{ post.title }}</a></div>
