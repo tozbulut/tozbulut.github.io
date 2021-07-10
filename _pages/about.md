@@ -27,8 +27,11 @@ redirect_from:
 	</div>
 	  
     <div style="display: flex;"><a style="padding-top: 1rem; font-weight: bold; font-size: 24px; line-height: 30px; color: #212529; text-decoration: none;" href="{{ post.url }}">{{ post.title }}</a></div>
-    <div>{{ post.description }}</div>
-    <div>Yazıyı Oku</div>
+	  <div style="display: flex;"><div style=" padding-top: 1rem;">{{ post.description }}</div></div>
+    <div style="display: flex;">
+	    <div style="width: 50%;">Yazıyı Oku</div>
+	    <div style="width: 50%;">Yazıyı Oku</div>
+	    </div>
   </div>
   
 </div>
