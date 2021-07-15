@@ -1,33 +1,33 @@
 {
-  "name": "minimal-mistakes",
-  "version": "3.4.2",
-  "description": "Minimal Mistakes Jekyll theme npm build scripts",
+  "name": "jekyll-bootstrap-theme",
+  "version": "1.1.0",
+  "description": "A basic but extensible Jekyll theme based on Bootstrap 5.",
+  "main": "index.js",
+  "scripts": {
+    "assets:clean": "rm -rf assets/js && rm -rf _sass/bootstrap && rm -rf assets/css/fonts && rm -rf assets/css/bootstrap-icons.css",
+    "assets:copy:js": "mkdir -p assets/js && cp node_modules/bootstrap/dist/js/bootstrap.bundle.min.* assets/js/",
+    "assets:copy:scss": "mkdir -p _sass/bootstrap && cp -a node_modules/bootstrap/scss/. _sass/bootstrap/",
+    "assets:copy:fonts": "mkdir -p assets/css/fonts && cp -a node_modules/bootstrap-icons/font/fonts/* assets/css/fonts/",
+    "assets:copy:css": "mkdir -p assets/css && cp -a node_modules/bootstrap-icons/font/bootstrap-icons.css assets/css/",
+    "assets:install": "yarn run assets:copy:js && yarn run assets:copy:scss && yarn run assets:copy:fonts && yarn run assets:copy:css",
+    "build": "yarn run assets:install && bundle exec jekyll build",
+    "serve": "yarn run assets:install && bundle exec jekyll serve --livereload"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git+https://github.com/jonaharagon/jekyll-bootstrap-theme.git"
   },
   "keywords": [
-    "jekyll",
-    "theme",
-    "minimal"
+    "jekyll"
   ],
-  "author": "Michael Rose",
+  "author": "Jonah Aragon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/jonaharagon/jekyll-bootstrap-theme/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
-  "engines": {
-    "node": ">= 0.10.0"
-  },
-  "devDependencies": {
-    "npm-run-all": "^1.7.0",
-    "onchange": "^2.2.0",
-    "uglify-js": "^2.6.1"
-  },
-  "scripts": {
-    "uglify": "uglifyjs assets/js/vendor/jquery/jquery-1.12.4.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/plugins/stickyfill.min.js assets/js/_main.js -c -m -o assets/js/main.min.js",
-    "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
-    "build:js": "npm run uglify"
+  "homepage": "https://github.com/jonaharagon/jekyll-bootstrap-theme#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "bootstrap-icons": "^1.5.0"
   }
 }

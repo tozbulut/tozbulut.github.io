@@ -1,22 +1,21 @@
----
-layout: compress
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-{% include base_path %}
+  {%- include head.html -%}
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+  <body class="d-flex flex-column vw-100 vh-100">
 
-  <body>
+    {%- include header.html -%}
 
-    {% include browser-upgrade.html %}
-    {{ content }}
-  
-    {% include scripts.html %}
+    <main class="page-content py-5 flex-shrink-0" aria-label="Content">
+      <div class="container">
+      {{ content }}
+      </div>
+    </main>
 
+    {%- include footer.html -%}
+
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
   </body>
+
 </html>
