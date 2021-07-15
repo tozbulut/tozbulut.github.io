@@ -11,7 +11,7 @@ redirect_from:
 <div style="display: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -15px;">
 <div style="flex: 0 0 66.666667%; max-width: 66.666667%;">
   {% for post in site.posts %}
-  <div style="display: flex;padding-bottom: 1rem;">
+  <div style="display: flex;padding-bottom: 48px; padding-top: 12px;min-height: 337px;">
   
   <div style="width:35.16%">
 	<div>
@@ -42,3 +42,5 @@ redirect_from:
 </div>
 
 </div>
+
+
