@@ -1,8 +1,14 @@
 <div class="row align-items-md-stretch py-4">
 
-  <div class="col-md-10">
-  
-              {% if site.paginate %}
+  <div class="col-md-8">
+    <div class="col-md-2">
+    
+    </div>
+    <div class="col-md-10">
+    
+    
+    
+     {% if site.paginate %}
           {% assign posts = paginator.posts %}
           {% else %}
           {% assign posts = site.posts %}
@@ -50,13 +56,19 @@
 
           {%- endif -%}
 
+    
+    
+    
+    </div>
+    
+             
         
   </div>
   
   
   
   
-  <div class="col-md-2">
+  <div class="col-md-4">
     <ul>
       <li>Bu Blog Hakkında</li>
       <li>Lisans ve Kullanım Koşulları</li>
