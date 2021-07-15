@@ -7,8 +7,8 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-
-
+  
+  
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
@@ -18,24 +18,24 @@ layout: default
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+      <h2>{{ page.list_title }}</h2>
     {%- endif -%}
-    <ul class="post-list list-unstyled">
+    <div>
       {%- assign date_format = site.bootstrap.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-      <li class="mb-5">
-        <span class="post-meta text-muted">{{ post.date | date: date_format }}</span>
+      <div class="mb-5">
+        <span class="post-meta2 text-muted">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link text-decoration-none" href="{{ post.url | relative_url }}">
+          <a class="post-link2 text-decoration-none" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
         {%- if site.excerpts.show -%}
           {%- if site.excerpts.auto_truncate -%}{{ post.excerpt | truncatewords: 32 }}{%- else -%}{{ post.excerpt }}{%- endif -%}
         {%- endif -%}
-      </li>
+      </div>
       {%- endfor -%}
-    </ul>
+    </div>
 
     {% if site.paginate %}
       <div class="pager">
